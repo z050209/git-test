@@ -38,7 +38,10 @@ jobs:
           find . -type f -name "job_results_*.json" -exec mv {} results/ \;
 
       - name: Debug results
-        run: ls -R results
+        run: ls -R results 
 
       - name: Commit results to main
-        uses: stefanzweifel/git
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Daily job results"
+          file_pattern: results/*.json
