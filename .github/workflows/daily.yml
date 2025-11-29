@@ -30,7 +30,8 @@ jobs:
       - name: Move files
         run: |
           mkdir -p results
-          mv job_results_*.json results/
+          find . -type f -name "job_results_*.json" -exec mv {} results/ \;
+
 
       - name: Push to data-history branch
         uses: stefanzweifel/git-auto-commit-action@v5
