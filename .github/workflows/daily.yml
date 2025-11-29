@@ -2,8 +2,8 @@ name: Daily Job Search
 
 on:
   schedule:
-    - cron: "0 4 * * *"  # 12:00 GMT+8 = 04:00 UTC
-  workflow_dispatch: {}  # 手动触发测试
+    - cron: "0 4 * * *"
+  workflow_dispatch:
 
 jobs:
   run-job-search:
@@ -31,5 +31,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: search_results
-          path: search_result/*.txt
+          path: search_result/*
           if-no-files-found: ignore
