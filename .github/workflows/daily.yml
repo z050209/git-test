@@ -31,5 +31,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: search_results
-          path: *.json
+          path: "*.json"
           if-no-files-found: ignore
