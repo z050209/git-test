@@ -39,3 +39,5 @@ jobs:
           commit_message: "Daily job results"
           branch: data-history
           file_pattern: results/*.json
+      - name: Debug workspace
+        run: ls -R .
