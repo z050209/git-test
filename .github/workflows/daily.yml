@@ -1,8 +1,11 @@
 name: Daily Job Search
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "0 4 * * *"    # 每天新加坡时间中午12点
   workflow_dispatch:
 
 jobs:
@@ -13,31 +16,29 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # 必须
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install deps
-        run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
 
-      - name: Run search
+      - name: Run script
         run: python run.py
 
-      # 把生成文件放入 results/
-      - name: Move files
+      - name: Prepare results folder
         run: |
           mkdir -p results
           find . -type f -name "job_results_*.json" -exec mv {} results/ \;
 
+      - name: Debug results
+        run: ls -R results
 
-      - name: Push to data-history branch
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Daily job results"
-          branch: data-history
-          file_pattern: results/*.json
-      - name: Debug workspace
-        run: ls -R .
+      - name: Commit results to main
+        uses: stefanzweifel/git
