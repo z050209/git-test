@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-30T00:41:04.224798Z",
+  "generated_at": "2025-11-30T00:57:39.943769Z",
   "source": "openalex",
-  "from_date": "2025-06-01",
+  "from_date": "2024-11-30",
   "people": [
     {
       "name": "Christopher D. Manning",
@@ -110,6 +110,16 @@
           "venue": "arXiv (Cornell University)",
           "open_access": "green",
           "url": "http://arxiv.org/abs/2506.03989"
+        },
+        {
+          "id": "https://openalex.org/W4414858647",
+          "title": "Drop Dropout on Single-Epoch Language Model Pretraining",
+          "publication_date": "2025-05-30",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2505.24788",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2505.24788"
         }
       ]
     },
@@ -192,6 +202,46 @@
           "venue": null,
           "open_access": "gold",
           "url": "https://doi.org/10.15607/rss.2025.xxi.017"
+        },
+        {
+          "id": "https://openalex.org/W4414887463",
+          "title": "MedHELM: Holistic Evaluation of Large Language Models for Medical Tasks",
+          "publication_date": "2025-05-26",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2505.23802",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2505.23802"
+        },
+        {
+          "id": "https://openalex.org/W4415328595",
+          "title": "BountyBench: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems",
+          "publication_date": "2025-05-21",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2505.15216",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2505.15216"
+        },
+        {
+          "id": "https://openalex.org/W4416045206",
+          "title": "The Mighty ToRR: A Benchmark for Table Reasoning and Robustness",
+          "publication_date": "2025-02-26",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2502.19412",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2502.19412"
+        },
+        {
+          "id": "https://openalex.org/W4407759300",
+          "title": "Independence Tests for Language Models",
+          "publication_date": "2025-02-17",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2502.12292",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2502.12292"
         }
       ]
     },
@@ -338,6 +388,26 @@
           "venue": "Environmental Pollution",
           "open_access": "hybrid",
           "url": "https://doi.org/10.1016/j.envpol.2025.127228"
+        },
+        {
+          "id": "https://openalex.org/W4415649191",
+          "title": "Split Pick-Up and Delivery Vehicle Routing Problem with Cross-Docks",
+          "publication_date": "2025-01-01",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.2139/ssrn.5676919",
+          "venue": "SSRN Electronic Journal",
+          "open_access": "green",
+          "url": "https://doi.org/10.2139/ssrn.5676919"
+        },
+        {
+          "id": "https://openalex.org/W4405131089",
+          "title": "A parametric method to enhance decision-making in airport terminal development",
+          "publication_date": "2024-12-07",
+          "publication_year": 2024,
+          "doi": "https://doi.org/10.1016/j.jairtraman.2024.102722",
+          "venue": "Journal of Air Transport Management",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1016/j.jairtraman.2024.102722"
         }
       ]
     },
@@ -378,6 +448,86 @@
           "venue": "Nature Machine Intelligence",
           "open_access": "closed",
           "url": "https://doi.org/10.1038/s42256-025-01038-2"
+        },
+        {
+          "id": "https://openalex.org/W4411233371",
+          "title": "Crossed Bit Line (CBL) Architecture in 3D Flash Memory CMOS Directly Bonded to Array (CBA) Structure",
+          "publication_date": "2025-05-18",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1109/imw61990.2025.11026939",
+          "venue": null,
+          "open_access": "closed",
+          "url": "https://doi.org/10.1109/imw61990.2025.11026939"
+        },
+        {
+          "id": "https://openalex.org/W4409331976",
+          "title": "A case of an alpha-fetoprotein-producing intrahepatic cholangiocarcinoma",
+          "publication_date": "2025-04-10",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1007/s12328-025-02127-w",
+          "venue": "Clinical Journal of Gastroenterology",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1007/s12328-025-02127-w"
+        },
+        {
+          "id": "https://openalex.org/W4415329948",
+          "title": "Reasoning to Learn from Latent Thoughts",
+          "publication_date": "2025-03-24",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2503.18866",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2503.18866"
+        },
+        {
+          "id": "https://openalex.org/W4416044901",
+          "title": "FSPO: Few-Shot Preference Optimization of Synthetic Preference Data in LLMs Elicits Effective Personalization to Real Users",
+          "publication_date": "2025-02-26",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2502.19312",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2502.19312"
+        },
+        {
+          "id": "https://openalex.org/W4407425893",
+          "title": "Auditing Prompt Caching in Language Model APIs",
+          "publication_date": "2025-02-11",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2502.07776",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2502.07776"
+        },
+        {
+          "id": "https://openalex.org/W4407131686",
+          "title": "Eliciting Language Model Behaviors with Investigator Agents",
+          "publication_date": "2025-02-03",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2502.01236",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2502.01236"
+        },
+        {
+          "id": "https://openalex.org/W4407184860",
+          "title": "CTC-DRO: Robust Optimization for Reducing Language Disparities in Speech Recognition",
+          "publication_date": "2025-02-03",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2502.01777",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2502.01777"
+        },
+        {
+          "id": "https://openalex.org/W4407092048",
+          "title": "s1: Simple test-time scaling",
+          "publication_date": "2025-01-31",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2501.19393",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2501.19393"
         }
       ]
     },
@@ -466,6 +616,36 @@
           "venue": "arXiv (Cornell University)",
           "open_access": "green",
           "url": "http://arxiv.org/abs/2506.12605"
+        },
+        {
+          "id": "https://openalex.org/W4414586052",
+          "title": "Knoll: Creating a Knowledge Ecosystem for Large Language Models",
+          "publication_date": "2025-05-25",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2505.19335",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2505.19335"
+        },
+        {
+          "id": "https://openalex.org/W4410049701",
+          "title": "The Practice of Online Peer Counseling and the Potential for AI-Powered Support Tools",
+          "publication_date": "2025-05-02",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1145/3711089",
+          "venue": "Proceedings of the ACM on Human-Computer Interaction",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1145/3711089"
+        },
+        {
+          "id": "https://openalex.org/W4410061086",
+          "title": "<i>Helping the Helper</i> : Supporting Peer Counselors via AI-Empowered Practice and Feedback",
+          "publication_date": "2025-05-02",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1145/3710993",
+          "venue": "Proceedings of the ACM on Human-Computer Interaction",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1145/3710993"
         }
       ]
     },
@@ -565,6 +745,26 @@
           "venue": "npj Digital Medicine",
           "open_access": "gold",
           "url": "https://doi.org/10.1038/s41746-025-01730-y"
+        },
+        {
+          "id": "https://openalex.org/W4413925997",
+          "title": "A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards",
+          "publication_date": "2025-05-19",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1109/icra55743.2025.11127585",
+          "venue": null,
+          "open_access": "closed",
+          "url": "https://doi.org/10.1109/icra55743.2025.11127585"
+        },
+        {
+          "id": "https://openalex.org/W4413926173",
+          "title": "Chain-of-Modality: Learning Manipulation Programs from Multimodal Human Videos with Vision-Language-Models",
+          "publication_date": "2025-05-19",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1109/icra55743.2025.11128270",
+          "venue": null,
+          "open_access": "closed",
+          "url": "https://doi.org/10.1109/icra55743.2025.11128270"
         }
       ]
     },
@@ -828,6 +1028,66 @@
           "venue": null,
           "open_access": "closed",
           "url": "https://doi.org/10.1109/cvpr52734.2025.00242"
+        },
+        {
+          "id": "https://openalex.org/W4415339007",
+          "title": "Systems and Algorithms for Convolutional Multi-Hybrid Language Models at Scale",
+          "publication_date": "2025-02-25",
+          "publication_year": 2025,
+          "doi": null,
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2503.01868"
+        },
+        {
+          "id": "https://openalex.org/W4416042299",
+          "title": "Minions: Cost-efficient Collaboration Between On-device and Cloud Language Models",
+          "publication_date": "2025-02-21",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2502.15964",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2502.15964"
+        },
+        {
+          "id": "https://openalex.org/W4407683692",
+          "title": "KernelBench: Can LLMs Write Efficient GPU Kernels?",
+          "publication_date": "2025-02-14",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2502.10517",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2502.10517"
+        },
+        {
+          "id": "https://openalex.org/W4406841380",
+          "title": "CodeMonkeys: Scaling Test-Time Compute for Software Engineering",
+          "publication_date": "2025-01-24",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2501.14723",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2501.14723"
+        },
+        {
+          "id": "https://openalex.org/W4406202452",
+          "title": "SMOOTHIE: Label Free Language Model Routing",
+          "publication_date": "2025-01-09",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.32388/f319w4",
+          "venue": null,
+          "open_access": "gold",
+          "url": "https://doi.org/10.32388/f319w4"
+        },
+        {
+          "id": "https://openalex.org/W4405765372",
+          "title": "Context Clues: Evaluating Long Context Models for Clinical Prediction Tasks on EHRs",
+          "publication_date": "2024-12-09",
+          "publication_year": 2024,
+          "doi": "https://doi.org/10.48550/arxiv.2412.16178",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2412.16178"
         }
       ]
     },
@@ -916,6 +1176,36 @@
           "venue": "arXiv (Cornell University)",
           "open_access": "green",
           "url": "http://arxiv.org/abs/2506.01185"
+        },
+        {
+          "id": "https://openalex.org/W4413918789",
+          "title": "Efficiently Generating Expressive Quadruped Behaviors via Language-Guided Preference Learning",
+          "publication_date": "2025-05-19",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1109/icra55743.2025.11128740",
+          "venue": null,
+          "open_access": "closed",
+          "url": "https://doi.org/10.1109/icra55743.2025.11128740"
+        },
+        {
+          "id": "https://openalex.org/W4413926047",
+          "title": "Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning",
+          "publication_date": "2025-05-19",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1109/icra55743.2025.11128834",
+          "venue": null,
+          "open_access": "closed",
+          "url": "https://doi.org/10.1109/icra55743.2025.11128834"
+        },
+        {
+          "id": "https://openalex.org/W4413917131",
+          "title": "RoboCrowd: Scaling Robot Data Collection Through Crowdsourcing",
+          "publication_date": "2025-05-19",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1109/icra55743.2025.11127402",
+          "venue": null,
+          "open_access": "closed",
+          "url": "https://doi.org/10.1109/icra55743.2025.11127402"
         }
       ]
     },
@@ -974,6 +1264,36 @@
           "venue": "NEJM AI",
           "open_access": "bronze",
           "url": "https://doi.org/10.1056/aidbp2500144"
+        },
+        {
+          "id": "https://openalex.org/W4407629689",
+          "title": "MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents",
+          "publication_date": "2025-02-17",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.32388/vn3yh7",
+          "venue": null,
+          "open_access": "gold",
+          "url": "https://doi.org/10.32388/vn3yh7"
+        },
+        {
+          "id": "https://openalex.org/W4406841370",
+          "title": "MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents",
+          "publication_date": "2025-01-24",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2501.14654",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2501.14654"
+        },
+        {
+          "id": "https://openalex.org/W4409155424",
+          "title": "The Stratospheric Aerosol Injection (SAI) Simulator: An Open-Source Web Tool for Exploring Climate and SAI Deployment Scenarios",
+          "publication_date": "2025-01-01",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.2139/ssrn.5200736",
+          "venue": "SSRN Electronic Journal",
+          "open_access": "green",
+          "url": "https://doi.org/10.2139/ssrn.5200736"
         }
       ]
     },
@@ -1041,6 +1361,56 @@
           "venue": "arXiv (Cornell University)",
           "open_access": "green",
           "url": "http://arxiv.org/abs/2506.02298"
+        },
+        {
+          "id": "https://openalex.org/W4415247640",
+          "title": "VLM Q-Learning: Aligning Vision-Language Models for Interactive Decision-Making",
+          "publication_date": "2025-05-06",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2505.03181",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2505.03181"
+        },
+        {
+          "id": "https://openalex.org/W4415980674",
+          "title": "APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay",
+          "publication_date": "2025-04-04",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2504.03601",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2504.03601"
+        },
+        {
+          "id": "https://openalex.org/W4409060711",
+          "title": "Protecting Images From Manipulations With Deep Optical Signatures",
+          "publication_date": "2025-04-01",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1109/jstsp.2025.3554136",
+          "venue": "IEEE Journal of Selected Topics in Signal Processing",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1109/jstsp.2025.3554136"
+        },
+        {
+          "id": "https://openalex.org/W4415085973",
+          "title": "Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas",
+          "publication_date": "2025-03-03",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2503.01773",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2503.01773"
+        },
+        {
+          "id": "https://openalex.org/W4406033489",
+          "title": "Unifying Specialized Visual Encoders for Video Language Models",
+          "publication_date": "2025-01-02",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2501.01426",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2501.01426"
         }
       ]
     },
@@ -1119,6 +1489,46 @@
           "venue": null,
           "open_access": "closed",
           "url": "https://doi.org/10.1145/3715275.3732048"
+        },
+        {
+          "id": "https://openalex.org/W4408666990",
+          "title": "Effective Mitigations for Systemic Risks from General-Purpose AI",
+          "publication_date": "2025-03-16",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.70777/si.v2i1.13975",
+          "venue": "SuperIntelligence - Robotics - Safety & Alignment",
+          "open_access": "bronze",
+          "url": "https://doi.org/10.70777/si.v2i1.13975"
+        },
+        {
+          "id": "https://openalex.org/W4416030422",
+          "title": "Toward an Evaluation Science for Generative AI Systems",
+          "publication_date": "2025-03-07",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2503.05336",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2503.05336"
+        },
+        {
+          "id": "https://openalex.org/W4414844096",
+          "title": "Beyond Release: Access Considerations for Generative AI Systems",
+          "publication_date": "2025-02-23",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2502.16701",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2502.16701"
+        },
+        {
+          "id": "https://openalex.org/W4406975817",
+          "title": "International AI Safety Report",
+          "publication_date": "2025-01-29",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2501.17805",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2501.17805"
         }
       ]
     }

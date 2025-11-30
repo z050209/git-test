@@ -5,43 +5,99 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 4 * * *"   
-  workflow_dispatch: 
+    - cron: "0 4 * * *"   # EVERY DAY 12:00 Singapore Time (UTC+8)
+  workflow_dispatch:      # Manual trigger
 
 jobs:
   run-job-search:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      # ---------------------------
+      # 1. Checkout
+      # ---------------------------
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
+      # ---------------------------
+      # 2. Install Python
+      # ---------------------------
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
+      # ---------------------------
+      # 3. Dependencies
+      # ---------------------------
       - name: Install dependencies
         run: |
+          pip install --upgrade pip
           if [ -f requirements.txt ]; then
             pip install -r requirements.txt
           fi
 
-      - name: Run script
-        run: python run.py
+      # ---------------------------
+      # 4. Run crawler script
+      # ---------------------------
+      - name: Run job crawler
+        run: |
+          python run.py
 
-      - name: Prepare results folder
+      # ---------------------------
+      # 5. Move job results → results/
+      # ---------------------------
+      - name: Collect JSON outputs
         run: |
           mkdir -p results
-          find . -type f -name "job_results_*.json" -exec mv {} results/ \;
+          find . -maxdepth 2 -type f -name "job_results_*.json" -exec mv {} results/ \;
 
+      # ---------------------------
+      # 6. Generate HTML dashboards
+      # ---------------------------
+      - name: Build dashboards
+        run: |
+          for f in results/job_results_*.json; do
+            echo "➡️ Build dashboard for $f"
+            python build_jobs_dashboard.py --in-json "$f"
+          done
+
+      # ---------------------------
+      # 7. Cleanup old job history (> 30 days)
+      # ---------------------------
+      - name: Cleanup old job files (30d)
+        run: |
+          echo "🧹 Deleting JSON older than 30 days"
+          find results -type f -name "job_results_*.json" -mtime +30 -print -delete || true
+          echo "🧹 Deleting HTML older than 30 days"
+          find results -type f -name "job_results_*.html" -mtime +30 -print -delete || true
+
+      # 保留最近 30 份（防止意外）
+      - name: Cleanup excess files (>30)
+        run: |
+          echo "🔐 Keep newest 30 JSON"
+          ls -t results/job_results_*.json | tail -n +31 | xargs -r rm
+          echo "🔐 Keep newest 30 HTML"
+          ls -t results/job_results_*.html | tail -n +31 | xargs -r rm
+
+      # ---------------------------
+      # 8. Debug (optional)
+      # ---------------------------
       - name: Debug results
-        run: ls -R results 
+        run: |
+          echo "--- RESULTS JSON ---"
+          ls -l results | grep .json
+          echo "--- RESULTS HTML ---"
+          ls -l results | grep .html
 
-      - name: Commit results to main
+      # ---------------------------
+      # 9. Auto Commit
+      # ---------------------------
+      - name: Commit updated results
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Daily job results"
-          file_pattern: results/*.json
+          commit_message: "Daily Job Update + Dashboard"
+          file_pattern: results/*
+          push_options: '--force-with-lease'

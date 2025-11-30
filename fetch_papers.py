@@ -313,8 +313,6 @@ def parse_args() -> argparse.Namespace:
         help="Sleep seconds between API calls (be nice to OpenAlex).",
     )
     return parser.parse_args()
-
-
 def main() -> None:
     args = parse_args()
 
@@ -328,14 +326,25 @@ def main() -> None:
     print(f"[INFO] Using from_date = {from_date}")
     print(f"[INFO] Loading people from {args.people_json}")
 
+    # ---------- 自动生成带 timestamp 的文件名 ----------
+    out_path = args.out_json
+    if out_path == DEFAULT_OUT_JSON:  # only auto timestamp when user uses default
+        ts = dt.datetime.now().strftime("%Y%m%d_%H%M%S")
+        out_name = f"stanford_ai_papers_openalex_{ts}.json"
+        out_path = Path("results") / out_name
+        print(f"[INFO] Auto output filename => {out_path}")
+    else:
+        print(f"[INFO] Using custom output => {out_path}")
+
+    # ---------- 执行抓取 ----------
     people_papers = collect_papers_for_people(
         people_json=args.people_json,
         from_date=from_date,
         max_papers=args.max_papers,
         sleep_sec=args.sleep_sec,
     )
-    save_results(args.out_json, people_papers, from_date=from_date)
 
+    save_results(out_path, people_papers, from_date=from_date)
 
 if __name__ == "__main__":
     main()
