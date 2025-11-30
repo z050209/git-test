@@ -1,0 +1,88 @@
+name: Daily Paper Fetch
+
+permissions:
+  contents: write
+
+on:
+  # 每天 UTC 5:00 = 新加坡下午 1:00
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch-papers:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout main
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      # 2. Reset workspace to remote main (防止分叉)
+      - name: Reset workspace
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+          git clean -fd
+
+      # 3. Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 4. Install deps
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      # 5. Run fetch papers
+      - name: Fetch AI papers
+        run: |
+          mkdir -p results
+          python fetch_papers.py --from-date 2025-06-01
+
+      # 6. Build dashboards
+      - name: Build paper dashboards
+        run: |
+          for json in results/stanford_ai_papers_*.json; do
+            echo "📄 Building dashboard for $json"
+            python build_html_dashboard.py --in-json "$json"
+          done
+
+      # 7. Cleanup old files (>30 days)
+      - name: Cleanup > 30 days
+        run: |
+          find results -type f -name "*.json" -mtime +30 -print -delete || true
+          find results -type f -name "*.html" -mtime +30 -print -delete || true
+
+      # 8. Keep newest 40 (papers grow slower than jobs)
+      - name: Keep newest 40
+        run: |
+          ls -t results/*.json | tail -n +41 | xargs -r rm
+          ls -t results/*.html | tail -n +41 | xargs -r rm
+
+      # 9. Commit & push to data-history
+      - name: Push paper results to data-history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin data-history || true
+          if git branch -r | grep -q "origin/data-history"; then
+            git checkout -B data-history origin/data-history
+          else
+            git checkout -B data-history
+          fi
+
+          git add results
+          if git diff --cached --quiet; then
+            echo "📎 No paper changes."
+          else
+            git commit -m "Daily AI paper fetch + dashboards"
+            git push origin data-history --force-with-lease
+          fi
