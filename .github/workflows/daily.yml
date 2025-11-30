@@ -13,14 +13,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout main（只用来拿代码）
+      # 1. Checkout main
       - name: Checkout main branch
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           ref: main
 
-      # 2. Reset 本地到远端 main，保证代码干净
+      # 2. Reset local HEAD to remote main
       - name: Reset local to remote main
         run: |
           git fetch origin main
@@ -39,7 +39,7 @@ jobs:
           pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      # 5. Run crawler
+      # 5. Run job crawler
       - name: Run job crawler
         run: python run.py
 
@@ -69,33 +69,28 @@ jobs:
           ls -t results/job_results_*.json | tail -n +31 | xargs -r rm
           ls -t results/job_results_*.html | tail -n +31 | xargs -r rm
 
-      # 🔟 Commit & push 到 data-history 分支（不再动 main）
+      # 10. Commit & push 到 data-history（自己用 git，不用第三方 action）
       - name: Commit and push to data-history
         run: |
           # 配置 git 用户
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # 把远端 data-history 拉下来（如果有的话）
+          # 把远端 data-history 拉下来（如果有）
           git fetch origin data-history || true
           if git branch -r | grep -q "origin/data-history"; then
-            # 如果远端已有 data-history，用它作为起点
             git checkout -B data-history origin/data-history
           else
-            # 否则从当前 main 建一个新的 data-history
             git checkout -B data-history
           fi
 
-          # 确保 results 目录在当前工作区
+          # 确认 results 存在
           ls -R
-          echo "Staging results/"
           git add results || true
 
-          # 没变化就不 commit
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
             git commit -m "Daily job scraping + dashboards"
-            # 推送到远端 data-history，避免历史冲突用 --force-with-lease
             git push origin data-history --force-with-lease
           fi
