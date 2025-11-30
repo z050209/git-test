@@ -1129,6 +1129,160 @@ def fetch_eleven_jobs():
         )
 
     return jobs
+def fetch_jobscentral_jobs():
+    """
+    JobsCentral 新加坡岗位（jobscentral.com.sg）
+    通过 ?title= 查询若干 AI/ML 相关关键词，再逐个进详情页过滤。
+    """
+    base_list_url = "https://jobscentral.com.sg/jobs"
+    base_domain = "https://jobscentral.com.sg"
+    search_terms = [
+        "research engineer",
+        "research scientist",
+        "machine learning",
+        "deep learning",
+        "ai engineer",
+        "ml engineer",
+        "data scientist",
+        "computer vision",
+        "nlp",
+        "generative",
+    ]
+
+    jobs = []
+    seen_links = set()
+
+    for term in search_terms:
+        query = term.replace(" ", "+")
+        list_url = f"{base_list_url}?title={query}&location=Singapore"
+        resp = safe_get(list_url)
+        if not resp:
+            continue
+
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        # JobsCentral 职位详情链接形如 /jobs/other-jobs/1035726
+        for a in soup.select("a[href*='/jobs/']"):
+            href = a.get("href")
+            if not href:
+                continue
+
+            # 排除顶部 “Browse jobs” 这种短链接（例如 "/jobs"）
+            if href.count("/") <= 2:
+                continue
+
+            link = urljoin(base_domain, href)
+
+            # 避免重复
+            if link in seen_links:
+                continue
+            seen_links.add(link)
+
+            # 进入详情页，拿更多文本用于过滤
+            detail_resp = safe_get(link)
+            if not detail_resp:
+                continue
+
+            detail_soup = BeautifulSoup(detail_resp.text, "html.parser")
+
+            # 标题：优先用 <h1>，退化到 <title> 或列表页上的文本
+            title_tag = detail_soup.find("h1") or detail_soup.find("h2")
+            if title_tag:
+                title = title_tag.get_text(strip=True)
+            else:
+                # 兜底：用详情页 title 标签或列表页 a 文本
+                if detail_soup.title:
+                    title = detail_soup.title.get_text(strip=True)
+                else:
+                    title = a.get_text(strip=True)
+
+            # 位置：JobsCentral 大部分都是新加坡岗位
+            location = "Singapore"
+
+            # snippet：整个页面文本，方便关键词过滤
+            snippet = detail_soup.get_text(" ", strip=True)
+
+            # 这里只能粗略给个 company，真正公司名结构比较散，就先不强行解析
+            company = "JobsCentral listing"
+
+            if not is_relevant_job(title, company, location, snippet=snippet):
+                continue
+
+            jobs.append(
+                {
+                    "company": company,
+                    "title": title,
+                    "location": location,
+                    "remote": detect_remote(location, snippet),
+                    "link": link,
+                    "source": "JobsCentral",
+                }
+            )
+
+    return jobs
+def fetch_mycareersfuture_jobs():
+    """
+    MyCareersFuture (CareersFuture Job Portal):
+    遍历多种 AI/ML 关键词，按新发职位排序。
+    """
+    base_url = "https://www.mycareersfuture.gov.sg/search"
+    query_terms = [
+        "research engineer",
+        "research scientist",
+        "machine learning",
+        "deep learning",
+        "ai engineer",
+        "ml engineer",
+        "data scientist",
+        "nlp",
+        "computer vision",
+        "generative",
+    ]
+
+    jobs = []
+    seen_links = set()
+
+    for term in query_terms:
+        search_param = term.replace(" ", "%20")
+        url = f"{base_url}?search={search_param}&sortBy=new_posting_date"
+        resp = safe_get(url)
+        if not resp:
+            continue
+
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        for card in soup.select("a[data-testid='job-card-link']"):
+            title = card.get_text(strip=True)
+            link = urljoin("https://www.mycareersfuture.gov.sg", card["href"])
+
+            if link in seen_links:
+                continue
+            seen_links.add(link)
+
+            parent = card.find_parent("div") or card
+            company_tag = parent.select_one("[data-testid='company-hire-info']")
+            location_tag = parent.select_one("[data-testid='job-location']")
+
+            company = company_tag.get_text(strip=True) if company_tag else "Unknown"
+            location = location_tag.get_text(strip=True) if location_tag else "Singapore"
+
+            snippet = parent.get_text(" ", strip=True)
+
+            if not is_relevant_job(title, company, location, snippet=snippet):
+                continue
+
+            jobs.append(
+                {
+                    "company": company,
+                    "title": title,
+                    "location": location,
+                    "remote": detect_remote(location, snippet),
+                    "link": link,
+                    "source": "MyCareersFuture",
+                }
+            )
+
+    return jobs
 
 
 # ========= 汇总 & 打印 =========
@@ -1159,6 +1313,9 @@ def collect_all_jobs():
         fetch_nus_jobs,
         fetch_ntu_jobs,
         fetch_sit_jobs,
+        fetch_mycareersfuture_jobs,  # CareersFuture job portal
+        fetch_jobscentral_jobs,      # JobsCentral 新增
+        # Remote 欧洲岗 / 海外科研
         # Remote 欧洲岗
         fetch_remoterocketship_jobs,
         fetch_mbzuai_jobs,

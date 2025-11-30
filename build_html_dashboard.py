@@ -69,6 +69,14 @@ def build_lab_index(people: List[Dict[str, Any]]) -> Dict[str, List[Dict[str, An
             by_lab[lab].append(p)
     return dict(by_lab)
 
+STATUS_ORDER = {
+    "faculty": 0,
+    "phd": 1,
+    "postdoc": 2,
+    "ms": 3,
+    "student": 4,
+    "other": 5,
+}
 
 def status_label(status: str) -> str:
     s = (status or "").lower()
@@ -99,6 +107,16 @@ def build_html(in_data: Dict[str, Any]) -> str:
             f"<button class='lab-chip' data-lab='{safe_lab_id}' "
             f"onclick=\"filterByLab('{safe_lab_id}')\">{html.escape(lab)}</button>"
         )
+    def person_sort_key(x: Dict[str, Any]):
+        raw_status = (x.get("status") or "").lower()
+        status_rank = STATUS_ORDER.get(raw_status, 99)
+        works_count = len(x.get("works") or [])
+        name = (x.get("name") or "").lower()
+        # status_rank：小的排前面
+        # works_count：负号保证论文数多的排前面
+        # name：正常字母序
+        return (status_rank, -works_count, name)
+ 
 
     # ---- Build main lab sections ----
     lab_sections = []
@@ -107,14 +125,8 @@ def build_html(in_data: Dict[str, Any]) -> str:
         safe_lab_id = html.escape(lab).replace(" ", "_").replace("&", "_").replace("/", "_")
 
         person_cards = []
-        for p in sorted(
-                people_in_lab,
-                key=lambda x: (
-                    len(x.get("works") or []),
-                    x.get("name", "")
-                ),
-                reverse=True
-            ):
+        for p in sorted(people_in_lab, key=person_sort_key):
+
             name = p.get("name", "")
             homepage = p.get("homepage") or ""
             status = status_label(p.get("status", ""))
