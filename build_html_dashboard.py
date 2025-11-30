@@ -71,7 +71,7 @@ def build_lab_index(people: List[Dict[str, Any]]) -> Dict[str, List[Dict[str, An
 
 STATUS_ORDER = {
     "faculty": 0,
-    "Researcher": 1,
+    "researcher": 1,
     "postdoc": 2,
     "phd": 3,
     "ms": 4,
@@ -85,9 +85,10 @@ def status_label(status: str) -> str:
         "faculty": "Faculty",
         "phd": "PhD",
         "postdoc": "Postdoc",
+        "researcher": "Researcher, Industry Researcher",
         "ms": "MS",
         "student": "Student",
-        "other": "Researcher",
+        "other": "Student",
     }
     return mapping.get(s, status.title() if status else "")
 
