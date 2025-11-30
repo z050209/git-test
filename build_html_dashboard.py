@@ -107,7 +107,14 @@ def build_html(in_data: Dict[str, Any]) -> str:
         safe_lab_id = html.escape(lab).replace(" ", "_").replace("&", "_").replace("/", "_")
 
         person_cards = []
-        for p in sorted(people_in_lab, key=lambda x: x.get("name", "")):
+        for p in sorted(
+                people_in_lab,
+                key=lambda x: (
+                    len(x.get("works") or []),
+                    x.get("name", "")
+                ),
+                reverse=True
+            ):
             name = p.get("name", "")
             homepage = p.get("homepage") or ""
             status = status_label(p.get("status", ""))

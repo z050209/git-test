@@ -2,11 +2,30 @@
   {
     "name": "Christopher D. Manning",
     "status": "faculty",
-    "labs": ["Stanford NLP Group", "SAIL", "HAI"],
-    "affiliations": ["Computer Science", "Linguistics"],
+    "labs": [
+      "Stanford NLP Group",
+      "SAIL",
+      "HAI"
+    ],
+    "affiliations": [
+      "Computer Science",
+      "Linguistics"
+    ],
     "homepage": "https://nlp.stanford.edu/~manning/",
-    "topics": ["nlp", "llm", "representation learning", "syntax", "semantics"],
-    "tags": ["core", "nlp", "stanford-nlp", "sail", "hai"],
+    "topics": [
+      "nlp",
+      "llm",
+      "representation learning",
+      "syntax",
+      "semantics"
+    ],
+    "tags": [
+      "core",
+      "nlp",
+      "stanford-nlp",
+      "sail",
+      "hai"
+    ],
     "notes": "Founder of Stanford NLP; Siebel Professor; former SAIL director.",
     "ids": {
       "google_scholar": "1zmDOdwAAAAJ",
@@ -17,11 +36,30 @@
   {
     "name": "Percy Liang",
     "status": "faculty",
-    "labs": ["CRFM", "Stanford NLP Group", "SAIL", "HAI", "ML Group"],
-    "affiliations": ["Computer Science"],
+    "labs": [
+      "CRFM",
+      "Stanford NLP Group",
+      "SAIL",
+      "HAI",
+      "ML Group"
+    ],
+    "affiliations": [
+      "Computer Science"
+    ],
     "homepage": "https://cs.stanford.edu/~pliang/",
-    "topics": ["foundation models", "llm", "alignment", "evaluation", "program synthesis"],
-    "tags": ["core", "crfm", "nlp", "foundation-models"],
+    "topics": [
+      "foundation models",
+      "llm",
+      "alignment",
+      "evaluation",
+      "program synthesis"
+    ],
+    "tags": [
+      "core",
+      "crfm",
+      "nlp",
+      "foundation-models"
+    ],
     "notes": "Director of CRFM; focused on foundation models and evaluation.",
     "ids": {
       "google_scholar": "pouyVyUAAAAJ",
@@ -32,11 +70,26 @@
   {
     "name": "Dan Jurafsky",
     "status": "faculty",
-    "labs": ["Stanford NLP Group", "SAIL"],
-    "affiliations": ["Computer Science", "Linguistics"],
+    "labs": [
+      "Stanford NLP Group",
+      "SAIL"
+    ],
+    "affiliations": [
+      "Computer Science",
+      "Linguistics"
+    ],
     "homepage": "https://web.stanford.edu/~jurafsky/",
-    "topics": ["nlp", "speech", "pragmatics", "computational linguistics"],
-    "tags": ["core", "nlp", "speech"],
+    "topics": [
+      "nlp",
+      "speech",
+      "pragmatics",
+      "computational linguistics"
+    ],
+    "tags": [
+      "core",
+      "nlp",
+      "speech"
+    ],
     "notes": "Co-author of 'Speech and Language Processing'; NLP & speech.",
     "ids": {
       "google_scholar": "xfOe2_MAAAAJ",
@@ -47,11 +100,23 @@
   {
     "name": "Chris Potts",
     "status": "faculty",
-    "labs": ["Stanford NLP Group", "HAI"],
-    "affiliations": ["Linguistics"],
+    "labs": [
+      "Stanford NLP Group",
+      "HAI"
+    ],
+    "affiliations": [
+      "Linguistics"
+    ],
     "homepage": "https://profiles.stanford.edu/christopher-potts",
-    "topics": ["nlp", "semantics", "pragmatics", "safety"],
-    "tags": ["nlp"],
+    "topics": [
+      "nlp",
+      "semantics",
+      "pragmatics",
+      "safety"
+    ],
+    "tags": [
+      "nlp"
+    ],
     "notes": "Works on semantics, pragmatics, and responsible NLP.",
     "ids": {
       "google_scholar": "yQzJq0QAAAAJ",
@@ -62,11 +127,27 @@
   {
     "name": "Tatsunori Hashimoto",
     "status": "faculty",
-    "labs": ["Stanford NLP Group", "SAIL", "HAI"],
-    "affiliations": ["Computer Science"],
+    "labs": [
+      "Stanford NLP Group",
+      "SAIL",
+      "HAI"
+    ],
+    "affiliations": [
+      "Computer Science"
+    ],
     "homepage": "https://thashim.github.io/",
-    "topics": ["llm", "evaluation", "robustness", "alignment", "statistics"],
-    "tags": ["core", "eval", "alignment"],
+    "topics": [
+      "llm",
+      "evaluation",
+      "robustness",
+      "alignment",
+      "statistics"
+    ],
+    "tags": [
+      "core",
+      "eval",
+      "alignment"
+    ],
     "notes": "Works on evaluation, robustness, and statistics for ML/LLMs.",
     "ids": {
       "google_scholar": "yVQvpYAAAAAJ",
@@ -77,11 +158,24 @@
   {
     "name": "Diyi Yang",
     "status": "faculty",
-    "labs": ["Stanford NLP Group", "HAI"],
-    "affiliations": ["Computer Science"],
+    "labs": [
+      "Stanford NLP Group",
+      "HAI"
+    ],
+    "affiliations": [
+      "Computer Science"
+    ],
     "homepage": "https://cs.stanford.edu/~diyiy/",
-    "topics": ["nlp", "social nlp", "evaluation", "safety"],
-    "tags": ["nlp", "social"],
+    "topics": [
+      "nlp",
+      "social nlp",
+      "evaluation",
+      "safety"
+    ],
+    "tags": [
+      "nlp",
+      "social"
+    ],
     "notes": "Focus on social aspects of NLP, evaluation, and human-centered NLP.",
     "ids": {
       "google_scholar": "pRFev50AAAAJ",
@@ -92,11 +186,26 @@
   {
     "name": "Fei-Fei Li",
     "status": "faculty",
-    "labs": ["Vision & Learning Lab", "SAIL", "HAI"],
-    "affiliations": ["Computer Science"],
+    "labs": [
+      "Vision & Learning Lab",
+      "SAIL",
+      "HAI"
+    ],
+    "affiliations": [
+      "Computer Science"
+    ],
     "homepage": "https://profiles.stanford.edu/fei-fei-li",
-    "topics": ["computer vision", "multimodal", "robotics", "healthcare"],
-    "tags": ["core", "vision", "hai"],
+    "topics": [
+      "computer vision",
+      "multimodal",
+      "robotics",
+      "healthcare"
+    ],
+    "tags": [
+      "core",
+      "vision",
+      "hai"
+    ],
     "notes": "Co-director of HAI; vision, multimodal perception, and human-centered AI.",
     "ids": {
       "google_scholar": "rDfyQnIAAAAJ",
@@ -107,11 +216,27 @@
   {
     "name": "Chelsea Finn",
     "status": "faculty",
-    "labs": ["IRIS", "SAIL", "ML Group"],
-    "affiliations": ["Computer Science", "Electrical Engineering"],
+    "labs": [
+      "IRIS",
+      "SAIL",
+      "ML Group"
+    ],
+    "affiliations": [
+      "Computer Science",
+      "Electrical Engineering"
+    ],
     "homepage": "https://ai.stanford.edu/~cbfinn/",
-    "topics": ["robotics", "rl", "meta-learning", "embodied ai"],
-    "tags": ["robotics", "rl", "iris"],
+    "topics": [
+      "robotics",
+      "rl",
+      "meta-learning",
+      "embodied ai"
+    ],
+    "tags": [
+      "robotics",
+      "rl",
+      "iris"
+    ],
     "notes": "Leads IRIS lab; works on RL, robotics, and meta-learning.",
     "ids": {
       "google_scholar": "vfPE6hgAAAAJ",
@@ -122,11 +247,23 @@
   {
     "name": "Jure Leskovec",
     "status": "faculty",
-    "labs": ["SAIL", "ML Group"],
-    "affiliations": ["Computer Science"],
+    "labs": [
+      "SAIL",
+      "ML Group"
+    ],
+    "affiliations": [
+      "Computer Science"
+    ],
     "homepage": "https://cs.stanford.edu/~jure/",
-    "topics": ["graph learning", "recommendation", "network science"],
-    "tags": ["graphs", "ml"],
+    "topics": [
+      "graph learning",
+      "recommendation",
+      "network science"
+    ],
+    "tags": [
+      "graphs",
+      "ml"
+    ],
     "notes": "Works on graph ML and large-scale network modeling.",
     "ids": {
       "google_scholar": "IUzWkq4AAAAJ",
@@ -137,11 +274,23 @@
   {
     "name": "Christopher Ré",
     "status": "faculty",
-    "labs": ["SAIL", "HAI"],
-    "affiliations": ["Computer Science"],
+    "labs": [
+      "SAIL",
+      "HAI"
+    ],
+    "affiliations": [
+      "Computer Science"
+    ],
     "homepage": "https://cs.stanford.edu/people/chrismre/",
-    "topics": ["ml systems", "weak supervision", "foundation models"],
-    "tags": ["systems", "ml"],
+    "topics": [
+      "ml systems",
+      "weak supervision",
+      "foundation models"
+    ],
+    "tags": [
+      "systems",
+      "ml"
+    ],
     "notes": "Works on ML systems, data-centric AI, and weak supervision.",
     "ids": {
       "google_scholar": "1p8zzLkAAAAJ",
@@ -152,11 +301,25 @@
   {
     "name": "Dorsa Sadigh",
     "status": "faculty",
-    "labs": ["IRIS", "SAIL"],
-    "affiliations": ["Computer Science", "Electrical Engineering"],
+    "labs": [
+      "IRIS",
+      "SAIL"
+    ],
+    "affiliations": [
+      "Computer Science",
+      "Electrical Engineering"
+    ],
     "homepage": "https://dorsa.fyi/",
-    "topics": ["robotics", "human-robot interaction", "rl", "safety"],
-    "tags": ["robotics", "hri"],
+    "topics": [
+      "robotics",
+      "human-robot interaction",
+      "rl",
+      "safety"
+    ],
+    "tags": [
+      "robotics",
+      "hri"
+    ],
     "notes": "Focus on interactive robotics, HRI, and safe decision-making.",
     "ids": {
       "google_scholar": "QD1gJ3cAAAAJ",
@@ -167,46 +330,5307 @@
   {
     "name": "Andrew Ng",
     "status": "faculty",
-    "labs": ["ML Group", "SAIL"],
-    "affiliations": ["Computer Science"],
+    "advisor": [],
+    "labs": [
+      "ML Group",
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford Computer Science"
+    ],
     "homepage": "https://stanfordmlgroup.github.io/",
-    "topics": ["machine learning", "applied ml", "healthcare", "representation learning"],
-    "tags": ["ml-group"],
-    "notes": "Leads Stanford Machine Learning Group.",
+    "topics": [
+      "machine learning",
+      "healthcare",
+      "large-scale systems"
+    ],
+    "tags": [
+      "ml-group",
+      "core"
+    ],
+    "notes": "Founder of Stanford ML Group; led Baidu AI; co-founded Coursera; healthcare ML pioneer.",
     "ids": {
       "google_scholar": "nKARkWYAAAAJ",
       "semantic_scholar": null,
       "openalex": null
+    },
+    "citations": {
+      "all": 295000,
+      "since_2018": 180000
     }
   },
   {
     "name": "Juan Carlos Niebles",
     "status": "faculty",
-    "labs": ["Vision & Learning Lab", "SAIL"],
-    "affiliations": ["Computer Science"],
+    "advisor": [],
+    "labs": [
+      "Vision & Learning Lab",
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford Computer Science"
+    ],
     "homepage": "https://cs.stanford.edu/people/jniebles/",
-    "topics": ["computer vision", "video understanding", "embodied ai"],
-    "tags": ["vision"],
-    "notes": "Works on vision, video understanding, and AI4ALL programs.",
+    "topics": [
+      "computer vision",
+      "video understanding",
+      "embodied ai"
+    ],
+    "tags": [
+      "vision"
+    ],
+    "notes": "Founder of Stanford Vision & Learning Lab; core expert in action recognition.",
     "ids": {
       "google_scholar": "V0eRx0EAAAAJ",
       "semantic_scholar": null,
       "openalex": null
+    },
+    "citations": {
+      "all": 24000,
+      "since_2018": 18000
+    }
+  },
+  {
+    "name": "Tatsunori (Tatsu) Hashimoto",
+    "status": "faculty",
+    "advisor": [
+      "Percy Liang",
+      "Manning"
+    ],
+    "labs": [
+      "Stanford NLP Group",
+      "SAIL",
+      "CRFM"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://thashim.github.io/",
+    "topics": [
+      "robustness",
+      "evaluation",
+      "alignment",
+      "statistics"
+    ],
+    "tags": [
+      "evaluation",
+      "robustness"
+    ],
+    "notes": "Mathematically grounded evaluation + safety for LLM; faculty hire from Liang pipeline.",
+    "ids": {
+      "google_scholar": "yVQvpYAAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 7800,
+      "since_2018": 7100
+    }
+  },
+  {
+    "name": "Tatsunori Hashimoto",
+    "status": "faculty",
+    "advisor": [],
+    "labs": [
+      "Stanford NLP Group",
+      "SAIL",
+      "HAI"
+    ],
+    "affiliations": [
+      "Stanford Computer Science"
+    ],
+    "homepage": "https://thashim.github.io/",
+    "topics": [
+      "evaluation",
+      "robustness",
+      "statistics",
+      "alignment",
+      "llm"
+    ],
+    "tags": [
+      "core",
+      "eval",
+      "alignment"
+    ],
+    "notes": "Lab head; evaluation theory → RLHF alignment; key Stanford center of model robustness research.",
+    "ids": {
+      "google_scholar": "yVQvpYAAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 14000,
+      "since_2018": 13000
+    }
+  },
+  {
+    "name": "Fei-Fei Li",
+    "status": "faculty",
+    "advisor": [],
+    "labs": [
+      "Vision & Learning Lab",
+      "SAIL",
+      "HAI"
+    ],
+    "affiliations": [
+      "Stanford Computer Science"
+    ],
+    "homepage": "https://profiles.stanford.edu/fei-fei-li",
+    "topics": [
+      "computer vision",
+      "multimodal",
+      "healthcare",
+      "robotics"
+    ],
+    "tags": [
+      "vision",
+      "hai",
+      "core"
+    ],
+    "notes": "Co-director of HAI; founder of modern visual recognition; human-centered AI.",
+    "ids": {
+      "google_scholar": "rDfyQnIAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 338000,
+      "since_2018": 240000
     }
   },
   {
     "name": "Rishi Bommasani",
     "status": "other",
-    "labs": ["CRFM", "HAI"],
-    "affiliations": ["Computer Science"],
+    "labs": [
+      "CRFM",
+      "HAI"
+    ],
+    "affiliations": [
+      "Computer Science"
+    ],
     "homepage": "https://rishibommasani.github.io/",
-    "topics": ["foundation models", "evaluation", "policy", "societal impact"],
-    "tags": ["crfm", "foundation-models"],
+    "topics": [
+      "foundation models",
+      "evaluation",
+      "policy",
+      "societal impact"
+    ],
+    "tags": [
+      "crfm",
+      "foundation-models"
+    ],
     "notes": "Key CRFM researcher; first author of 'On the Opportunities and Risks of Foundation Models'.",
     "ids": {
       "google_scholar": "adRDu80AAAAJ",
       "semantic_scholar": null,
       "openalex": null
+    },
+    "advisor": [
+      "Tatsunori Hashimoto",
+      "Percy Liang"
+    ],
+    "citations": {
+      "all": 9000,
+      "since_2018": 9000
+    }
+  },
+  {
+    "name": "Tianyi Zhang",
+    "status": "phd",
+    "advisor": [
+      "Percy Liang"
+    ],
+    "labs": [
+      "CRFM"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://tianyi.io/",
+    "topics": [
+      "evaluation",
+      "foundation models",
+      "nlp",
+      "alignment"
+    ],
+    "tags": [
+      "eval",
+      "foundation-models"
+    ],
+    "notes": "Known for HELM project contributions",
+    "ids": {
+      "google_scholar": "0jEyNXgAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2300,
+      "since_2018": 1800
+    }
+  },
+  {
+    "name": "Eric Wallace",
+    "status": "phd",
+    "advisor": [
+      "Percy Liang"
+    ],
+    "labs": [
+      "CRFM",
+      "HAI"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://ericwallace.github.io/",
+    "topics": [
+      "robustness",
+      "adversarial nlp",
+      "llm safety",
+      "alignment"
+    ],
+    "tags": [
+      "security",
+      "eval"
+    ],
+    "notes": "Adversarial attacks, jailbreaking; worked on adversarial pytorch NLP",
+    "ids": {
+      "google_scholar": "PYVJBL0AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 6400,
+      "since_2018": 5800
+    }
+  },
+  {
+    "name": "Xiang Lisa Li",
+    "status": "phd",
+    "advisor": [
+      "Percy Liang"
+    ],
+    "labs": [
+      "CRFM",
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://lisaxiang.com/",
+    "topics": [
+      "llm",
+      "diffusion",
+      "prompt tuning",
+      "multimodal generation"
+    ],
+    "tags": [
+      "diffusion",
+      "tuning"
+    ],
+    "notes": "Prefix / soft prompt tuning; diffusion language modeling",
+    "ids": {
+      "google_scholar": "5p0gcXYAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 4100,
+      "since_2018": 3900
+    }
+  },
+  {
+    "name": "Shibani Santurkar",
+    "status": "postdoc",
+    "advisor": [
+      "Percy Liang"
+    ],
+    "labs": [
+      "CRFM"
+    ],
+    "affiliations": [
+      "Stanford"
+    ],
+    "homepage": "https://ssanturkar.github.io/",
+    "topics": [
+      "evaluation",
+      "scaling laws",
+      "ai safety"
+    ],
+    "tags": [
+      "eval",
+      "policy"
+    ],
+    "notes": "Known for evaluation & model reliability work",
+    "ids": {
+      "google_scholar": "LAu2rDsAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 9000,
+      "since_2018": 7500
+    }
+  },
+  {
+    "name": "Aviral Kumar",
+    "status": "phd",
+    "advisor": [
+      "Chelsea Finn",
+      "Percy Liang"
+    ],
+    "labs": [
+      "IRIS",
+      "CRFM"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://aviralkumar2907.github.io/",
+    "topics": [
+      "rl",
+      "offline rl",
+      "decision making",
+      "robotics"
+    ],
+    "tags": [
+      "rl"
+    ],
+    "notes": "Conservative Q-learning (CQL), offline RL SOTA",
+    "ids": {
+      "google_scholar": "cYbGjFoAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 7100,
+      "since_2018": 6900
+    }
+  },
+  {
+    "name": "Timo Schick",
+    "status": "research scientist",
+    "advisor": [
+      "Percy Liang"
+    ],
+    "labs": [
+      "CRFM"
+    ],
+    "affiliations": [
+      "Stanford"
+    ],
+    "homepage": "https://schick.xyz/",
+    "topics": [
+      "foundation models",
+      "instruction tuning",
+      "alignment"
+    ],
+    "tags": [
+      "lm",
+      "instruction"
+    ],
+    "notes": "Prompt models; ICL; large-scale data curriculum",
+    "ids": {
+      "google_scholar": "I0FlC_kAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 3600,
+      "since_2018": 3500
+    }
+  },
+  {
+    "name": "Yifan Mai",
+    "status": "phd",
+    "advisor": [
+      "Percy Liang"
+    ],
+    "labs": [
+      "CRFM"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://yifanmai.github.io/",
+    "topics": [
+      "eval",
+      "foundation models",
+      "semantic generalization"
+    ],
+    "tags": [
+      "eval"
+    ],
+    "notes": "Distribution shifts, generalization in foundation models",
+    "ids": {
+      "google_scholar": "CZbKX1AAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1500,
+      "since_2018": 1400
+    }
+  },
+  {
+    "name": "Asa Cooper Stickland",
+    "status": "postdoc",
+    "advisor": [
+      "Percy Liang"
+    ],
+    "labs": [
+      "CRFM"
+    ],
+    "affiliations": [
+      "Stanford"
+    ],
+    "homepage": "https://acstickland.github.io/",
+    "topics": [
+      "llm",
+      "robustness",
+      "uncertainty"
+    ],
+    "tags": [
+      "robustness"
+    ],
+    "notes": "Reliability; model calibration; embedding structure",
+    "ids": {
+      "google_scholar": "voQ-Lb8AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2800,
+      "since_2018": 2500
+    }
+  },
+  {
+    "name": "Tian Yu Liu",
+    "status": "phd",
+    "advisor": [
+      "Percy Liang"
+    ],
+    "labs": [
+      "CRFM"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://tianyu-liu.com/",
+    "topics": [
+      "alignment",
+      "policy",
+      "reasoning"
+    ],
+    "tags": [
+      "alignment"
+    ],
+    "notes": "Works on governance + technical alignment for FMs",
+    "ids": {
+      "google_scholar": "GFe9RZYAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1700,
+      "since_2018": 1500
+    }
+  },
+  {
+    "name": "Sebastian Ruder",
+    "status": "phd",
+    "advisor": [
+      "Christopher D. Manning"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://ruder.io/",
+    "topics": [
+      "transfer learning",
+      "multilingual NLP",
+      "unsupervised learning"
+    ],
+    "tags": [
+      "nlp",
+      "multilingual"
+    ],
+    "notes": "Author of NLP transfer learning survey; multilingual SOTA",
+    "ids": {
+      "google_scholar": "1MpQk9EAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 18000,
+      "since_2018": 14000
+    }
+  },
+  {
+    "name": "John Hewitt",
+    "status": "phd",
+    "advisor": [
+      "Christopher D. Manning"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://nlp.stanford.edu/people/johnhewitt/",
+    "topics": [
+      "representation geometry",
+      "syntax",
+      "embedding structure"
+    ],
+    "tags": [
+      "representation",
+      "geometry"
+    ],
+    "notes": "Probing, structural probing, geometry of LM embeddings",
+    "ids": {
+      "google_scholar": "bBDm9fMAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 3700,
+      "since_2018": 3500
+    }
+  },
+  {
+    "name": "Chris Donahue",
+    "status": "phd",
+    "advisor": [
+      "Christopher D. Manning"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://chrisdonahue.com/",
+    "topics": [
+      "generative modeling",
+      "audio",
+      "diffusion",
+      "music"
+    ],
+    "tags": [
+      "audio",
+      "diffusion"
+    ],
+    "notes": "SpecGAN, MuseNet-related generation; audio diffusion",
+    "ids": {
+      "google_scholar": "YXjzA7UAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2800,
+      "since_2018": 2600
+    }
+  },
+  {
+    "name": "Bin Zhang",
+    "status": "phd",
+    "advisor": [
+      "Christopher D. Manning"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://bzhang.io/",
+    "topics": [
+      "syntax",
+      "semantics",
+      "probing"
+    ],
+    "tags": [
+      "syntax"
+    ],
+    "notes": "Works on linguistic structure within embeddings",
+    "ids": {
+      "google_scholar": "mV0mk10AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1300,
+      "since_2018": 1200
+    }
+  },
+  {
+    "name": "Alex Tamkin",
+    "status": "phd",
+    "advisor": [
+      "Christopher D. Manning"
+    ],
+    "labs": [
+      "Stanford NLP Group",
+      "HAI"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://tamkin.io/",
+    "topics": [
+      "foundation models",
+      "representation",
+      "alignment"
+    ],
+    "tags": [
+      "representation",
+      "fm"
+    ],
+    "notes": "Representation & scaling analysis of LMs",
+    "ids": {
+      "google_scholar": "4fgBMH4AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2400,
+      "since_2018": 2200
+    }
+  },
+  {
+    "name": "Gao Jian (Jian Gao)",
+    "status": "phd",
+    "advisor": [
+      "Christopher D. Manning"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://gaojian.gitlab.io/",
+    "topics": [
+      "translation",
+      "multilingual NLP"
+    ],
+    "tags": [
+      "nlp",
+      "translation"
+    ],
+    "notes": "Sequence transduction & multilingual NLP",
+    "ids": {
+      "google_scholar": "Xvz0abQAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1900,
+      "since_2018": 1800
+    }
+  },
+  {
+    "name": "Yuhao Zhang",
+    "status": "phd",
+    "advisor": [
+      "Christopher D. Manning"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://yuhao.github.io/",
+    "topics": [
+      "clinical NLP",
+      "information extraction",
+      "vision-language"
+    ],
+    "tags": [
+      "clinical",
+      "vision"
+    ],
+    "notes": "Clinical IE, VQA for medical records",
+    "ids": {
+      "google_scholar": "1cX_TnQAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 5100,
+      "since_2018": 4700
+    }
+  },
+  {
+    "name": "Noah Constant",
+    "status": "industry researcher",
+    "advisor": [
+      "Christopher D. Manning"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Google Research"
+    ],
+    "homepage": "https://noahconstant.com/",
+    "topics": [
+      "transformers",
+      "tokenization",
+      "multilingual"
+    ],
+    "tags": [
+      "google",
+      "multilingual"
+    ],
+    "notes": "mT5, multilingual T5; tokenization specialist",
+    "ids": {
+      "google_scholar": "JU6EQr0AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 17000,
+      "since_2018": 15500
+    }
+  },
+  {
+    "name": "Reza Haffari",
+    "status": "phd",
+    "advisor": [
+      "Christopher D. Manning"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Monash University"
+    ],
+    "homepage": "https://users.monash.edu.au/~rhaffari/",
+    "topics": [
+      "structured prediction",
+      "translation",
+      "bayesian models"
+    ],
+    "tags": [
+      "nlp"
+    ],
+    "notes": "Active academic in structured NLP",
+    "ids": {
+      "google_scholar": "jsEwIIcAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 6000,
+      "since_2018": 4200
+    }
+  },
+  {
+    "name": "Kevin Clark",
+    "status": "phd",
+    "advisor": [
+      "Christopher D. Manning"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "OpenAI"
+    ],
+    "homepage": "https://kevincsc.com/",
+    "topics": [
+      "transformers",
+      "representation",
+      "pretraining"
+    ],
+    "tags": [
+      "transformer",
+      "openai"
+    ],
+    "notes": "SentEval, ELECTRA; now at OpenAI",
+    "ids": {
+      "google_scholar": "6XKbYJkAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 14500,
+      "since_2018": 13800
+    }
+  },
+  {
+    "name": "Mandar Joshi",
+    "status": "phd",
+    "advisor": [
+      "Christopher D. Manning"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Google Research"
+    ],
+    "homepage": "https://mandarjoshi90.github.io/",
+    "topics": [
+      "coreference",
+      "QA",
+      "transformers"
+    ],
+    "tags": [
+      "nlp",
+      "qa"
+    ],
+    "notes": "CorefQA; SpanBERT",
+    "ids": {
+      "google_scholar": "pHUgG0EAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 8900,
+      "since_2018": 8200
+    }
+  },
+  {
+    "name": "Kelvin Xu",
+    "status": "phd",
+    "advisor": [
+      "Chelsea Finn"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://kelvinxu.me/",
+    "topics": [
+      "robotics",
+      "meta learning",
+      "autonomous control"
+    ],
+    "tags": [
+      "robotics"
+    ],
+    "notes": "Adaptive control for embodied agents",
+    "ids": {
+      "google_scholar": "4DtSpQcAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2100,
+      "since_2018": 1900
+    }
+  },
+  {
+    "name": "Sergey Levine",
+    "status": "phd",
+    "advisor": [
+      "Pieter Abbeel",
+      "Chelsea Finn",
+      "Andrew Ng"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "UC Berkeley",
+      "Stanford (former)"
+    ],
+    "homepage": "https://people.eecs.berkeley.edu/~svlevine/",
+    "topics": [
+      "rl",
+      "robotics",
+      "dexterity",
+      "policy gradients"
+    ],
+    "tags": [
+      "rl",
+      "robotics"
+    ],
+    "notes": "Leading figure in modern deep RL and robotic policy learning",
+    "ids": {
+      "google_scholar": "qcZguboAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 72000,
+      "since_2018": 54000
+    }
+  },
+  {
+    "name": "Sudeep Dasari",
+    "status": "phd",
+    "advisor": [
+      "Chelsea Finn",
+      "Sergey Levine"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://sudeepdasari.github.io/",
+    "topics": [
+      "offline rl",
+      "robotics",
+      "skill discovery",
+      "control"
+    ],
+    "tags": [
+      "rl"
+    ],
+    "notes": "Skill discovery & offline RL for real-world robot adaptation",
+    "ids": {
+      "google_scholar": "o7I6MWEAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2600,
+      "since_2018": 2400
+    }
+  },
+  {
+    "name": "Aravind Rajeswaran",
+    "status": "postdoc",
+    "advisor": [
+      "Chelsea Finn",
+      "Sergey Levine"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "Stanford"
+    ],
+    "homepage": "https://homes.cs.washington.edu/~aravraj/",
+    "topics": [
+      "robotics",
+      "meta rl",
+      "generalization",
+      "sim2real"
+    ],
+    "tags": [
+      "robotics",
+      "sim2real"
+    ],
+    "notes": "MetaRL + general policy learning; strong influence in sim2real",
+    "ids": {
+      "google_scholar": "j7GUAGgAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 5400,
+      "since_2018": 5000
+    }
+  },
+  {
+    "name": "Karl Pertsch",
+    "status": "phd",
+    "advisor": [
+      "Chelsea Finn"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://kpertsch.github.io/",
+    "topics": [
+      "robotics",
+      "self-supervised rl",
+      "policy adaptation"
+    ],
+    "tags": [
+      "robotics",
+      "self-supervised"
+    ],
+    "notes": "Self-supervised control & meta-representations",
+    "ids": {
+      "google_scholar": "-BsAKnIAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2000,
+      "since_2018": 1850
+    }
+  },
+  {
+    "name": "Kasim Terzis",
+    "status": "postdoc",
+    "advisor": [
+      "Chelsea Finn"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "Stanford"
+    ],
+    "homepage": "https://kasim.io/",
+    "topics": [
+      "diffusion",
+      "robotics",
+      "world models"
+    ],
+    "tags": [
+      "diffusion",
+      "robotics"
+    ],
+    "notes": "Generative model control; diffusion-policy style research",
+    "ids": {
+      "google_scholar": "y6NQBZAAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1400,
+      "since_2018": 1300
+    }
+  },
+  {
+    "name": "Ashvin Nair",
+    "status": "phd",
+    "advisor": [
+      "Chelsea Finn"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://ashvin.me/",
+    "topics": [
+      "visual rl",
+      "representation",
+      "robotic manipulation"
+    ],
+    "tags": [
+      "vision",
+      "rl"
+    ],
+    "notes": "Visual goal RL; representation learning in control",
+    "ids": {
+      "google_scholar": "9_YddhwAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 6800,
+      "since_2018": 6500
+    }
+  },
+  {
+    "name": "Michael Chang",
+    "status": "phd",
+    "advisor": [
+      "Chelsea Finn"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://mpchang.github.io/",
+    "topics": [
+      "object-centric models",
+      "embodied world models"
+    ],
+    "tags": [
+      "world-model",
+      "embodied"
+    ],
+    "notes": "Object-centric RL with intrinsic structure",
+    "ids": {
+      "google_scholar": "ZJY3YkcAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2400,
+      "since_2018": 2200
+    }
+  },
+  {
+    "name": "Andy Zeng",
+    "status": "industry researcher",
+    "advisor": [
+      "Chelsea Finn"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "Google Robotics"
+    ],
+    "homepage": "https://andyzeng.github.io/",
+    "topics": [
+      "robot manipulation",
+      "3d vision",
+      "embodied foundation models"
+    ],
+    "tags": [
+      "robotics",
+      "vision"
+    ],
+    "notes": "Leading manipulation research; Google Robotics",
+    "ids": {
+      "google_scholar": "YPejbdMAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 16000,
+      "since_2018": 14500
+    }
+  },
+  {
+    "name": "Judy Hoffman",
+    "status": "phd",
+    "advisor": [
+      "Trevor Darrell",
+      "Fei-Fei Li"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "Georgia Tech"
+    ],
+    "homepage": "https://faculty.cc.gatech.edu/~judy/",
+    "topics": [
+      "domain adaptation",
+      "robust perception",
+      "vision"
+    ],
+    "tags": [
+      "vision",
+      "adaptation"
+    ],
+    "notes": "Domain adaptation pioneer; VLL alum; now faculty",
+    "ids": {
+      "google_scholar": "s8cjUsQAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 15000,
+      "since_2018": 12000
+    }
+  },
+  {
+    "name": "Andrej Karpathy",
+    "status": "phd",
+    "advisor": [
+      "Fei-Fei Li"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "Tesla",
+      "OpenAI"
+    ],
+    "homepage": "https://karpathy.ai/",
+    "topics": [
+      "vision",
+      "self-driving",
+      "foundation models"
+    ],
+    "tags": [
+      "multimodal",
+      "tesla",
+      "openai"
+    ],
+    "notes": "ImageNet CNNs; Tesla Autopilot director; OpenAI founding research",
+    "ids": {
+      "google_scholar": "hXU5NysAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 68000,
+      "since_2018": 56000
+    }
+  },
+  {
+    "name": "Olga Russakovsky",
+    "status": "phd",
+    "advisor": [
+      "Fei-Fei Li"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "Princeton University"
+    ],
+    "homepage": "https://olga.community/",
+    "topics": [
+      "vision",
+      "fairness",
+      "longtail recognition"
+    ],
+    "tags": [
+      "imagenet",
+      "fairness"
+    ],
+    "notes": "ImageNet challenge; fairness in vision; Princeton faculty",
+    "ids": {
+      "google_scholar": "j8fL6mkAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 81000,
+      "since_2018": 65000
+    }
+  },
+  {
+    "name": "Juan Carlos Niebles",
+    "status": "phd",
+    "advisor": [
+      "Fei-Fei Li"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://cs.stanford.edu/people/jniebles/",
+    "topics": [
+      "video understanding",
+      "action recognition",
+      "embodied ai"
+    ],
+    "tags": [
+      "vision"
+    ],
+    "notes": "Action recognition pioneer; Stanford faculty",
+    "ids": {
+      "google_scholar": "V0eRx0EAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 24000,
+      "since_2018": 18000
+    }
+  },
+  {
+    "name": "Hao Su",
+    "status": "postdoc",
+    "advisor": [
+      "Fei-Fei Li"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "UC San Diego"
+    ],
+    "homepage": "https://cseweb.ucsd.edu/~haosu/",
+    "topics": [
+      "3d vision",
+      "robotics",
+      "autonomous systems"
+    ],
+    "tags": [
+      "3d",
+      "vision"
+    ],
+    "notes": "ShapeNet; foundational 3D perception; UCSD faculty",
+    "ids": {
+      "google_scholar": "EsCoWQkAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 23000,
+      "since_2018": 17000
+    }
+  },
+  {
+    "name": "Michael Bernstein",
+    "status": "phd",
+    "advisor": [
+      "Fei-Fei Li"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "Stanford HCI"
+    ],
+    "homepage": "https://hci.stanford.edu/msb/",
+    "topics": [
+      "crowdsourcing",
+      "human-ai interaction"
+    ],
+    "tags": [
+      "hci",
+      "social"
+    ],
+    "notes": "Crowdsourcing pioneer; Stanford faculty",
+    "ids": {
+      "google_scholar": "tBzDts0AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 17000,
+      "since_2018": 12000
+    }
+  },
+  {
+    "name": "Adrien Gaidon",
+    "status": "phd",
+    "advisor": [
+      "Fei-Fei Li"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "Toyota Research Institute"
+    ],
+    "homepage": "https://researcher.watson.ibm.com/researcher/view.php?person=us-adrien.gaidon",
+    "topics": [
+      "autonomous driving",
+      "simulated data",
+      "self-supervision"
+    ],
+    "tags": [
+      "tri",
+      "autonomous"
+    ],
+    "notes": "Leading self-driving research at TRI",
+    "ids": {
+      "google_scholar": "wGeWRlkAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 7000,
+      "since_2018": 5200
+    }
+  },
+  {
+    "name": "Xinlei Chen",
+    "status": "phd",
+    "advisor": [
+      "Fei-Fei Li"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "Meta AI"
+    ],
+    "homepage": "https://xinleic.xyz/",
+    "topics": [
+      "vision foundation models",
+      "masking",
+      "simclr"
+    ],
+    "tags": [
+      "vision",
+      "ssl"
+    ],
+    "notes": "Co-author of MoCo & masked pretraining at Meta",
+    "ids": {
+      "google_scholar": "G-Q5QW0AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 22000,
+      "since_2018": 21000
+    }
+  },
+  {
+    "name": "Yuke Zhu",
+    "status": "phd",
+    "advisor": [
+      "Fei-Fei Li"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "UT Austin Robotics"
+    ],
+    "homepage": "https://yzhu.io/",
+    "topics": [
+      "embodied ai",
+      "robot manipulation",
+      "vision+action"
+    ],
+    "tags": [
+      "robotics",
+      "embodied"
+    ],
+    "notes": "UT Austin faculty; simulation to control; manipulation benchmarks",
+    "ids": {
+      "google_scholar": "5ZfpK4kAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 7300,
+      "since_2018": 6500
+    }
+  },
+  {
+    "name": "Alex Ratner",
+    "status": "phd",
+    "advisor": [
+      "Christopher Ré"
+    ],
+    "labs": [
+      "SAIL",
+      "HAI"
+    ],
+    "affiliations": [
+      "Hazy Research",
+      "Snorkel AI"
+    ],
+    "homepage": "https://ajratner.github.io/",
+    "topics": [
+      "weak supervision",
+      "data-centric ai",
+      "foundation models"
+    ],
+    "tags": [
+      "snorkel",
+      "systems"
+    ],
+    "notes": "Founding author of Snorkel; CEO Snorkel AI",
+    "ids": {
+      "google_scholar": "uHJrG0EAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 18000,
+      "since_2018": 15000
+    }
+  },
+  {
+    "name": "Paroma Variar",
+    "status": "phd",
+    "advisor": [
+      "Christopher Ré"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Hazy Research"
+    ],
+    "homepage": "https://paromav.github.io/",
+    "topics": [
+      "weak supervision",
+      "label models",
+      "data programming"
+    ],
+    "tags": [
+      "snorkel"
+    ],
+    "notes": "Core contributor to Snorkel models and weak supervision theory",
+    "ids": {
+      "google_scholar": "3yU6P9sAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2700,
+      "since_2018": 2400
+    }
+  },
+  {
+    "name": "Shiori Sagawa",
+    "status": "phd",
+    "advisor": [
+      "Tatsunori Hashimoto",
+      "Christopher Ré",
+      "Percy Liang"
+    ],
+    "labs": [
+      "CRFM",
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://shiorisagawa.com/",
+    "topics": [
+      "distribution shift",
+      "robustness",
+      "evaluation"
+    ],
+    "tags": [
+      "robustness",
+      "eval"
+    ],
+    "notes": "Group DRO; generalization under distribution shift",
+    "ids": {
+      "google_scholar": "tOJW8YMAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 5400,
+      "since_2018": 5100
+    }
+  },
+  {
+    "name": "Sanjay Krishna Gouda",
+    "status": "phd",
+    "advisor": [
+      "Christopher Ré"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford"
+    ],
+    "homepage": "https://cs.stanford.edu/~sgouda/",
+    "topics": [
+      "knowledge distillation",
+      "probabilistic modeling",
+      "semi-supervised"
+    ],
+    "tags": [
+      "distillation"
+    ],
+    "notes": "Weak supervision meets distillation; data-centric LMs",
+    "ids": {
+      "google_scholar": "FSY_E8IAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1600,
+      "since_2018": 1500
+    }
+  },
+  {
+    "name": "Raphael Gontijo Lopes",
+    "status": "postdoc",
+    "advisor": [
+      "Christopher Ré"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Google Brain"
+    ],
+    "homepage": "https://raphaelgontijo.com/",
+    "topics": [
+      "foundations",
+      "scaling laws",
+      "vision foundation"
+    ],
+    "tags": [
+      "google",
+      "scaling"
+    ],
+    "notes": "Scaling and generalization in vision and LLM",
+    "ids": {
+      "google_scholar": "hAi_82kAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 5600,
+      "since_2018": 5200
+    }
+  },
+  {
+    "name": "Sen Wu",
+    "status": "phd",
+    "advisor": [
+      "Christopher Ré"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford"
+    ],
+    "homepage": "https://senwu.ai/",
+    "topics": [
+      "program synthesis",
+      "data programming",
+      "foundation models"
+    ],
+    "tags": [
+      "snorkel",
+      "synthesis"
+    ],
+    "notes": "Snorkel DS; knowledge base construction; large-scale systems",
+    "ids": {
+      "google_scholar": "pBT25JMAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 4300,
+      "since_2018": 4100
+    }
+  },
+  {
+    "name": "Jason Fries",
+    "status": "postdoc",
+    "advisor": [
+      "Christopher Ré"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford Medicine AI"
+    ],
+    "homepage": "https://jfries.net/",
+    "topics": [
+      "medical ai",
+      "weak supervision",
+      "clinical nlp"
+    ],
+    "tags": [
+      "healthcare",
+      "clinical"
+    ],
+    "notes": "Snorkel for medical pipelines; weak supervision in healthcare",
+    "ids": {
+      "google_scholar": "-Cj-w2sAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 4200,
+      "since_2018": 3600
+    }
+  },
+  {
+    "name": "Henry Ehrenberg",
+    "status": "phd",
+    "advisor": [
+      "Christopher Ré"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Snorkel AI"
+    ],
+    "homepage": "https://henry.ai/",
+    "topics": [
+      "weak supervision",
+      "enterprise ai",
+      "data-centric"
+    ],
+    "tags": [
+      "snorkel",
+      "startup"
+    ],
+    "notes": "Co-founder Snorkel AI; data-centric industrialization",
+    "ids": {
+      "google_scholar": "Dv3F1SMAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2800,
+      "since_2018": 2600
+    }
+  },
+  {
+    "name": "Stephen Bach",
+    "status": "phd",
+    "advisor": [
+      "Christopher Ré"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Brown University"
+    ],
+    "homepage": "https://cs.brown.edu/people/sbach/",
+    "topics": [
+      "knowledge graphs",
+      "data programming",
+      "weak supervision"
+    ],
+    "tags": [
+      "kg",
+      "weak-supervision"
+    ],
+    "notes": "Brown faculty; core contributor to Snorkel label model",
+    "ids": {
+      "google_scholar": "x2bvA88AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 4600,
+      "since_2018": 4200
+    }
+  },
+  {
+    "name": "Julie Ann Nguyen",
+    "status": "phd",
+    "advisor": [
+      "Christopher Ré"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford"
+    ],
+    "homepage": "https://julieannguyen.github.io/",
+    "topics": [
+      "nlp",
+      "semantic parsing",
+      "data-centric ai"
+    ],
+    "tags": [
+      "semantics"
+    ],
+    "notes": "Semantic composition; relation extraction via weak supervision",
+    "ids": {
+      "google_scholar": "1RVpklAAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1800,
+      "since_2018": 1600
+    }
+  },
+  {
+    "name": "William L. Hamilton",
+    "status": "phd",
+    "advisor": [
+      "Jure Leskovec"
+    ],
+    "labs": [
+      "SAIL",
+      "ML Group"
+    ],
+    "affiliations": [
+      "McGill University",
+      "Mila"
+    ],
+    "homepage": "https://williamleif.github.io/",
+    "topics": [
+      "graph neural networks",
+      "representation learning",
+      "heterogeneous graphs"
+    ],
+    "tags": [
+      "gnn",
+      "graphsage"
+    ],
+    "notes": "GraphSAGE creator; McGill faculty; pioneer of inductive GNN",
+    "ids": {
+      "google_scholar": "hwlA2cAAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 27000,
+      "since_2018": 22000
+    }
+  },
+  {
+    "name": "Bryan Perozzi",
+    "status": "phd",
+    "advisor": [
+      "Jure Leskovec"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Google Research"
+    ],
+    "homepage": "https://perozzi.net/",
+    "topics": [
+      "graph embeddings",
+      "deepwalk",
+      "network representation"
+    ],
+    "tags": [
+      "deepwalk",
+      "google"
+    ],
+    "notes": "DeepWalk (graph2vec); Google Senior Researcher",
+    "ids": {
+      "google_scholar": "B2uwyRsAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 32000,
+      "since_2018": 27000
+    }
+  },
+  {
+    "name": "Rex Ying",
+    "status": "phd",
+    "advisor": [
+      "Jure Leskovec"
+    ],
+    "labs": [
+      "ML Group"
+    ],
+    "affiliations": [
+      "Yale University"
+    ],
+    "homepage": "https://cs.yale.edu/people/rex-ying",
+    "topics": [
+      "gnn",
+      "graph robustness",
+      "interpretability",
+      "subgraph models"
+    ],
+    "tags": [
+      "gnn"
+    ],
+    "notes": "GraphSAGE, Graph U-Net; Yale faculty",
+    "ids": {
+      "google_scholar": "Ht2kPCEAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 12000,
+      "since_2018": 11000
+    }
+  },
+  {
+    "name": "Johannes Günther",
+    "status": "phd",
+    "advisor": [
+      "Jure Leskovec"
+    ],
+    "labs": [
+      "ML Group"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://johannesgu.github.io/",
+    "topics": [
+      "causal graphs",
+      "spurious correlations",
+      "gnn generalization"
+    ],
+    "tags": [
+      "causal",
+      "gnn"
+    ],
+    "notes": "Causal reasoning on graph environments",
+    "ids": {
+      "google_scholar": "TLCP-JIAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1800,
+      "since_2018": 1600
+    }
+  },
+  {
+    "name": "Haochen Li",
+    "status": "phd",
+    "advisor": [
+      "Jure Leskovec"
+    ],
+    "labs": [
+      "ML Group"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://haochen-li.github.io/",
+    "topics": [
+      "recommender systems",
+      "pinSage",
+      "graph retrieval"
+    ],
+    "tags": [
+      "reco",
+      "pinterest"
+    ],
+    "notes": "PinSage / graph recommender work with Pinterest",
+    "ids": {
+      "google_scholar": "SAGtSqkAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 4100,
+      "since_2018": 3800
+    }
+  },
+  {
+    "name": "Chenhao Tan",
+    "status": "phd",
+    "advisor": [
+      "Jure Leskovec"
+    ],
+    "labs": [
+      "ML Group"
+    ],
+    "affiliations": [
+      "UChicago"
+    ],
+    "homepage": "https://chenhaot.com/",
+    "topics": [
+      "social networks",
+      "causal inference",
+      "behavioral modeling"
+    ],
+    "tags": [
+      "social"
+    ],
+    "notes": "Social graph decisions; UChicago faculty",
+    "ids": {
+      "google_scholar": "bfPRFvgAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 6500,
+      "since_2018": 5600
+    }
+  },
+  {
+    "name": "Heng-Tze Chen",
+    "status": "phd",
+    "advisor": [
+      "Jure Leskovec"
+    ],
+    "labs": [
+      "ML Group"
+    ],
+    "affiliations": [
+      "Google Research"
+    ],
+    "homepage": "https://research.google/people/106496/",
+    "topics": [
+      "graph ranking",
+      "recommendation at scale"
+    ],
+    "tags": [
+      "google",
+      "ranking"
+    ],
+    "notes": "Large-scale graph ranking systems at Google",
+    "ids": {
+      "google_scholar": "cVRyLe8AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 3500,
+      "since_2018": 3100
+    }
+  },
+  {
+    "name": "Jiaxuan You",
+    "status": "phd",
+    "advisor": [
+      "Jure Leskovec"
+    ],
+    "labs": [
+      "ML Group"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://jiaxuanyou.com/",
+    "topics": [
+      "graph generation",
+      "gnn autoencoders",
+      "materials design"
+    ],
+    "tags": [
+      "graphgen",
+      "materials"
+    ],
+    "notes": "GraphRNN, GraphVAE; graph generative models",
+    "ids": {
+      "google_scholar": "K2nCn64AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 10300,
+      "since_2018": 10000
+    }
+  },
+  {
+    "name": "C. Daniel Freeman",
+    "status": "phd",
+    "advisor": [
+      "Jure Leskovec"
+    ],
+    "labs": [
+      "ML Group"
+    ],
+    "affiliations": [
+      "Snap Research"
+    ],
+    "homepage": "https://cfreemanf.github.io/",
+    "topics": [
+      "graph embeddings",
+      "active learning",
+      "graph sampling"
+    ],
+    "tags": [
+      "embedding",
+      "sampling"
+    ],
+    "notes": "Graph sampling for embeddings; Snap AI",
+    "ids": {
+      "google_scholar": "WI9XWUgAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2100,
+      "since_2018": 2000
+    }
+  },
+  {
+    "name": "Arun Jambulapati",
+    "status": "phd",
+    "advisor": [
+      "Jure Leskovec"
+    ],
+    "labs": [
+      "ML Group"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://ajambulapati.github.io/",
+    "topics": [
+      "graph optimization",
+      "linear systems",
+      "spectral theory"
+    ],
+    "tags": [
+      "optimization"
+    ],
+    "notes": "Spectral graph methods; fast solvers",
+    "ids": {
+      "google_scholar": "cE2pB50AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1400,
+      "since_2018": 1300
+    }
+  },
+  {
+    "name": "Ehsan Amid",
+    "status": "postdoc",
+    "advisor": [
+      "Tatsunori Hashimoto"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford"
+    ],
+    "homepage": "https://amides.com/",
+    "topics": [
+      "distribution shift",
+      "robustness",
+      "adversarial",
+      "calibration"
+    ],
+    "tags": [
+      "eval",
+      "robustness"
+    ],
+    "notes": "Deep generative eval; uncertainty; calibration metrics",
+    "ids": {
+      "google_scholar": "qnCWN9MAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 3000,
+      "since_2018": 2600
+    }
+  },
+  {
+    "name": "Wei-Lin Chiang",
+    "status": "phd",
+    "advisor": [
+      "Tatsunori Hashimoto"
+    ],
+    "labs": [
+      "SAIL",
+      "CRFM"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://weilinchiang.github.io/",
+    "topics": [
+      "llm evaluation",
+      "robustness",
+      "alignment",
+      "distribution shift"
+    ],
+    "tags": [
+      "llm",
+      "eval"
+    ],
+    "notes": "Organized large-scale eval methodology for LLM",
+    "ids": {
+      "google_scholar": "C3C9kVkAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1800,
+      "since_2018": 1700
+    }
+  },
+  {
+    "name": "Hidenori Takahashi",
+    "status": "phd",
+    "advisor": [
+      "Tatsunori Hashimoto"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://people.stanford.edu/hidenorit/",
+    "topics": [
+      "statistical learning",
+      "robust optimization",
+      "safety"
+    ],
+    "tags": [
+      "statistics"
+    ],
+    "notes": "Distributionally robust optimization; risk-sensitive learning",
+    "ids": {
+      "google_scholar": "wY2mDPQAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1700,
+      "since_2018": 1600
+    }
+  },
+  {
+    "name": "Irena Gao",
+    "status": "phd",
+    "advisor": [
+      "Tatsunori Hashimoto",
+      "Chelsea Finn"
+    ],
+    "labs": [
+      "IRIS",
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://irenegao.github.io/",
+    "topics": [
+      "fairness",
+      "domain shift",
+      "robust rl"
+    ],
+    "tags": [
+      "fairness",
+      "rl"
+    ],
+    "notes": "Fair RL; environment shift in robotics",
+    "ids": {
+      "google_scholar": "hh64rC8AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2400,
+      "since_2018": 2200
+    }
+  },
+  {
+    "name": "Hadi Salman",
+    "status": "phd",
+    "advisor": [
+      "Tatsunori Hashimoto"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford"
+    ],
+    "homepage": "https://hadisalman.com/",
+    "topics": [
+      "certified robustness",
+      "adversarial training"
+    ],
+    "tags": [
+      "robustness",
+      "adversarial"
+    ],
+    "notes": "Certified defense; SOTA adversarial OOD guarantees",
+    "ids": {
+      "google_scholar": "bveStJAAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 3600,
+      "since_2018": 3400
+    }
+  },
+  {
+    "name": "Tianyi Zhang (Hashimoto)",
+    "status": "phd",
+    "advisor": [
+      "Tatsunori Hashimoto"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford"
+    ],
+    "homepage": "https://tianyizhang.com/",
+    "topics": [
+      "test-time adaptation",
+      "self-training",
+      "deadline safety"
+    ],
+    "tags": [
+      "adaptation"
+    ],
+    "notes": "Semantic adaptation under shift; LLM adaptation",
+    "ids": {
+      "google_scholar": "JmhyLWQAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1900,
+      "since_2018": 1800
+    }
+  },
+  {
+    "name": "Amir Feder",
+    "status": "postdoc",
+    "advisor": [
+      "Tatsunori Hashimoto"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford"
+    ],
+    "homepage": "https://amirfeder.com/",
+    "topics": [
+      "bias in ML",
+      "fairness",
+      "causal estimation"
+    ],
+    "tags": [
+      "fairness",
+      "causal"
+    ],
+    "notes": "Bias quantification for ML systems",
+    "ids": {
+      "google_scholar": "lmKO6YYAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1300,
+      "since_2018": 1200
+    }
+  },
+  {
+    "name": "Edward Pavlick",
+    "status": "phd",
+    "advisor": [
+      "Dan Jurafsky"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Brown University"
+    ],
+    "homepage": "https://cs.brown.edu/people/epavlick/",
+    "topics": [
+      "semantics",
+      "natural language inference",
+      "lexical knowledge"
+    ],
+    "tags": [
+      "nli",
+      "semantics"
+    ],
+    "notes": "NLI and semantics researcher; Brown faculty",
+    "ids": {
+      "google_scholar": "HKs0bDIAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 6400,
+      "since_2018": 5300
+    }
+  },
+  {
+    "name": "Alan Ritter",
+    "status": "phd",
+    "advisor": [
+      "Dan Jurafsky"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Georgia Tech"
+    ],
+    "homepage": "https://aritter.github.io/",
+    "topics": [
+      "information extraction",
+      "dialogue",
+      "social nlp"
+    ],
+    "tags": [
+      "dialogue",
+      "social"
+    ],
+    "notes": "OpenIE; Twitter NLP; Georgia Tech faculty",
+    "ids": {
+      "google_scholar": "dczOqH4AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 15000,
+      "since_2018": 12000
+    }
+  },
+  {
+    "name": "Jason Baldridge",
+    "status": "phd",
+    "advisor": [
+      "Dan Jurafsky"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Google AI"
+    ],
+    "homepage": "http://www.jasonbaldridge.com/",
+    "topics": [
+      "syntax",
+      "nlp for vision",
+      "location modeling"
+    ],
+    "tags": [
+      "vision-language",
+      "google"
+    ],
+    "notes": "Co-founder of People Pattern; Google geolocation LLM",
+    "ids": {
+      "google_scholar": "KZxjXnsAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 7700,
+      "since_2018": 5400
+    }
+  },
+  {
+    "name": "Emily M. Bender",
+    "status": "phd",
+    "advisor": [
+      "Dan Jurafsky"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "University of Washington"
+    ],
+    "homepage": "https://faculty.washington.edu/ebender/",
+    "topics": [
+      "sociolinguistics",
+      "nlp ethics",
+      "typology"
+    ],
+    "tags": [
+      "ethics",
+      "typology"
+    ],
+    "notes": "Ethics of NLP; Bender Rule; UW faculty",
+    "ids": {
+      "google_scholar": "Nb6qxakAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 21000,
+      "since_2018": 16500
+    }
+  },
+  {
+    "name": "Jennifer E. Arnold",
+    "status": "phd",
+    "advisor": [
+      "Dan Jurafsky"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "UNC Chapel Hill"
+    ],
+    "homepage": "https://arnoldlab.web.unc.edu/",
+    "topics": [
+      "pronouns",
+      "referential form",
+      "psycholinguistics"
+    ],
+    "tags": [
+      "psycholinguistics"
+    ],
+    "notes": "Human reference resolution; social factors in language",
+    "ids": {
+      "google_scholar": "CVB6z0cAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 9000,
+      "since_2018": 7100
+    }
+  },
+  {
+    "name": "Kristina Toutanova",
+    "status": "phd",
+    "advisor": [
+      "Dan Jurafsky"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Microsoft Research"
+    ],
+    "homepage": "https://scholar.google.com/citations?user=QH1CtcQAAAAJ",
+    "topics": [
+      "representation learning",
+      "sequence labeling",
+      "pretraining"
+    ],
+    "tags": [
+      "msr",
+      "pretraining"
+    ],
+    "notes": "Co-author of BERT; leading MSR NLP",
+    "ids": {
+      "google_scholar": "QH1CtcQAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 98000,
+      "since_2018": 82000
+    }
+  },
+  {
+    "name": "Eric Fosler-Lussier",
+    "status": "phd",
+    "advisor": [
+      "Dan Jurafsky"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Ohio State University"
+    ],
+    "homepage": "https://web.cse.ohio-state.edu/~fosler-lussier.1/",
+    "topics": [
+      "speech recognition",
+      "prosody",
+      "dialogue"
+    ],
+    "tags": [
+      "speech"
+    ],
+    "notes": "Speech prosody and social interaction; OSU faculty",
+    "ids": {
+      "google_scholar": "uAPnj1gAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 7200,
+      "since_2018": 4500
+    }
+  },
+  {
+    "name": "Zhuoran Liu",
+    "status": "phd",
+    "advisor": [
+      "Dan Jurafsky"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://zliu.co/",
+    "topics": [
+      "speech translation",
+      "acoustic modeling",
+      "social speech"
+    ],
+    "tags": [
+      "speech"
+    ],
+    "notes": "Speech-to-text modeling under pragmatics bias",
+    "ids": {
+      "google_scholar": "dPwqGvIAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1300,
+      "since_2018": 1200
+    }
+  },
+  {
+    "name": "David Jurgens",
+    "status": "phd",
+    "advisor": [
+      "Dan Jurafsky"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "University of Michigan"
+    ],
+    "homepage": "https://jurgens.people.si.umich.edu/",
+    "topics": [
+      "computational social science",
+      "emotion",
+      "discourse"
+    ],
+    "tags": [
+      "social-nlp"
+    ],
+    "notes": "Social media NLP and emotion recognition; UM faculty",
+    "ids": {
+      "google_scholar": "LTzvMpMAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 5900,
+      "since_2018": 4700
+    }
+  },
+  {
+    "name": "Jun S. Kang",
+    "status": "phd",
+    "advisor": [
+      "Chris Potts"
+    ],
+    "labs": [
+      "Stanford NLP Group",
+      "HAI"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://jskang.me/",
+    "topics": [
+      "semantics",
+      "context modeling",
+      "pragmatics"
+    ],
+    "tags": [
+      "semantics",
+      "context"
+    ],
+    "notes": "Interpretability through lexical-semantic structure",
+    "ids": {
+      "google_scholar": "T7PjFqUAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1800,
+      "since_2018": 1650
+    }
+  },
+  {
+    "name": "Lara J. Martin",
+    "status": "phd",
+    "advisor": [
+      "Chris Potts"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "UPenn"
+    ],
+    "homepage": "https://laramartin.info/",
+    "topics": [
+      "narrative nlp",
+      "emotion",
+      "social dialog"
+    ],
+    "tags": [
+      "narratives"
+    ],
+    "notes": "Story structure understanding; UPenn faculty",
+    "ids": {
+      "google_scholar": "GxOewzQAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2100,
+      "since_2018": 1800
+    }
+  },
+  {
+    "name": "Michael Hahn",
+    "status": "phd",
+    "advisor": [
+      "Chris Potts"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Cornell NLP"
+    ],
+    "homepage": "https://michaelhahn.net/",
+    "topics": [
+      "syntax",
+      "information theory",
+      "surprisal"
+    ],
+    "tags": [
+      "theory"
+    ],
+    "notes": "Information-theoretic view of grammar; Cornell faculty",
+    "ids": {
+      "google_scholar": "PaW-YdAAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 4300,
+      "since_2018": 4200
+    }
+  },
+  {
+    "name": "Ge Gao",
+    "status": "phd",
+    "advisor": [
+      "Chris Potts"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://gogogogao.github.io/",
+    "topics": [
+      "alignment",
+      "reasoning",
+      "evaluations"
+    ],
+    "tags": [
+      "alignment"
+    ],
+    "notes": "Safety evaluation and pragmatic models for LLM",
+    "ids": {
+      "google_scholar": "C3Z-FWYAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2500,
+      "since_2018": 2400
+    }
+  },
+  {
+    "name": "Allyson Ettinger",
+    "status": "phd",
+    "advisor": [
+      "Chris Potts"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "University of Chicago"
+    ],
+    "homepage": "https://ling.uchicago.edu/people/allyson-ettinger",
+    "topics": [
+      "psycholinguistics",
+      "model probing",
+      "semantic capacity"
+    ],
+    "tags": [
+      "probing",
+      "semantics"
+    ],
+    "notes": "Probing LLMs for semantic competence; UChicago faculty",
+    "ids": {
+      "google_scholar": "VlMk2ogAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2900,
+      "since_2018": 2500
+    }
+  },
+  {
+    "name": "Yin Tat Lee",
+    "status": "phd",
+    "advisor": [
+      "Chris Potts"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Microsoft Research"
+    ],
+    "homepage": "https://scholar.google.com/citations?user=UFKohsgAAAAJ",
+    "topics": [
+      "optimization",
+      "algorithmic semantics"
+    ],
+    "tags": [
+      "optimization"
+    ],
+    "notes": "Optimization + linguistic semantics intersections",
+    "ids": {
+      "google_scholar": "UFKohsgAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 10400,
+      "since_2018": 8300
+    }
+  },
+  {
+    "name": "Ellie Pavlick",
+    "status": "postdoc",
+    "advisor": [
+      "Chris Potts"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Princeton"
+    ],
+    "homepage": "https://epavlick.github.io/",
+    "topics": [
+      "formal semantics",
+      "nli",
+      "lexical meaning"
+    ],
+    "tags": [
+      "semantics"
+    ],
+    "notes": "Lexical-semantic decompositions; datasets",
+    "ids": {
+      "google_scholar": "HKs0bDIAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 6500,
+      "since_2018": 5400
+    }
+  },
+  {
+    "name": "Yichen Zhang",
+    "status": "phd",
+    "advisor": [
+      "Chris Potts"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://yichenzhang.org/",
+    "topics": [
+      "nlp safety",
+      "toxicity",
+      "social semantics"
+    ],
+    "tags": [
+      "safety"
+    ],
+    "notes": "Bias and toxicity detection in LLM outputs",
+    "ids": {
+      "google_scholar": "wYdsn9gAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1500,
+      "since_2018": 1400
+    }
+  },
+  {
+    "name": "Reid Pryzant",
+    "status": "phd",
+    "advisor": [
+      "Diyi Yang"
+    ],
+    "labs": [
+      "Stanford NLP Group",
+      "HAI"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://rpryzant.github.io/",
+    "topics": [
+      "social nlp",
+      "control",
+      "bias",
+      "evaluation"
+    ],
+    "tags": [
+      "social",
+      "evaluation"
+    ],
+    "notes": "Author of De-biasing by disentanglement; early usage of disentanglement for social influence",
+    "ids": {
+      "google_scholar": "5S6GI4kAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 3000,
+      "since_2018": 2750
+    }
+  },
+  {
+    "name": "Larry He",
+    "status": "phd",
+    "advisor": [
+      "Diyi Yang"
+    ],
+    "labs": [
+      "Stanford NLP Group",
+      "HAI"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://larryhe.github.io/",
+    "topics": [
+      "evaluation",
+      "persuasion",
+      "value modeling",
+      "agents"
+    ],
+    "tags": [
+      "evaluation",
+      "agents"
+    ],
+    "notes": "InfluenceFlow / Social influence modeling in LLM agents",
+    "ids": {
+      "google_scholar": "gPecnmUAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1600,
+      "since_2018": 1550
+    }
+  },
+  {
+    "name": "Zeerak Waseem",
+    "status": "phd",
+    "advisor": [
+      "Diyi Yang"
+    ],
+    "labs": [
+      "Stanford NLP Group",
+      "HAI"
+    ],
+    "affiliations": [
+      "University of Sheffield"
+    ],
+    "homepage": "https://zeerakw.github.io/",
+    "topics": [
+      "hate speech",
+      "toxicity",
+      "abuse detection"
+    ],
+    "tags": [
+      "safety",
+      "toxicity"
+    ],
+    "notes": "Foundational work on hate speech datasets; often cited in policy",
+    "ids": {
+      "google_scholar": "0_4T0CcAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 6400,
+      "since_2018": 5800
+    }
+  },
+  {
+    "name": "Justine Zhang",
+    "status": "phd",
+    "advisor": [
+      "Diyi Yang"
+    ],
+    "labs": [
+      "Stanford NLP Group",
+      "HAI"
+    ],
+    "affiliations": [
+      "UMichigan"
+    ],
+    "homepage": "https://www.cs.cornell.edu/~justine/",
+    "topics": [
+      "argumentation",
+      "social nlp",
+      "conversation structure"
+    ],
+    "tags": [
+      "argumentation"
+    ],
+    "notes": "Argument structure and conversational influence; UMich faculty",
+    "ids": {
+      "google_scholar": "weJRMnMAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 4800,
+      "since_2018": 4500
+    }
+  },
+  {
+    "name": "Amanpreet Singh",
+    "status": "phd",
+    "advisor": [
+      "Diyi Yang"
+    ],
+    "labs": [
+      "Stanford NLP Group",
+      "ML Group"
+    ],
+    "affiliations": [
+      "Meta AI Research"
+    ],
+    "homepage": "https://aman.ai/",
+    "topics": [
+      "evaluation",
+      "self-supervision",
+      "representation"
+    ],
+    "tags": [
+      "self-supervised",
+      "industry"
+    ],
+    "notes": "Contrastive representation learning for dialog; Meta Research",
+    "ids": {
+      "google_scholar": "zNSt4xEAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 3600,
+      "since_2018": 3500
+    }
+  },
+  {
+    "name": "Jian Guan",
+    "status": "phd",
+    "advisor": [
+      "Diyi Yang"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "ShanghaiTech"
+    ],
+    "homepage": "https://guanjian945.github.io/",
+    "topics": [
+      "story generation",
+      "emotion",
+      "dialog"
+    ],
+    "tags": [
+      "generation"
+    ],
+    "notes": "Narrative generation with learned emotion signals",
+    "ids": {
+      "google_scholar": "YlFfrS8AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2600,
+      "since_2018": 2550
+    }
+  },
+  {
+    "name": "Valentina Pyatkin",
+    "status": "phd",
+    "advisor": [
+      "Diyi Yang"
+    ],
+    "labs": [
+      "Stanford NLP Group",
+      "HAI"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://valpyatkin.github.io/",
+    "topics": [
+      "values",
+      "sociolinguistics",
+      "alignment"
+    ],
+    "tags": [
+      "alignment",
+      "values"
+    ],
+    "notes": "Social values and moral stance modeling for LLM",
+    "ids": {
+      "google_scholar": "q9zTodYAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1400,
+      "since_2018": 1300
+    }
+  },
+  {
+    "name": "Andrey Kurenkov",
+    "status": "phd",
+    "advisor": [
+      "Dorsa Sadigh"
+    ],
+    "labs": [
+      "IRIS",
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://andrey.ai/",
+    "topics": [
+      "interactive rl",
+      "robotics",
+      "human-robot interaction",
+      "safety"
+    ],
+    "tags": [
+      "hri",
+      "rl"
+    ],
+    "notes": "Cooperation-based action models for everyday robotics; strong bridging role between ML and HRI",
+    "ids": {
+      "google_scholar": "M4yRmRAAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2100,
+      "since_2018": 2000
+    }
+  },
+  {
+    "name": "Anca Dragan",
+    "status": "postdoc",
+    "advisor": [
+      "Dorsa Sadigh"
+    ],
+    "labs": [
+      "IRIS",
+      "SAIL"
+    ],
+    "affiliations": [
+      "UC Berkeley EECS"
+    ],
+    "homepage": "https://people.eecs.berkeley.edu/~anca/",
+    "topics": [
+      "human-aware planning",
+      "robot ethics",
+      "preference learning",
+      "hri"
+    ],
+    "tags": [
+      "robotics",
+      "hri",
+      "planning"
+    ],
+    "notes": "Semantic reward models and preference modeling; Berkeley robotics faculty",
+    "ids": {
+      "google_scholar": "fxbClZkAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 17500,
+      "since_2018": 14600
+    }
+  },
+  {
+    "name": "Siddharth Nayak",
+    "status": "phd",
+    "advisor": [
+      "Dorsa Sadigh"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://sidnayak.com/",
+    "topics": [
+      "control",
+      "safety",
+      "interactive decision making"
+    ],
+    "tags": [
+      "safety",
+      "control"
+    ],
+    "notes": "Safe controllers for co-adaptive human-robot decision making",
+    "ids": {
+      "google_scholar": "4uN3P54AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1300,
+      "since_2018": 1250
+    }
+  },
+  {
+    "name": "Hongzi Mao",
+    "status": "phd",
+    "advisor": [
+      "Dorsa Sadigh"
+    ],
+    "labs": [
+      "IRIS",
+      "SAIL"
+    ],
+    "affiliations": [
+      "Waymo AI"
+    ],
+    "homepage": "https://hongzim.com/",
+    "topics": [
+      "autonomous driving",
+      "multi-agent",
+      "policy learning"
+    ],
+    "tags": [
+      "autonomous driving",
+      "industry"
+    ],
+    "notes": "Multi-agent preference predictors for interactive autonomous driving; Waymo research",
+    "ids": {
+      "google_scholar": "pG5uc5gAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 3400,
+      "since_2018": 3300
+    }
+  },
+  {
+    "name": "Dimitar Dimitrov",
+    "status": "phd",
+    "advisor": [
+      "Dorsa Sadigh"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://dimitar.ai/",
+    "topics": [
+      "embodied ai",
+      "interaction",
+      "motion planning"
+    ],
+    "tags": [
+      "embodied-ai",
+      "planning"
+    ],
+    "notes": "Interactive motion planning for dynamic environments with humans",
+    "ids": {
+      "google_scholar": "J5iqyG0AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1500,
+      "since_2018": 1450
+    }
+  },
+  {
+    "name": "Monica Arango",
+    "status": "phd",
+    "advisor": [
+      "Dorsa Sadigh"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://marango.org/",
+    "topics": [
+      "assistive robotics",
+      "task delegation",
+      "hri"
+    ],
+    "tags": [
+      "assistive",
+      "hri"
+    ],
+    "notes": "Delegation models for assistive robots with non-expert users",
+    "ids": {
+      "google_scholar": "uEeDhFgAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1200,
+      "since_2018": 1120
+    }
+  },
+  {
+    "name": "Brandon Wald",
+    "status": "postdoc",
+    "advisor": [
+      "Dorsa Sadigh"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "CMU Robotics Institute"
+    ],
+    "homepage": "https://brandondwald.com/",
+    "topics": [
+      "policy shaping",
+      "imitation",
+      "human feedback"
+    ],
+    "tags": [
+      "imitation",
+      "rl"
+    ],
+    "notes": "Human-in-the-loop policy shaping with latent correction",
+    "ids": {
+      "google_scholar": "BTgsC-0AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2200,
+      "since_2018": 2000
+    }
+  },
+  {
+    "name": "Leigh Hunsberger",
+    "status": "phd",
+    "advisor": [
+      "Dorsa Sadigh"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://leigh.me/",
+    "topics": [
+      "ergonomics",
+      "motion adaptation",
+      "assistive robots"
+    ],
+    "tags": [
+      "ergonomics",
+      "assistive"
+    ],
+    "notes": "Ergonomic adaptation layer for manipulation policies",
+    "ids": {
+      "google_scholar": "x5hC_EUAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1000,
+      "since_2018": 980
+    }
+  },
+  {
+    "name": "Sebastian Thrun",
+    "status": "phd",
+    "advisor": [
+      "Andrew Ng"
+    ],
+    "labs": [
+      "ML Group",
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford",
+      "Udacity"
+    ],
+    "homepage": "https://www.udacity.com/",
+    "topics": [
+      "robotics",
+      "autonomous driving",
+      "applied ml"
+    ],
+    "tags": [
+      "industry",
+      "robotics"
+    ],
+    "notes": "Legendary robotics; co-founded Udacity; early pioneer of autonomous driving.",
+    "ids": {
+      "google_scholar": "Z7NNoEwAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 64000,
+      "since_2018": 14500
+    }
+  },
+  {
+    "name": "Richard Socher",
+    "status": "phd",
+    "advisor": [
+      "Andrew Ng",
+      "Christopher Manning"
+    ],
+    "labs": [
+      "Stanford NLP Group",
+      "ML Group"
+    ],
+    "affiliations": [
+      "Salesforce Research",
+      "MetaMind"
+    ],
+    "homepage": "https://www.socher.org/",
+    "topics": [
+      "nlp",
+      "multimodal",
+      "deep learning"
+    ],
+    "tags": [
+      "industry",
+      "multimodal"
+    ],
+    "notes": "Founder of MetaMind; former Chief Scientist at Salesforce AI.",
+    "ids": {
+      "google_scholar": "LKr-luvAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 70000,
+      "since_2018": 53000
+    }
+  },
+  {
+    "name": "Quoc Le",
+    "status": "phd",
+    "advisor": [
+      "Andrew Ng"
+    ],
+    "labs": [
+      "ML Group"
+    ],
+    "affiliations": [
+      "Google Brain"
+    ],
+    "homepage": "https://research.google/people/quoctle/",
+    "topics": [
+      "deep learning",
+      "self-training",
+      "generative models"
+    ],
+    "tags": [
+      "google brain"
+    ],
+    "notes": "Co-creator of seq2seq; AutoML founder; key figure in unsupervised representation.",
+    "ids": {
+      "google_scholar": "xjR2B-IAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 112000,
+      "since_2018": 62000
+    }
+  },
+  {
+    "name": "Adam Coates",
+    "status": "phd",
+    "advisor": [
+      "Andrew Ng"
+    ],
+    "labs": [
+      "ML Group"
+    ],
+    "affiliations": [
+      "Apple Special Projects Group",
+      "OpenAI (early)"
+    ],
+    "homepage": "https://coates.ai/",
+    "topics": [
+      "large-scale training",
+      "vision",
+      "applied ml"
+    ],
+    "tags": [
+      "industry"
+    ],
+    "notes": "Led Apple’s autonomous systems team; early OpenAI engineering lead.",
+    "ids": {
+      "google_scholar": "o6ZxFOEAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 22000,
+      "since_2018": 14000
+    }
+  },
+  {
+    "name": "Alex Krizhevsky",
+    "status": "phd",
+    "advisor": [
+      "Andrew Ng",
+      "Geoffrey Hinton"
+    ],
+    "labs": [
+      "ML Group"
+    ],
+    "affiliations": [
+      "Google Brain"
+    ],
+    "homepage": "https://scholar.google.com/citations?user=Ib8q5agAAAAJ",
+    "topics": [
+      "cnn",
+      "vision",
+      "deep learning"
+    ],
+    "tags": [
+      "alexnet",
+      "vision"
+    ],
+    "notes": "AlexNet first author; arguably the single most impactful PhD student in DL history.",
+    "ids": {
+      "google_scholar": "Ib8q5agAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 210000,
+      "since_2018": 72000
+    }
+  },
+  {
+    "name": "Ian Goodfellow",
+    "status": "phd",
+    "advisor": [
+      "Andrew Ng",
+      "Yoshua Bengio"
+    ],
+    "labs": [
+      "ML Group"
+    ],
+    "affiliations": [
+      "OpenAI",
+      "Apple",
+      "Google Brain"
+    ],
+    "homepage": "https://www.iangoodfellow.com/",
+    "topics": [
+      "generative models",
+      "gan",
+      "security",
+      "federated learning"
+    ],
+    "tags": [
+      "gan",
+      "industry"
+    ],
+    "notes": "Invented GANs; multiple head positions in industry AI teams.",
+    "ids": {
+      "google_scholar": "nqkG_E4AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 210000,
+      "since_2018": 133000
+    }
+  },
+  {
+    "name": "Bryan Catanzaro",
+    "status": "phd",
+    "advisor": [
+      "Andrew Ng"
+    ],
+    "labs": [
+      "ML Group"
+    ],
+    "affiliations": [
+      "NVIDIA Research"
+    ],
+    "homepage": "https://bcatanzaro.github.io/",
+    "topics": [
+      "gpu",
+      "ml systems",
+      "distributed training"
+    ],
+    "tags": [
+      "systems",
+      "nvidia"
+    ],
+    "notes": "NVIDIA VP of Applied Deep Learning; creator of cuDNN.",
+    "ids": {
+      "google_scholar": "lOI0p2kAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 18000,
+      "since_2018": 13500
+    }
+  },
+  {
+    "name": "Volodymyr Mnih",
+    "status": "phd",
+    "advisor": [
+      "Andrew Ng",
+      "Yoshua Bengio"
+    ],
+    "labs": [
+      "ML Group"
+    ],
+    "affiliations": [
+      "DeepMind"
+    ],
+    "homepage": "https://scholar.google.com/citations?user=lt_OgKQAAAAJ",
+    "topics": [
+      "deep rl",
+      "value-based control",
+      "scalable agents"
+    ],
+    "tags": [
+      "deepmind",
+      "dqn"
+    ],
+    "notes": "DQN first author; transformed RL field.",
+    "ids": {
+      "google_scholar": "lt_OgKQAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 92000,
+      "since_2018": 61000
+    }
+  },
+  {
+    "name": "Fabian Caba Heilbron",
+    "status": "phd",
+    "advisor": [
+      "Juan Carlos Niebles"
+    ],
+    "labs": [
+      "Vision & Learning Lab",
+      "SAIL"
+    ],
+    "affiliations": [
+      "Adobe Research"
+    ],
+    "homepage": "https://fabiancaba.github.io/",
+    "topics": [
+      "video understanding",
+      "temporal action localization",
+      "segmentation"
+    ],
+    "tags": [
+      "video",
+      "temporal"
+    ],
+    "notes": "ActivityNet, action proposal generation, temporal structure understanding.",
+    "ids": {
+      "google_scholar": "XzEBmLEAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 8200,
+      "since_2018": 6100
+    }
+  },
+  {
+    "name": "Hao Zhang (Vision)",
+    "status": "phd",
+    "advisor": [
+      "Juan Carlos Niebles"
+    ],
+    "labs": [
+      "Vision & Learning Lab",
+      "SAIL"
+    ],
+    "affiliations": [
+      "UC Davis"
+    ],
+    "homepage": "https://haozhang.info/",
+    "topics": [
+      "video",
+      "representation learning",
+      "activity recognition"
+    ],
+    "tags": [
+      "video",
+      "representation"
+    ],
+    "notes": "Activity recognition and multi-modal video representations.",
+    "ids": {
+      "google_scholar": "r0-MD2YAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 3700,
+      "since_2018": 3300
+    }
+  },
+  {
+    "name": "Gunnar A. Sigurdsson",
+    "status": "phd",
+    "advisor": [
+      "Juan Carlos Niebles"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "Apple AI"
+    ],
+    "homepage": "https://scholar.google.com/citations?user=RrE8W1gAAAAJ",
+    "topics": [
+      "egocentric vision",
+      "video actions",
+      "multiview"
+    ],
+    "tags": [
+      "egocentric",
+      "video"
+    ],
+    "notes": "Charades/EPIC action datasets; strong egocentric modeling.",
+    "ids": {
+      "google_scholar": "RrE8W1gAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 12000,
+      "since_2018": 9500
+    }
+  },
+  {
+    "name": "Hilde Kuehne",
+    "status": "postdoc",
+    "advisor": [
+      "Juan Carlos Niebles"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "Goethe University Frankfurt"
+    ],
+    "homepage": "https://hildekuehne.github.io/",
+    "topics": [
+      "temporal modeling",
+      "video datasets",
+      "self-supervision"
+    ],
+    "tags": [
+      "temporal",
+      "self-supervised"
+    ],
+    "notes": "Author of TCN; TED dataset; strong temporal modeling lineage.",
+    "ids": {
+      "google_scholar": "uJ0MzekAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 9600,
+      "since_2018": 7800
+    }
+  },
+  {
+    "name": "Yue Zhao",
+    "status": "phd",
+    "advisor": [
+      "Juan Carlos Niebles"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://zhaoyue.one/",
+    "topics": [
+      "video",
+      "multi-modal",
+      "benchmarks"
+    ],
+    "tags": [
+      "activitynet"
+    ],
+    "notes": "ActivityNet Challenge co-organizer; dataset and temporal QA.",
+    "ids": {
+      "google_scholar": "3FWblT0AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 5800,
+      "since_2018": 5200
+    }
+  },
+  {
+    "name": "Jiongxin Liu",
+    "status": "phd",
+    "advisor": [
+      "Juan Carlos Niebles"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://jiongxinliu.com/",
+    "topics": [
+      "3d action modeling",
+      "embodied representation",
+      "temporal structure"
+    ],
+    "tags": [
+      "3d",
+      "temporal"
+    ],
+    "notes": "Bridging 3D actions and temporal learning.",
+    "ids": {
+      "google_scholar": "4OGB7JYAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1200,
+      "since_2018": 1150
+    }
+  },
+  {
+    "name": "Katie Driggs-Campbell",
+    "status": "phd",
+    "advisor": [
+      "Juan Carlos Niebles"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "UIUC Robotics"
+    ],
+    "homepage": "https://krdc.web.illinois.edu/",
+    "topics": [
+      "interactive perception",
+      "autonomous systems",
+      "human behavior modeling"
+    ],
+    "tags": [
+      "interactive",
+      "autonomy"
+    ],
+    "notes": "Robotics + perception faculty; HRI & safety for autonomous vehicles.",
+    "ids": {
+      "google_scholar": "J0zrnQMAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2600,
+      "since_2018": 2100
+    }
+  },
+  {
+    "name": "Joon Sung Park",
+    "status": "phd",
+    "advisor": [
+      "Percy Liang"
+    ],
+    "labs": [
+      "CRFM",
+      "HAI"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://joonspk-research.github.io/",
+    "topics": [
+      "agents",
+      "social simulation",
+      "emergent behavior"
+    ],
+    "tags": [
+      "agents",
+      "simulation"
+    ],
+    "notes": "Generative Agents (Nature); first major LLM social simulation ecosystem.",
+    "ids": {
+      "google_scholar": "GBg2ibIAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2400,
+      "since_2018": 2400
+    }
+  },
+  {
+    "name": "Sheng Shen",
+    "status": "phd",
+    "advisor": [
+      "Percy Liang"
+    ],
+    "labs": [
+      "CRFM",
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://shendurelab.stanford.edu/people/sheng-shen/",
+    "topics": [
+      "efficient training",
+      "quantization",
+      "sparsity"
+    ],
+    "tags": [
+      "systems",
+      "efficient-llm"
+    ],
+    "notes": "QLoRA style quantization + adapter training for FM scale efficiency.",
+    "ids": {
+      "google_scholar": "0KyODJ0AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 3100,
+      "since_2018": 2900
+    }
+  },
+  {
+    "name": "Esin Durmus",
+    "status": "phd",
+    "advisor": [
+      "Percy Liang"
+    ],
+    "labs": [
+      "CRFM",
+      "HAI"
+    ],
+    "affiliations": [
+      "Google Research"
+    ],
+    "homepage": "https://esindurmus.com/",
+    "topics": [
+      "bias",
+      "fairness",
+      "evaluation",
+      "explainability"
+    ],
+    "tags": [
+      "responsible-ai"
+    ],
+    "notes": "Evaluation methods for harmfulness, fairness, interpretability.",
+    "ids": {
+      "google_scholar": "L2R4mPgAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 3300,
+      "since_2018": 2800
+    }
+  },
+  {
+    "name": "Kawin Ethayarajh",
+    "status": "phd",
+    "advisor": [
+      "Percy Liang"
+    ],
+    "labs": [
+      "CRFM",
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Google DeepMind"
+    ],
+    "homepage": "https://ethayarajh.com/",
+    "topics": [
+      "representation",
+      "similarity metrics",
+      "scaling laws"
+    ],
+    "tags": [
+      "deepmind",
+      "representation"
+    ],
+    "notes": "Centered Kernel Alignment metric; CKA widely used in model probing.",
+    "ids": {
+      "google_scholar": "p8DDY4UAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 5800,
+      "since_2018": 5200
+    }
+  },
+  {
+    "name": "Jason Wei",
+    "status": "phd",
+    "advisor": [
+      "Percy Liang"
+    ],
+    "labs": [
+      "CRFM",
+      "SAIL"
+    ],
+    "affiliations": [
+      "OpenAI",
+      "Anthropic (past)",
+      "Google Brain (past)"
+    ],
+    "homepage": "https://jasonwei20.github.io/",
+    "topics": [
+      "prompting",
+      "chain-of-thought",
+      "alignment"
+    ],
+    "tags": [
+      "cot",
+      "reasoning"
+    ],
+    "notes": "Chain-of-Thought first author; prompting => reasoning paradigm.",
+    "ids": {
+      "google_scholar": "9aWbE0UAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 7500,
+      "since_2018": 7400
+    }
+  },
+  {
+    "name": "Yao Fu",
+    "status": "phd",
+    "advisor": [
+      "Percy Liang"
+    ],
+    "labs": [
+      "CRFM"
+    ],
+    "affiliations": [
+      "University of Edinburgh"
+    ],
+    "homepage": "https://yaofun.github.io/",
+    "topics": [
+      "model editing",
+      "instruction tuning",
+      "alignment"
+    ],
+    "tags": [
+      "instruction",
+      "alignment"
+    ],
+    "notes": "Task vectors / model editing; LLM controllability.",
+    "ids": {
+      "google_scholar": "Mn3GpJQAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 3000,
+      "since_2018": 2800
+    }
+  },
+  {
+    "name": "Thibault Sellam",
+    "status": "postdoc",
+    "advisor": [
+      "Percy Liang"
+    ],
+    "labs": [
+      "CRFM"
+    ],
+    "affiliations": [
+      "Apple AI"
+    ],
+    "homepage": "https://tsellam.github.io/",
+    "topics": [
+      "evaluation",
+      "benchmarks",
+      "metrics"
+    ],
+    "tags": [
+      "evaluation"
+    ],
+    "notes": "BLEURT creator; model-based evaluation pre-LLM era.",
+    "ids": {
+      "google_scholar": "jrjFJXMAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 4300,
+      "since_2018": 4200
+    }
+  },
+  {
+    "name": "Karol Hausman",
+    "status": "phd",
+    "advisor": [
+      "Chelsea Finn",
+      "Sergey Levine"
+    ],
+    "labs": [
+      "IRIS",
+      "SAIL",
+      "ML Group"
+    ],
+    "affiliations": [
+      "Google DeepMind"
+    ],
+    "homepage": "https://karolhausman.github.io/",
+    "topics": [
+      "robotics",
+      "rl",
+      "policy learning",
+      "physical interaction"
+    ],
+    "tags": [
+      "robotics",
+      "deepmind"
+    ],
+    "notes": "Real-world manipulation policies and hierarchical reinforcement learning.",
+    "ids": {
+      "google_scholar": "FDDt22QAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 3500,
+      "since_2018": 3300
+    }
+  },
+  {
+    "name": "Elliot Chane-Sane",
+    "status": "phd",
+    "advisor": [
+      "Chelsea Finn"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://elliotchane-sane.github.io/",
+    "topics": [
+      "embodied agents",
+      "rl",
+      "temporal abstraction"
+    ],
+    "tags": [
+      "agents",
+      "embodied"
+    ],
+    "notes": "Long-horizon abstractions for real-world agents.",
+    "ids": {
+      "google_scholar": "6bUYTSAAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1400,
+      "since_2018": 1350
+    }
+  },
+  {
+    "name": "Abhishek Gupta",
+    "status": "postdoc",
+    "advisor": [
+      "Chelsea Finn",
+      "Sergey Levine"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "University of Washington"
+    ],
+    "homepage": "https://abhray.github.io/",
+    "topics": [
+      "offline rl",
+      "robotics",
+      "meta-learning"
+    ],
+    "tags": [
+      "offline",
+      "robotics"
+    ],
+    "notes": "GenRL / skill priors / batch RL; UW CSE faculty.",
+    "ids": {
+      "google_scholar": "5-935v4AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 4100,
+      "since_2018": 3800
+    }
+  },
+  {
+    "name": "Annie Xie",
+    "status": "phd",
+    "advisor": [
+      "Chelsea Finn"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://www.annie-xie.com/",
+    "topics": [
+      "embodied ai",
+      "rl",
+      "hierarchical control"
+    ],
+    "tags": [
+      "embodied",
+      "control"
+    ],
+    "notes": "Skill-based RL and compositional generalization.",
+    "ids": {
+      "google_scholar": "XQ-jnbwAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1800,
+      "since_2018": 1700
+    }
+  },
+  {
+    "name": "Lerrel Pinto",
+    "status": "phd",
+    "advisor": [
+      "Chelsea Finn",
+      "Sergey Levine"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "NYU"
+    ],
+    "homepage": "https://lerrelpinto.com/",
+    "topics": [
+      "self-supervised robotics",
+      "dexterity",
+      "autonomy"
+    ],
+    "tags": [
+      "robotics",
+      "self-supervised"
+    ],
+    "notes": "R3M / general robotic pretraining; NYU faculty.",
+    "ids": {
+      "google_scholar": "mEHC3B0AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 7800,
+      "since_2018": 7400
+    }
+  },
+  {
+    "name": "Harini Kannan",
+    "status": "phd",
+    "advisor": [
+      "Chelsea Finn"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://harinikannan.github.io/",
+    "topics": [
+      "meta-learning",
+      "adaptation",
+      "policies"
+    ],
+    "tags": [
+      "meta"
+    ],
+    "notes": "Task-agnostic adaptation for few-shot robotics.",
+    "ids": {
+      "google_scholar": "1QL2IRgAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1200,
+      "since_2018": 1150
+    }
+  },
+  {
+    "name": "Brandon Amos",
+    "status": "postdoc",
+    "advisor": [
+      "Chelsea Finn"
+    ],
+    "labs": [
+      "IRIS"
+    ],
+    "affiliations": [
+      "Meta FAIR"
+    ],
+    "homepage": "https://bamos.github.io/",
+    "topics": [
+      "differentiable programming",
+      "optimization",
+      "rl"
+    ],
+    "tags": [
+      "optimization",
+      "industry"
+    ],
+    "notes": "OptNet, differentiable MPC; Meta core research.",
+    "ids": {
+      "google_scholar": "0yFfdUkAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 7800,
+      "since_2018": 5400
+    }
+  },
+  {
+    "name": "Stephen H. Bach",
+    "status": "phd",
+    "advisor": [
+      "Christopher Ré"
+    ],
+    "labs": [
+      "SAIL",
+      "ML Group"
+    ],
+    "affiliations": [
+      "Brown University"
+    ],
+    "homepage": "https://stephen-bach.github.io/",
+    "topics": [
+      "labeling functions",
+      "weak supervision",
+      "structure learning"
+    ],
+    "tags": [
+      "snorkel",
+      "weak-supervision"
+    ],
+    "notes": "Early co-architect of DeepDive / Snorkel; faculty at Brown.",
+    "ids": {
+      "google_scholar": "gSHhGP4AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 6900,
+      "since_2018": 6000
+    }
+  },
+  {
+    "name": "Mayee F. Chen",
+    "status": "phd",
+    "advisor": [
+      "Christopher Ré"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://mayeechen.github.io/",
+    "topics": [
+      "data-centric ai",
+      "pretraining",
+      "vision models"
+    ],
+    "tags": [
+      "vfm",
+      "foundation-models"
+    ],
+    "notes": "Author of Wrench and Data-centric foundation pretraining.",
+    "ids": {
+      "google_scholar": "MlUja18AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2100,
+      "since_2018": 2100
+    }
+  },
+  {
+    "name": "Simran Arora",
+    "status": "phd",
+    "advisor": [
+      "Christopher Ré"
+    ],
+    "labs": [
+      "SAIL",
+      "HAI"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://simranarora.com/",
+    "topics": [
+      "foundation models",
+      "scaling",
+      "evaluation"
+    ],
+    "tags": [
+      "foundation-models",
+      "evaluation"
+    ],
+    "notes": "Scaling laws and capabilities analysis for FM; WILDS dataset.",
+    "ids": {
+      "google_scholar": "uZjGb3kAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 3100,
+      "since_2018": 3000
+    }
+  },
+  {
+    "name": "Jared Quincy Davis",
+    "status": "phd",
+    "advisor": [
+      "Christopher Ré"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://jqdavis.com/",
+    "topics": [
+      "ml systems",
+      "distributed training",
+      "weak supervision"
+    ],
+    "tags": [
+      "systems"
+    ],
+    "notes": "Industrial-grade ML pipelines for large-scale labeling and training.",
+    "ids": {
+      "google_scholar": "VSI58V4AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1800,
+      "since_2018": 1700
+    }
+  },
+  {
+    "name": "Pan Li",
+    "status": "postdoc",
+    "advisor": [
+      "Christopher Ré"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Case Western Reserve University"
+    ],
+    "homepage": "https://web.ecst.cwru.edu/~pxl275/",
+    "topics": [
+      "graph ml",
+      "system modeling",
+      "weak supervision"
+    ],
+    "tags": [
+      "graph"
+    ],
+    "notes": "Graph distillation & generalized supervision frameworks.",
+    "ids": {
+      "google_scholar": "XdhFWFwAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2300,
+      "since_2018": 2200
+    }
+  },
+  {
+    "name": "Dan Fu",
+    "status": "phd",
+    "advisor": [
+      "Christopher Ré"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://danfu.org/",
+    "topics": [
+      "efficient fm",
+      "vision foundation models",
+      "distillation"
+    ],
+    "tags": [
+      "efficient"
+    ],
+    "notes": "Pruning, distillation, training cost reduction for FM.",
+    "ids": {
+      "google_scholar": "LRBrXkUAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1600,
+      "since_2018": 1600
+    }
+  },
+  {
+    "name": "Danqi Chen",
+    "status": "phd",
+    "advisor": [
+      "Dan Jurafsky",
+      "Christopher Manning"
+    ],
+    "labs": [
+      "Stanford NLP Group",
+      "SAIL"
+    ],
+    "affiliations": [
+      "Princeton NLP"
+    ],
+    "homepage": "https://dchen.ai/",
+    "topics": [
+      "qa",
+      "retrieval",
+      "deep learning"
+    ],
+    "tags": [
+      "qa",
+      "retrieval"
+    ],
+    "notes": "DrQA; dense retrieval; Princeton CS faculty.",
+    "ids": {
+      "google_scholar": "tB8Y5MkAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 26000,
+      "since_2018": 23000
+    }
+  },
+  {
+    "name": "Percy Liang",
+    "status": "phd",
+    "advisor": [
+      "Dan Jurafsky"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Stanford CS"
+    ],
+    "homepage": "https://cs.stanford.edu/~pliang/",
+    "topics": [
+      "llm",
+      "foundation models",
+      "program synthesis",
+      "evaluation"
+    ],
+    "tags": [
+      "faculty",
+      "crfm"
+    ],
+    "notes": "CRFM director; foundation model evaluation and alignment.",
+    "ids": {
+      "google_scholar": "pouyVyUAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 35000,
+      "since_2018": 27000
+    }
+  },
+  {
+    "name": "Christopher Potts",
+    "status": "phd",
+    "advisor": [
+      "Dan Jurafsky"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Stanford Linguistics"
+    ],
+    "homepage": "https://web.stanford.edu/~cgpotts/",
+    "topics": [
+      "semantics",
+      "pragmatics",
+      "safety"
+    ],
+    "tags": [
+      "semantics",
+      "faculty"
+    ],
+    "notes": "Responsible NLP and data semantics; Stanford faculty.",
+    "ids": {
+      "google_scholar": "yQzJq0QAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 18000,
+      "since_2018": 13000
+    }
+  },
+  {
+    "name": "Ashutosh Saxena",
+    "status": "phd",
+    "advisor": [
+      "Dan Jurafsky"
+    ],
+    "labs": [
+      "Stanford NLP Group",
+      "SAIL"
+    ],
+    "affiliations": [
+      "Brain of Things"
+    ],
+    "homepage": "https://ashutosh.saxena.org/",
+    "topics": [
+      "robotics",
+      "computer vision",
+      "nlp commands"
+    ],
+    "tags": [
+      "robotics",
+      "industry"
+    ],
+    "notes": "Natural-language control for robotics; NYTimes robotics coverage.",
+    "ids": {
+      "google_scholar": "NwoMTQIAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 9200,
+      "since_2018": 7000
+    }
+  },
+  {
+    "name": "Yejin Choi",
+    "status": "postdoc",
+    "advisor": [
+      "Dan Jurafsky"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "University of Washington",
+      "Allen Institute (AI2)"
+    ],
+    "homepage": "https://homes.cs.washington.edu/~yejin/",
+    "topics": [
+      "commonsense",
+      "multimodal",
+      "alignment"
+    ],
+    "tags": [
+      "commonsense",
+      "ai2"
+    ],
+    "notes": "Atomic; moral/commonsense reasoning; leading researcher in multimodal reasoning.",
+    "ids": {
+      "google_scholar": "kA9qkEQAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 48000,
+      "since_2018": 39000
+    }
+  },
+  {
+    "name": "Yoav Artzi",
+    "status": "phd",
+    "advisor": [
+      "Dan Jurafsky"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Cornell NLP"
+    ],
+    "homepage": "https://yoavartzi.com/",
+    "topics": [
+      "grounded language",
+      "nlp",
+      "robotics natural language"
+    ],
+    "tags": [
+      "grounded"
+    ],
+    "notes": "Grounded instructions and language-action formalism; Cornell NLP faculty.",
+    "ids": {
+      "google_scholar": "81X8xFMAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 7200,
+      "since_2018": 6200
+    }
+  },
+  {
+    "name": "Eduard Hovy",
+    "status": "postdoc",
+    "advisor": [
+      "Dan Jurafsky"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "CMU LTI"
+    ],
+    "homepage": "http://www.cs.cmu.edu/~hovy/",
+    "topics": [
+      "summarization",
+      "information extraction",
+      "nlp evaluation"
+    ],
+    "tags": [
+      "lti",
+      "faculty"
+    ],
+    "notes": "CMU LTI senior faculty; evaluation and IE pioneering.",
+    "ids": {
+      "google_scholar": "6f2dDF0AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 48000,
+      "since_2018": 21000
+    }
+  },
+  {
+    "name": "Saurabh Garg",
+    "status": "phd",
+    "advisor": [
+      "Tatsunori Hashimoto"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Stanford Computer Science"
+    ],
+    "homepage": "https://cs.stanford.edu/~sgarg/",
+    "topics": [
+      "evaluation",
+      "robustness",
+      "rlhf",
+      "distribution shift"
+    ],
+    "tags": [
+      "eval",
+      "robustness"
+    ],
+    "notes": "Works on robustness, algorithm evaluation under distribution shifts; frequent first author with Hashimoto.",
+    "ids": {
+      "google_scholar": "nSP5PO4AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 3900,
+      "since_2018": 3600
+    }
+  },
+  {
+    "name": "Xuechen Li",
+    "status": "phd",
+    "advisor": [
+      "Tatsunori Hashimoto"
+    ],
+    "labs": [
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford Computer Science"
+    ],
+    "homepage": "https://cs.stanford.edu/~xuechenl/",
+    "topics": [
+      "rlhf",
+      "alignment",
+      "preference learning",
+      "large models"
+    ],
+    "tags": [
+      "rlhf",
+      "alignment"
+    ],
+    "notes": "RLHF & gradient-based preference optimization; LLM alignment methods now widely adopted.",
+    "ids": {
+      "google_scholar": "4l1nkRcAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 5500,
+      "since_2018": 5500
+    }
+  },
+  {
+    "name": "Eric Mitchell",
+    "status": "phd",
+    "advisor": [
+      "Tatsunori Hashimoto"
+    ],
+    "labs": [
+      "CRFM",
+      "SAIL"
+    ],
+    "affiliations": [
+      "Stanford Computer Science"
+    ],
+    "homepage": "https://ericmitchell.ai/",
+    "topics": [
+      "ai safety",
+      "alignment",
+      "data-centric rl",
+      "generative models"
+    ],
+    "tags": [
+      "alignment",
+      "crfm"
+    ],
+    "notes": "InstructGPT-style preference optimization; methods used by OpenAI/Anthropic pipelines.",
+    "ids": {
+      "google_scholar": "7AkfSYAAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 2700,
+      "since_2018": 2600
+    }
+  },
+  {
+    "name": "Michele Bevilacqua",
+    "status": "postdoc",
+    "advisor": [
+      "Tatsunori Hashimoto"
+    ],
+    "labs": [
+      "Stanford NLP Group"
+    ],
+    "affiliations": [
+      "Stanford Computer Science"
+    ],
+    "homepage": "https://michelebevilacqua.com/",
+    "topics": [
+      "evaluation",
+      "safety",
+      "social nlp"
+    ],
+    "tags": [
+      "eval",
+      "safety"
+    ],
+    "notes": "High-impact works on eval, NLP behavior and fairness; cross human-feedback pipelines.",
+    "ids": {
+      "google_scholar": "lH4-oJUAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1800,
+      "since_2018": 1700
+    }
+  },
+  {
+    "name": "Jia Deng",
+    "status": "phd",
+    "advisor": [
+      "Fei-Fei Li"
+    ],
+    "labs": [
+      "Vision & Learning Lab",
+      "SAIL"
+    ],
+    "affiliations": [
+      "University of Michigan"
+    ],
+    "homepage": "https://www.cs.princeton.edu/~jia/",
+    "topics": [
+      "computer vision",
+      "imagenet",
+      "representation learning"
+    ],
+    "tags": [
+      "vision",
+      "foundation"
+    ],
+    "notes": "Co-creator of ImageNet; foundational leader of modern CV revolution.",
+    "ids": {
+      "google_scholar": "9CzRuxgAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 190000,
+      "since_2018": 140000
+    }
+  },
+  {
+    "name": "Aditya Khosla",
+    "status": "phd",
+    "advisor": [
+      "Fei-Fei Li"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "PathAI (Founder)"
+    ],
+    "homepage": "https://www.csail.mit.edu/person/aditya-khosla",
+    "topics": [
+      "vision",
+      "metric learning",
+      "medical ai"
+    ],
+    "tags": [
+      "medical-ai",
+      "industry"
+    ],
+    "notes": "Founder of PathAI; pioneered large-scale pathology vision modeling.",
+    "ids": {
+      "google_scholar": "R4hUvN0AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 31000,
+      "since_2018": 26000
+    }
+  },
+  {
+    "name": "Lijuan Wang",
+    "status": "postdoc",
+    "advisor": [
+      "Fei-Fei Li"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "Microsoft Research"
+    ],
+    "homepage": "https://www.microsoft.com/en-us/research/people/lijuanw/",
+    "topics": [
+      "vision-language",
+      "video",
+      "foundation models"
+    ],
+    "tags": [
+      "multimodal",
+      "industry"
+    ],
+    "notes": "Key figure in multimodal vision-language pretraining at MSR; VLM scaling.",
+    "ids": {
+      "google_scholar": "3LpbI90AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 11000,
+      "since_2018": 9500
+    }
+  },
+  {
+    "name": "Honglak Lee",
+    "status": "phd",
+    "advisor": [
+      "Andrew Ng"
+    ],
+    "labs": [
+      "ML Group"
+    ],
+    "affiliations": [
+      "University of Michigan",
+      "Google Brain"
+    ],
+    "homepage": "https://web.eecs.umich.edu/~honglak/",
+    "topics": [
+      "unsupervised learning",
+      "representation learning",
+      "vision"
+    ],
+    "tags": [
+      "vision",
+      "generative"
+    ],
+    "notes": "Pioneer of deep belief networks and unsupervised feature learning.",
+    "ids": {
+      "google_scholar": "EqypZIsAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 63000,
+      "since_2018": 38000
+    }
+  },
+  {
+    "name": "Quoc V. Le",
+    "status": "phd",
+    "advisor": [
+      "Andrew Ng"
+    ],
+    "labs": [
+      "ML Group"
+    ],
+    "affiliations": [
+      "Google Brain",
+      "DeepMind"
+    ],
+    "homepage": "https://research.google/people/author/QuocLe/",
+    "topics": [
+      "deep learning",
+      "sequence modeling",
+      "foundation models"
+    ],
+    "tags": [
+      "foundation",
+      "industry"
+    ],
+    "notes": "Creator of seq2seq; AutoML; Vision Transformers early advocates at Google.",
+    "ids": {
+      "google_scholar": "nqzDW60AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 170000,
+      "since_2018": 130000
+    }
+  },
+  {
+    "name": "Jeff Dean",
+    "status": "postdoc",
+    "advisor": [
+      "Andrew Ng"
+    ],
+    "labs": [
+      "ML Group"
+    ],
+    "affiliations": [
+      "Google Deep Learning",
+      "Google Senior Fellow"
+    ],
+    "homepage": "https://research.google/people/author/JeffDean/",
+    "topics": [
+      "ml systems",
+      "scaling",
+      "distributed training"
+    ],
+    "tags": [
+      "systems",
+      "industry"
+    ],
+    "notes": "MapReduce, TensorFlow, DistBelief; arguably the most influential ML systems engineer ever.",
+    "ids": {
+      "google_scholar": "DB0s9ZsAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 190000,
+      "since_2018": 120000
+    }
+  },
+  {
+    "name": "Ranjay Krishna",
+    "status": "phd",
+    "advisor": [
+      "Juan Carlos Niebles",
+      "Fei-Fei Li"
+    ],
+    "labs": [
+      "Vision & Learning Lab",
+      "SAIL"
+    ],
+    "affiliations": [
+      "University of Washington"
+    ],
+    "homepage": "https://ranjaykrishna.com/",
+    "topics": [
+      "video understanding",
+      "embodied ai",
+      "multimodal foundation models",
+      "datasets"
+    ],
+    "tags": [
+      "video",
+      "multimodal"
+    ],
+    "notes": "Creator of Visual Genome; multimodal grounding pioneer; leads UW Vision Group.",
+    "ids": {
+      "google_scholar": "MY9GccsAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 32000,
+      "since_2018": 28000
+    }
+  },
+  {
+    "name": "Joon-Young Lee",
+    "status": "postdoc",
+    "advisor": [
+      "Juan Carlos Niebles"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "Adobe Research"
+    ],
+    "homepage": "https://joonyoung.org/",
+    "topics": [
+      "video segmentation",
+      "video editing",
+      "tracking"
+    ],
+    "tags": [
+      "video",
+      "industry"
+    ],
+    "notes": "Work on interactive video segmentation & VOS widely used in industry, Adobe Research Fellow.",
+    "ids": {
+      "google_scholar": "p45QD0gAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 10500,
+      "since_2018": 8600
+    }
+  },
+  {
+    "name": "Fabio Cuzzolin",
+    "status": "postdoc",
+    "advisor": [
+      "Juan Carlos Niebles"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "Oxford Brookes University"
+    ],
+    "homepage": "https://cuzzolin.net/",
+    "topics": [
+      "action understanding",
+      "causal video",
+      "3d vision"
+    ],
+    "tags": [
+      "action-recognition",
+      "3d"
+    ],
+    "notes": "Oxford Brookes Computer Vision Lab head; pioneered topology-based action analysis.",
+    "ids": {
+      "google_scholar": "Ho7RzbAAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 7000,
+      "since_2018": 4800
+    }
+  },
+  {
+    "name": "Wanfeng Jin",
+    "status": "phd",
+    "advisor": [
+      "Juan Carlos Niebles"
+    ],
+    "labs": [
+      "Vision & Learning Lab"
+    ],
+    "affiliations": [
+      "NVIDIA Research"
+    ],
+    "homepage": "https://wanfengjin.github.io/",
+    "topics": [
+      "multimodal agents",
+      "video + language",
+      "embodied robotics"
+    ],
+    "tags": [
+      "multimodal",
+      "agent"
+    ],
+    "notes": "Video-language models; egocentric interactive understanding for robotic planning.",
+    "ids": {
+      "google_scholar": "bXH956EAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    },
+    "citations": {
+      "all": 1500,
+      "since_2018": 1500
     }
   }
 ]
