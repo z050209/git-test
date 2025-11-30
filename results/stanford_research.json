@@ -1,0 +1,840 @@
+[
+  {
+    "name": "Stanford AI Lab (SAIL)",
+    "url": "https://ai.stanford.edu/people/",
+    "topics": [
+      "robotics",
+      "computer vision",
+      "nlp",
+      "multimodal"
+    ],
+    "people": []
+  },
+  {
+    "name": "HAI Faculty",
+    "url": "https://hai.stanford.edu/people/faculty",
+    "topics": [
+      "llm",
+      "multimodal",
+      "policy"
+    ],
+    "people": []
+  },
+  {
+    "name": "Stanford NLP Group",
+    "url": "https://nlp.stanford.edu/people/",
+    "topics": [
+      "nlp",
+      "llm",
+      "rlhf"
+    ],
+    "people": [
+      {
+        "name": "people",
+        "role": "Member",
+        "homepage": "https://nlp.stanford.edu/people/",
+        "papers": [
+          {
+            "title": "Linguistics & Computer Science",
+            "link": "https://nlp.stanford.edu/people/",
+            "overview": "Linguistics & Computer Science",
+            "key_diagram": null
+          },
+          {
+            "title": "Linguistics & Computer Science",
+            "link": "https://nlp.stanford.edu/people/",
+            "overview": "Linguistics & Computer Science",
+            "key_diagram": null
+          },
+          {
+            "title": "Computer Science & HAI",
+            "link": "https://nlp.stanford.edu/people/",
+            "overview": "Computer Science & HAI",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "publications",
+        "role": "Member",
+        "homepage": "https://nlp.stanford.edu/pubs/",
+        "papers": [
+          {
+            "title": "Christopher D. Manning",
+            "link": "http://nlp.stanford.edu/~manning/",
+            "overview": "Christopher D. Manning , Prabhakar Raghavan , and Hinrich Schütze .",
+            "key_diagram": null
+          },
+          {
+            "title": "Christopher D. Manning",
+            "link": "http://nlp.stanford.edu/~manning/",
+            "overview": "Christopher D. Manning and Hinrich Schütze .",
+            "key_diagram": null
+          },
+          {
+            "title": "Barbara A. Fox",
+            "link": "http://spot.colorado.edu/~bfox/",
+            "overview": "Barbara A. Fox , Dan Jurafsky , and Laura A.",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "research blog",
+        "role": "Researcher",
+        "homepage": "https://ai.stanford.edu/blog/nlp/",
+        "papers": [
+          {
+            "title": "Rose E. Wang",
+            "link": "https://rosewang2008.github.io/",
+            "overview": "Rose E. Wang and Megha Srivastava",
+            "key_diagram": null
+          },
+          {
+            "title": "Drew A. Hudson",
+            "link": "https://cs.stanford.edu/~dorarad/",
+            "overview": "Compiled by Drew A. Hudson",
+            "key_diagram": null
+          },
+          {
+            "title": "Sang Michael Xie",
+            "link": "https://cs.stanford.edu/~eix/",
+            "overview": "Sang Michael Xie and Sewon Min",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "software",
+        "role": "Member",
+        "homepage": "https://nlp.stanford.edu/software/",
+        "papers": [
+          {
+            "title": "The Stanford NLP Group makes some of our\n    Natural Language Processing software\n    available to everyone!  We provide statistical NLP,\n    deep learning NLP, and rule-based NLP tools for\n    major computational linguistics problems, which can be\n    incorporated into applications with human language technology needs.\n    These packages are widely used in industry, academia, and government.",
+            "link": "https://nlp.stanford.edu/software/",
+            "overview": "The Stanford NLP Group makes some of our Natural Language Processing software available to everyone! We provide statistical NLP, deep learning NLP, and rule-based NLP tools for major computational linguistics problems, which can be incorporated into applications with human language technology needs.",
+            "key_diagram": null
+          },
+          {
+            "title": "This code is actively being developed, and we try to answer questions and\n\tfix bugs on a best-effort basis.",
+            "link": "https://nlp.stanford.edu/software/",
+            "overview": "This code is actively being developed, and we try to answer questions and fix bugs on a best-effort basis.",
+            "key_diagram": null
+          },
+          {
+            "title": "GNU\n        General Public License",
+            "link": "http://www.gnu.org/licenses/gpl-2.0.html",
+            "overview": "These software distributions are open source, licensed under the GNU General Public License (v3 or later for Stanford CoreNLP; v2 or later for the other releases). Note that this is the full GPL, which allows many free uses, but does not allow its incorporation (even in part or in translation) into any type of proprietary software which you distribute.",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "teaching",
+        "role": "Member",
+        "homepage": "https://nlp.stanford.edu/teaching/",
+        "papers": [
+          {
+            "title": "A key mission of the Natural Language Processing Group is\n          graduate and undergraduate education in all areas of Human\n          Language Technology including its applications, history, and social context.",
+            "link": "https://nlp.stanford.edu/teaching/",
+            "overview": "A key mission of the Natural Language Processing Group is graduate and undergraduate education in all areas of Human Language Technology including its applications, history, and social context.",
+            "key_diagram": null
+          },
+          {
+            "title": "information for prospective\n            graduate students",
+            "link": "https://nlp.stanford.edu/prospective/",
+            "overview": "Here is some basic information for prospective graduate students .",
+            "key_diagram": null
+          },
+          {
+            "title": "Stanford University offers a rich assortment of courses in\n          Natural Language Processing and related areas, including \n          foundational courses as well as advanced seminars.",
+            "link": "https://nlp.stanford.edu/teaching/",
+            "overview": "Stanford University offers a rich assortment of courses in Natural Language Processing and related areas, including foundational courses as well as advanced seminars.",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "join",
+        "role": "Member",
+        "homepage": "https://nlp.stanford.edu/prospective/",
+        "papers": [
+          {
+            "title": "The Stanford NLP Group is always on the lookout for budding new\n      computational linguists.  Stanford has a great program at the\n      cutting edge of modern computational linguistics.",
+            "link": "https://nlp.stanford.edu/prospective/",
+            "overview": "The Stanford NLP Group is always on the lookout for budding new computational linguists. Stanford has a great program at the cutting edge of modern computational linguistics.",
+            "key_diagram": null
+          },
+          {
+            "title": "If you have questions about admissions, please check the\n      graduate admissions web pages listed on the right, or write to\n      the admissions email addresses listed.  We NLP Group members\n      attempt to answer specific NLP-related admissions questions\n      (although sometimes we get too busy...), but in general it isn't\n      necessary or helpful to contact us to let us know that you want to\n      apply or have applied for admission.",
+            "link": "https://nlp.stanford.edu/prospective/",
+            "overview": "If you have questions about admissions, please check the graduate admissions web pages listed on the right, or write to the admissions email addresses listed. We NLP Group members attempt to answer specific NLP-related admissions questions (although sometimes we get too busy...), but in general it isn't necessary or helpful to contact us to let us know that you want to apply or have applied for admission.",
+            "key_diagram": null
+          },
+          {
+            "title": "Linguistics Graduate Admissions",
+            "link": "https://linguistics.stanford.edu/degree-programs/graduate-admissions",
+            "overview": "Web: Linguistics Graduate Admissions Email: linguistics@stanford.edu",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "local",
+        "role": "Member",
+        "homepage": "https://nlp.stanford.edu/new_local/",
+        "papers": []
+      },
+      {
+        "name": "Chris Manning",
+        "role": "Member",
+        "homepage": "http://nlp.stanford.edu/~manning/",
+        "papers": [
+          {
+            "title": "Our paper on hallucinating legal LLMs",
+            "link": "http://nlp.stanford.edu/~manning/papers/Magesh-Hallucination‐Free-2025.pdf",
+            "overview": "Our paper on hallucinating legal LLMs is out in Journal of Empirical Legal Studies (2025).",
+            "key_diagram": null
+          },
+          {
+            "title": "elected to the American Academy of Arts and Sciences",
+            "link": "https://www.amacad.org/new-members-2025",
+            "overview": "I was elected to the American Academy of Arts and Sciences (2025).",
+            "key_diagram": null
+          },
+          {
+            "title": "elected to the National Academy of Engineering",
+            "link": "https://www.nae.edu/331605/NAENewClass2025",
+            "overview": "I was elected to the National Academy of Engineering (NAE) for the development and dissemination of natural language processing methods (2025).",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Dan Jurafsky",
+        "role": "Member",
+        "homepage": "http://web.stanford.edu/~jurafsky/",
+        "papers": [
+          {
+            "title": "Tversky Neural Networks: Psychologically Plausible Deep Learning with Differentiable Tversky Similarity.",
+            "link": "https://arxiv.org/pdf/2506.11035",
+            "overview": "Doumbouya, Moussa Koulako Bala, Dan Jurafsky, and Christopher D. Manning.",
+            "key_diagram": null
+          },
+          {
+            "title": "AI for Sustainable Future Foods.",
+            "link": "https://arxiv.org/pdf/2509.21556",
+            "overview": "Bianca Datta, Markus J. Buehler, Yvonne Chow, Kristina Gligoric, Dan Jurafsky, David L.",
+            "key_diagram": null
+          },
+          {
+            "title": "ELEPHANT: Measuring and Understanding Social Sycophancy in LLMs.",
+            "link": "https://arxiv.org/pdf/2505.13995",
+            "overview": "Myra Cheng*, Sunny Yu*, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. ELEPHANT: Measuring and Understanding Social Sycophancy in LLMs.",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Percy Liang",
+        "role": "Member",
+        "homepage": "http://cs.stanford.edu/~pliang/",
+        "papers": [
+          {
+            "title": "I am drawn to simple things, want to understand things deeply, and like to build useful systems.\n  I am interested in:",
+            "link": "http://cs.stanford.edu/~pliang/",
+            "overview": "I am drawn to simple things, want to understand things deeply, and like to build useful systems. I am interested in:",
+            "key_diagram": null
+          },
+          {
+            "title": "weight multiple datasets",
+            "link": "https://arxiv.org/pdf/2305.10429",
+            "overview": "How do we build foundation models from first principles? How do we weight multiple datasets ?",
+            "key_diagram": null
+          },
+          {
+            "title": "code for older projects",
+            "link": "http://cs.stanford.edu/~pliang/software",
+            "overview": "Here is some code for older projects .",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Chris Potts",
+        "role": "Member",
+        "homepage": "http://web.stanford.edu/~cgpotts/",
+        "papers": []
+      },
+      {
+        "name": "Tatsunori Hashimoto",
+        "role": "Member",
+        "homepage": "https://thashim.github.io",
+        "papers": [
+          {
+            "title": "Assistant Professor, Stanford",
+            "link": "https://thashim.github.io",
+            "overview": "Assistant Professor, Stanford",
+            "key_diagram": null
+          },
+          {
+            "title": "thashim [AT] stanford.edu",
+            "link": "https://thashim.github.io",
+            "overview": "thashim [AT] stanford.edu",
+            "key_diagram": null
+          },
+          {
+            "title": "I am currently an assistant professor at the computer science department in Stanford university.",
+            "link": "https://thashim.github.io",
+            "overview": "I am currently an assistant professor at the computer science department in Stanford university.",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Monica Lam",
+        "role": "Member",
+        "homepage": "https://suif.stanford.edu/~lam/",
+        "papers": []
+      },
+      {
+        "name": "Diyi Yang",
+        "role": "Member",
+        "homepage": "https://cs.stanford.edu/~diyiy/",
+        "papers": [
+          {
+            "title": "Computer Science Department",
+            "link": "https://cs.stanford.edu/",
+            "overview": "Computer Science Department",
+            "key_diagram": null
+          },
+          {
+            "title": "Natural Language Processing Group",
+            "link": "https://nlp.stanford.edu/",
+            "overview": "Natural Language Processing Group",
+            "key_diagram": null
+          },
+          {
+            "title": "Computer Science Department",
+            "link": "https://www.cs.stanford.edu/",
+            "overview": "I am an assistant professor in the Computer Science Department at Stanford , affiliated with the Stanford NLP Group , Stanford HCI Group , Stanford AI Lab (SAIL) , and Stanford Human-Centered Artificial Intelligence (HAI) . I am interested in Socially Aware NLP , Large Language Models (LLMs) and Human-AI Interaction , with a focus on how LLMs can augment human capabilities across research, work and well-being.",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Yejin Choi",
+        "role": "Member",
+        "homepage": "https://homes.cs.washington.edu/~yejin/",
+        "papers": []
+      },
+      {
+        "name": "Noah Goodman",
+        "role": "Member",
+        "homepage": "https://cocolab.stanford.edu/ndg.html",
+        "papers": [
+          {
+            "title": "Scholar metrics and bibliography",
+            "link": "https://scholar.google.com/citations?user=OUpIbcQAAAAJ",
+            "overview": "Scholar metrics and bibliography",
+            "key_diagram": null
+          },
+          {
+            "title": "Email: ngoodman at stanford dot edu",
+            "link": "https://cocolab.stanford.edu/ndg.html",
+            "overview": "Email: ngoodman at stanford dot edu",
+            "key_diagram": null
+          },
+          {
+            "title": "Office: 356 Jordan Hall, Stanford.",
+            "link": "https://cocolab.stanford.edu/ndg.html",
+            "overview": "Office: 356 Jordan Hall, Stanford.",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Douwe Kiela",
+        "role": "Member",
+        "homepage": "https://douwekiela.github.io",
+        "papers": [
+          {
+            "title": "My work focuses on machine learning and natural language processing. My research interests lie in developing better models for (grounded, multi-agent, retrieval-augmented) language understanding and better tools for evaluation and benchmarking.",
+            "link": "https://douwekiela.github.io",
+            "overview": "My work focuses on machine learning and natural language processing. My research interests lie in developing better models for (grounded, multi-agent, retrieval-augmented) language understanding and better tools for evaluation and benchmarking.",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Dora Demszky",
+        "role": "Member",
+        "homepage": "https://www.dorademszky.com",
+        "papers": [
+          {
+            "title": "How Do Math Teachers Make Decisions About Using AI?",
+            "link": "https://hai.stanford.edu/news/how-math-teachers-are-making-decisions-about-using-ai",
+            "overview": "How Do Math Teachers Make Decisions About Using AI? : read our brief report from the 60-teacher summit we organized in June.",
+            "key_diagram": null
+          },
+          {
+            "title": "NCTE classroom transcript dataset",
+            "link": "https://github.com/ddemszky/classroom-transcript-analysis",
+            "overview": "Our NCTE classroom transcript dataset received the best IEDMS Publicly Available Educational Dataset Prize ! 🏆",
+            "key_diagram": null
+          },
+          {
+            "title": "Practitioner Voices Summit",
+            "link": "https://edunlp.stanford.edu/news/practitioner-voices-summit-shaping-future-ai-math-education",
+            "overview": "Our Practitioner Voices Summit in June hosted 60 teachers from 22 states, to provide them with a platform to inform R&D related to AI in classrooms. The rooms were buzzing with energy with all the ideas, and the dedication of these teachers to their students.",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Tengyu Ma",
+        "role": "Member",
+        "homepage": "https://ai.stanford.edu/~tengyuma/",
+        "papers": [
+          {
+            "title": "The first name is pronounced as Tung-ü, where ü is roughly a mixture of i and u, as in German. I'm more than happy to accept any approximation, so please feel free to use your favorite variants/surrogates!",
+            "link": "https://ai.stanford.edu/~tengyuma/",
+            "overview": "The first name is pronounced as Tung-ü, where ü is roughly a mixture of i and u, as in German. I'm more than happy to accept any approximation, so please feel free to use your favorite variants/surrogates!",
+            "key_diagram": null
+          },
+          {
+            "title": "Hi! I am an assistant professor of computer science at Stanford. My research interests broadly include topics in machine learning, algorithms and their theory, such as deep learning, (deep) reinforcement learning, pre-training / foundation models, robustness, non-convex optimization, distributed optimization, and high-dimensional statistics.",
+            "link": "https://ai.stanford.edu/~tengyuma/",
+            "overview": "Hi! I am an assistant professor of computer science at Stanford.",
+            "key_diagram": null
+          },
+          {
+            "title": "Sang Michael Xie",
+            "link": "https://cs.stanford.edu/~eix/",
+            "overview": "Sang Michael Xie (Ph.D. 2024, co-advised with Percy Liang, research scientist at Meta GenAI)",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Azalia Mirhoseini",
+        "role": "Member",
+        "homepage": "http://www.azaliamirhoseini.com",
+        "papers": [
+          {
+            "title": "Systems for Machine Learning",
+            "link": "https://cs229s.stanford.edu/fall2024/",
+            "overview": "Fall 2023, Fall 2024 - CS229s: Systems for Machine Learning",
+            "key_diagram": null
+          },
+          {
+            "title": "Self-Improving AI Agent",
+            "link": "https://cs329a.stanford.edu/",
+            "overview": "Winter 2024, Fall 2025 - CS329a: Self-Improving AI Agent",
+            "key_diagram": null
+          },
+          {
+            "title": "Distinguished Speaker Series, IBMâs Watson Research Center, 2025",
+            "link": "http://www.azaliamirhoseini.com",
+            "overview": "Distinguished Speaker Series, IBMâs Watson Research Center, 2025",
+            "key_diagram": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Center for Research on Foundation Models (CRFM)",
+    "url": "https://crfm.stanford.edu/people.html",
+    "topics": [
+      "foundation model",
+      "preference learning",
+      "tokenization"
+    ],
+    "people": [
+      {
+        "name": "People",
+        "role": "Member",
+        "homepage": "https://crfm.stanford.edu/people.html",
+        "papers": [
+          {
+            "title": "Joon Sung Park",
+            "link": "http://www.joonsungpark.com/",
+            "overview": "© 2024. Stanford Center for Research on Foundation Models.",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Report",
+        "role": "Member",
+        "homepage": "https://crfm.stanford.edu/report.html",
+        "papers": [
+          {
+            "title": "Joon Sung Park",
+            "link": "http://www.joonsungpark.com/",
+            "overview": "© 2024. Stanford Center for Research on Foundation Models.",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "HELM",
+        "role": "Member",
+        "homepage": "https://crfm.stanford.edu/helm",
+        "papers": []
+      },
+      {
+        "name": "Levanter",
+        "role": "Member",
+        "homepage": "https://crfm.stanford.edu/2023/06/16/levanter-1_0-release.html",
+        "papers": [
+          {
+            "title": "Legible: Levanter comes with a new named tensor library named Haliax that makes it easy to write legible, composable deep learning code, while still being high performance.",
+            "link": "https://crfm.stanford.edu/2023/06/16/levanter-1_0-release.html",
+            "overview": "Legible : Levanter comes with a new named tensor library named Haliax that makes it easy to write legible, composable deep learning code, while still being high performance.",
+            "key_diagram": null
+          },
+          {
+            "title": "Scalable: Levanter is designed to scale to large models, and to be able to train on a variety of hardware, including GPUs and TPUs.",
+            "link": "https://crfm.stanford.edu/2023/06/16/levanter-1_0-release.html",
+            "overview": "Scalable : Levanter is designed to scale to large models, and to be able to train on a variety of hardware, including GPUs and TPUs.",
+            "key_diagram": null
+          },
+          {
+            "title": "Reproducible: Levanter is bitwise deterministic, meaning that the same configuration will always produce the same results, even in the face of preemption and resumption.",
+            "link": "https://crfm.stanford.edu/2023/06/16/levanter-1_0-release.html",
+            "overview": "Reproducible : Levanter is bitwise deterministic, meaning that the same configuration will always produce the same results, even in the face of preemption and resumption.",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "FMTI",
+        "role": "Member",
+        "homepage": "https://crfm.stanford.edu/fmti",
+        "papers": []
+      },
+      {
+        "name": "Openness",
+        "role": "Member",
+        "homepage": "https://crfm.stanford.edu/open-fms/",
+        "papers": [
+          {
+            "title": "Analyzing the benefits and risks of foundation models with widely available weights",
+            "link": "https://crfm.stanford.edu/open-fms/",
+            "overview": "Analyzing the benefits and risks of foundation models with widely available weights",
+            "key_diagram": null
+          },
+          {
+            "title": "Paper (ICML 2024 Oral)",
+            "link": "https://arxiv.org/pdf/2403.07918v1.pdf",
+            "overview": "Paper (ICML 2024 Oral) Blog Policy brief Authors",
+            "key_diagram": null
+          },
+          {
+            "title": "Identifying distinctive properties.Foundation models released with widely available\n                        weights have\n                        distinctive properties that lead to both their benefits and risks. We outline five\n                        properties\n                        that inform our analysis of their societal impact: broader access, greater customizability, the\n                        ability for local inference and adaptability, an inability to rescind model weights once\n                        released, and an inability to monitor or moderate usage.",
+            "link": "https://crfm.stanford.edu/open-fms/",
+            "overview": "Identifying distinctive properties. Foundation models released with widely available weights have distinctive properties that lead to both their benefits and risks.",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Ecosystem Graphs",
+        "role": "Member",
+        "homepage": "https://crfm.stanford.edu/ecosystem-graphs/",
+        "papers": []
+      },
+      {
+        "name": "Policy",
+        "role": "Member",
+        "homepage": "https://crfm.stanford.edu/policy.html",
+        "papers": [
+          {
+            "title": "Joon Sung Park",
+            "link": "http://www.joonsungpark.com/",
+            "overview": "© 2024. Stanford Center for Research on Foundation Models.",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Blog",
+        "role": "Member",
+        "homepage": "https://crfm.stanford.edu/blog.html",
+        "papers": [
+          {
+            "title": "Joon Sung Park",
+            "link": "http://www.joonsungpark.com/",
+            "overview": "© 2024. Stanford Center for Research on Foundation Models.",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Percy Liang",
+        "role": "Member",
+        "homepage": "https://cs.stanford.edu/~pliang/",
+        "papers": [
+          {
+            "title": "I am drawn to simple things, want to understand things deeply, and like to build useful systems.\n  I am interested in:",
+            "link": "https://cs.stanford.edu/~pliang/",
+            "overview": "I am drawn to simple things, want to understand things deeply, and like to build useful systems. I am interested in:",
+            "key_diagram": null
+          },
+          {
+            "title": "weight multiple datasets",
+            "link": "https://arxiv.org/pdf/2305.10429",
+            "overview": "How do we build foundation models from first principles? How do we weight multiple datasets ?",
+            "key_diagram": null
+          },
+          {
+            "title": "code for older projects",
+            "link": "https://cs.stanford.edu/~pliang/software",
+            "overview": "Here is some code for older projects .",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Akshay Chaudhari",
+        "role": "Member",
+        "homepage": "https://med.stanford.edu/mimi.html",
+        "papers": [
+          {
+            "title": "Find a doctor",
+            "link": "https://med.stanford.edu/mimi.html",
+            "overview": "Find a doctor",
+            "key_diagram": null
+          },
+          {
+            "title": "Pediatrician or pediatric specialist",
+            "link": "http://www.stanfordchildrens.org/en/search/default?tab=doctors",
+            "overview": "Pediatrician or pediatric specialist",
+            "key_diagram": null
+          },
+          {
+            "title": "Clinics & Services",
+            "link": "https://med.stanford.edu/mimi.html",
+            "overview": "Clinics & Services",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Carlos Guestrin",
+        "role": "Member",
+        "homepage": "https://guestrin.stanford.edu",
+        "papers": [
+          {
+            "title": "Computer Science, Stanford University",
+            "link": "https://guestrin.stanford.edu",
+            "overview": "Computer Science, Stanford University",
+            "key_diagram": null
+          },
+          {
+            "title": "Stanford AI Lab",
+            "link": "https://ai.stanford.edu",
+            "overview": "Director, Stanford AI Lab (SAIL) Fortinet Founders Professor Senior Fellow, Institute for Human-Centered AI Chief Scientist, Visual Layer Chief Scientist, Virtue AI Member of the National Academy of Engineering",
+            "key_diagram": null
+          },
+          {
+            "title": "Stanford AI Lab (SAIL)",
+            "link": "https://ai.stanford.edu",
+            "overview": "Carlos Guestrin Fortinet Founders Professor, Computer Science, Stanford Director, Stanford AI Lab (SAIL) Senior Fellow, Stanford Institute for Human-Centered AI (HAI) Chief Scientist, Visual Layer Chief Scientist, Virtue AI Member of the National Academy of Engineering Research Focus Machine Learning Methods Explainability, Fairness & Ethics of AI Machine Learning Systems",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Chelsea Finn",
+        "role": "Member",
+        "homepage": "https://ai.stanford.edu/~cbfinn/",
+        "papers": [
+          {
+            "title": "Chelsea Finncbfinn at cs dot stanford dot edu",
+            "link": "https://ai.stanford.edu/~cbfinn/",
+            "overview": "Chelsea Finn cbfinn at cs dot stanford dot edu",
+            "key_diagram": null
+          },
+          {
+            "title": "I am interested in the capability of robots and other agents to develop broadly intelligent behavior through learning and interaction.",
+            "link": "https://ai.stanford.edu/~cbfinn/",
+            "overview": "I am interested in the capability of robots and other agents to develop broadly intelligent behavior through learning and interaction.",
+            "key_diagram": null
+          },
+          {
+            "title": "featured in the New York Times",
+            "link": "https://www.nytimes.com/2021/07/20/technology/ai-education-neural-networks.html",
+            "overview": "Our work on meta-learning for giving feedback to students was featured in the New York Times . See the blog post , paper , and slides for more information.",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Chris Re",
+        "role": "Member",
+        "homepage": "https://cs.stanford.edu/~chrismre/",
+        "papers": [
+          {
+            "title": "Teaching and Awards",
+            "link": "https://cs.stanford.edu/~chrismre/#courses",
+            "overview": "Teaching and Awards",
+            "key_diagram": null
+          },
+          {
+            "title": "On the AI side, I am fascinated by how we can learn from increasingly weak forms of supervision, the basis of new architectures, the role of data, and by the mathematical foundations of such techniques.",
+            "link": "https://cs.stanford.edu/~chrismre/",
+            "overview": "On the AI side, I am fascinated by how we can learn from increasingly weak forms of supervision, the basis of new architectures, the role of data, and by the mathematical foundations of such techniques.",
+            "key_diagram": null
+          },
+          {
+            "title": "Intelligence per Watt",
+            "link": "https://hazyresearch.stanford.edu/blog/2025-11-18-intelligence-per-watt",
+            "overview": "Intelligence per Watt ( paper | repo ) measuring efficiency of AI and foundation models!",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Christopher Manning",
+        "role": "Member",
+        "homepage": "https://nlp.stanford.edu/manning/",
+        "papers": []
+      },
+      {
+        "name": "Dan Boneh",
+        "role": "Member",
+        "homepage": "https://crypto.stanford.edu/~dabo/",
+        "papers": [
+          {
+            "title": "Mail: Computer Science Dept., 389 Jane Stanford Way, Stanford, CA 94305",
+            "link": "https://crypto.stanford.edu/~dabo/",
+            "overview": "Mail: Computer Science Dept., 389 Jane Stanford Way, Stanford, CA 94305",
+            "key_diagram": null
+          },
+          {
+            "title": "My main research focus is applied cryptography and computer security.",
+            "link": "https://crypto.stanford.edu/~dabo/",
+            "overview": "My main research focus is applied cryptography and computer security.",
+            "key_diagram": null
+          },
+          {
+            "title": "Computer Security Seminar",
+            "link": "https://crypto.stanford.edu/seclab/sem.html",
+            "overview": "Check out our Computer Security Seminar : a bi-weekly seminar open to the public.",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Dan Ho",
+        "role": "Member",
+        "homepage": "https://dho.stanford.edu/",
+        "papers": [
+          {
+            "title": "Maps & Directions",
+            "link": "http://visit.stanford.edu/plan/maps.html",
+            "overview": "Maps & Directions",
+            "key_diagram": null
+          },
+          {
+            "title": "Terms of Use",
+            "link": "https://dho.stanford.edu/site/terms/",
+            "overview": "Terms of Use",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Dan Jurafsky",
+        "role": "Member",
+        "homepage": "https://web.stanford.edu/~jurafsky/",
+        "papers": [
+          {
+            "title": "Tversky Neural Networks: Psychologically Plausible Deep Learning with Differentiable Tversky Similarity.",
+            "link": "https://arxiv.org/pdf/2506.11035",
+            "overview": "Doumbouya, Moussa Koulako Bala, Dan Jurafsky, and Christopher D. Manning.",
+            "key_diagram": null
+          },
+          {
+            "title": "AI for Sustainable Future Foods.",
+            "link": "https://arxiv.org/pdf/2509.21556",
+            "overview": "Bianca Datta, Markus J. Buehler, Yvonne Chow, Kristina Gligoric, Dan Jurafsky, David L.",
+            "key_diagram": null
+          },
+          {
+            "title": "ELEPHANT: Measuring and Understanding Social Sycophancy in LLMs.",
+            "link": "https://arxiv.org/pdf/2505.13995",
+            "overview": "Myra Cheng*, Sunny Yu*, Cinoo Lee, Pranav Khadpe, Lujain Ibrahim, Dan Jurafsky. ELEPHANT: Measuring and Understanding Social Sycophancy in LLMs.",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Daniel Yamins",
+        "role": "Member",
+        "homepage": "https://neuroailab.stanford.edu",
+        "papers": [
+          {
+            "title": "Computational Models of Sensory Cortex",
+            "link": "https://neuroailab.stanford.edu/computational-models-of-sensory-cortex.html",
+            "overview": "Computational Models of Sensory Cortex",
+            "key_diagram": null
+          },
+          {
+            "title": "Probing the Nature of Visual Representations",
+            "link": "https://neuroailab.stanford.edu/probing-the-nature-of-visual-representations.html",
+            "overview": "Probing the Nature of Visual Representations",
+            "key_diagram": null
+          }
+        ]
+      },
+      {
+        "name": "Diyi Yang",
+        "role": "Member",
+        "homepage": "https://cs.stanford.edu/~diyiy/",
+        "papers": [
+          {
+            "title": "Computer Science Department",
+            "link": "https://cs.stanford.edu/",
+            "overview": "Computer Science Department",
+            "key_diagram": null
+          },
+          {
+            "title": "Natural Language Processing Group",
+            "link": "https://nlp.stanford.edu/",
+            "overview": "Natural Language Processing Group",
+            "key_diagram": null
+          },
+          {
+            "title": "Computer Science Department",
+            "link": "https://www.cs.stanford.edu/",
+            "overview": "I am an assistant professor in the Computer Science Department at Stanford , affiliated with the Stanford NLP Group , Stanford HCI Group , Stanford AI Lab (SAIL) , and Stanford Human-Centered Artificial Intelligence (HAI) . I am interested in Socially Aware NLP , Large Language Models (LLMs) and Human-AI Interaction , with a focus on how LLMs can augment human capabilities across research, work and well-being.",
+            "key_diagram": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vision & Learning Lab",
+    "url": "https://vision.stanford.edu/people.html",
+    "topics": [
+      "computer vision",
+      "multimodal",
+      "generative"
+    ],
+    "people": []
+  },
+  {
+    "name": "Stanford IRIS (Robotics)",
+    "url": "https://iris.stanford.edu/people",
+    "topics": [
+      "robotics",
+      "reinforcement learning"
+    ],
+    "people": []
+  }
+]
