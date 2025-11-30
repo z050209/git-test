@@ -5,59 +5,80 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 4 * * *"
-  workflow_dispatch:
+    - cron: "0 4 * * *"    # 每天 UTC 4:00 = 新加坡中午 12:00
+  workflow_dispatch:        # 手动触发
 
 jobs:
   run-job-search:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout main
+      # 1. Checkout main
+      - name: Checkout main branch
+      # 拉完整历史，不要浅 fetch，否则 reset 可能失败
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           ref: main
 
+      # 🔥 2. Reset local HEAD 强制对齐远端 main — 防止分叉导致 push 失败
+      - name: Reset local to remote main
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+          git clean -fd
+
+      # 3. Setup Python
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
+      # 4. Install deps
       - name: Install dependencies
         run: |
           pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
+      # 5. Run job search script
       - name: Run job crawler
         run: python run.py
 
+      # 6. Collect results
       - name: Collect results
         run: |
           mkdir -p results
-          find . -maxdepth 2 -type f -name "job_results_*.json" -exec mv {} results/ \;
+          find . -type f -name "job_results_*.json" -maxdepth 2 -exec mv {} results/ \;
 
-      - name: Build dashboards
+      # 7. Generate dashboards
+      - name: Generate dashboards
         run: |
           for f in results/job_results_*.json; do
+            echo "➡️ Building html for $f"
             python build_jobs_dashboard.py --in-json "$f"
           done
 
-      - name: Cleanup old files (>30 days)
+      # 8. Remove old files (>30 days)
+      - name: Cleanup > 30 days
         run: |
-          find results -name "job_results_*.json" -mtime +30 -delete || true
-          find results -name "job_results_*.html" -mtime +30 -delete || true
+          echo "🧹 JSON older than 30 days"
+          find results -type f -name "job_results_*.json" -mtime +30 -print -delete || true
+          echo "🧹 HTML older than 30 days"
+          find results -type f -name "job_results_*.html" -mtime +30 -print -delete || true
 
-      - name: Keep newest 30
+      # 9. Keep latest 30 items
+      - name: Cleanup (>30 newest)
         run: |
           ls -t results/job_results_*.json | tail -n +31 | xargs -r rm
           ls -t results/job_results_*.html | tail -n +31 | xargs -r rm
 
-      - name: Commit to data-history
+      # 🔟 Push to data-history branch
+      - name: Push to data-history branch
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Daily job scraping + dashboards"
           file_pattern: results/*
           branch: data-history
           create_branch: true
+          # 避免误删别人 push 的代码
           push_options: '--force-with-lease'
