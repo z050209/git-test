@@ -60,11 +60,13 @@ jobs:
           echo "--- HTML ---"
           ls -l results | grep .html || true
 
-      - name: Commit results
+      - name: Commit results to data-history
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Daily job results"
           file_pattern: |
             results/*.json
             results/*.html
+          branch: data-history
+          create_branch: true
           push_options: '--force-with-lease'
