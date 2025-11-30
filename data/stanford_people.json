@@ -370,7 +370,7 @@
     "affiliations": [
       "Stanford Computer Science"
     ],
-    "homepage": "https://cs.stanford.edu/people/jniebles/",
+    "homepage": "https://www.niebles.net/",
     "topics": [
       "computer vision",
       "video understanding",
@@ -1495,38 +1495,7 @@
       "since_2018": 65000
     }
   },
-  {
-    "name": "Juan Carlos Niebles",
-    "status": "phd",
-    "advisor": [
-      "Fei-Fei Li"
-    ],
-    "labs": [
-      "Vision & Learning Lab"
-    ],
-    "affiliations": [
-      "Stanford CS"
-    ],
-    "homepage": "https://cs.stanford.edu/people/jniebles/",
-    "topics": [
-      "video understanding",
-      "action recognition",
-      "embodied ai"
-    ],
-    "tags": [
-      "vision"
-    ],
-    "notes": "Action recognition pioneer; Stanford faculty",
-    "ids": {
-      "google_scholar": "V0eRx0EAAAAJ",
-      "semantic_scholar": null,
-      "openalex": null
-    },
-    "citations": {
-      "all": 24000,
-      "since_2018": 18000
-    }
-  },
+   
   {
     "name": "Hao Su",
     "status": "postdoc",
