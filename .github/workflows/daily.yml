@@ -5,33 +5,24 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 4 * * *"   # EVERY DAY 12:00 Singapore Time (UTC+8)
-  workflow_dispatch:      # Manual trigger
+    - cron: "0 4 * * *"
+  workflow_dispatch:
 
 jobs:
   run-job-search:
     runs-on: ubuntu-latest
 
     steps:
-      # ---------------------------
-      # 1. Checkout
-      # ---------------------------
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # ---------------------------
-      # 2. Install Python
-      # ---------------------------
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # ---------------------------
-      # 3. Dependencies
-      # ---------------------------
       - name: Install dependencies
         run: |
           pip install --upgrade pip
@@ -39,24 +30,14 @@ jobs:
             pip install -r requirements.txt
           fi
 
-      # ---------------------------
-      # 4. Run crawler script
-      # ---------------------------
       - name: Run job crawler
-        run: |
-          python run.py
+        run: python run.py
 
-      # ---------------------------
-      # 5. Move job results → results/
-      # ---------------------------
       - name: Collect JSON outputs
         run: |
           mkdir -p results
           find . -maxdepth 2 -type f -name "job_results_*.json" -exec mv {} results/ \;
 
-      # ---------------------------
-      # 6. Generate HTML dashboards
-      # ---------------------------
       - name: Build dashboards
         run: |
           for f in results/job_results_*.json; do
@@ -64,41 +45,26 @@ jobs:
             python build_jobs_dashboard.py --in-json "$f"
           done
 
-      # ---------------------------
-      # 7. Cleanup old job history (> 30 days)
-      # ---------------------------
-      - name: Cleanup old job files (30d)
+      - name: Cleanup oldest JSON (keep 30 latest)
         run: |
-          echo "🧹 Deleting JSON older than 30 days"
-          find results -type f -name "job_results_*.json" -mtime +30 -print -delete || true
-          echo "🧹 Deleting HTML older than 30 days"
-          find results -type f -name "job_results_*.html" -mtime +30 -print -delete || true
-
-      # 保留最近 30 份（防止意外）
-      - name: Cleanup excess files (>30)
-        run: |
-          echo "🔐 Keep newest 30 JSON"
           ls -t results/job_results_*.json | tail -n +31 | xargs -r rm
-          echo "🔐 Keep newest 30 HTML"
+
+      - name: Cleanup oldest HTML (keep 30 latest)
+        run: |
           ls -t results/job_results_*.html | tail -n +31 | xargs -r rm
 
-      # ---------------------------
-      # 8. Debug (optional)
-      # ---------------------------
       - name: Debug results
         run: |
-          echo "--- RESULTS JSON ---"
-          ls -l results | grep .json
-          echo "--- RESULTS HTML ---"
-          ls -l results | grep .html
+          echo "--- JSON ---"
+          ls -l results | grep .json || true
+          echo "--- HTML ---"
+          ls -l results | grep .html || true
 
-      # ---------------------------
-      # 9. Auto Commit
-      # ---------------------------
-     
-      - name: Commit results to main
+      - name: Commit results
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Daily job results"
-          file_pattern: results/*
-          push_options: '--pull --force-with-lease'
+          file_pattern: |
+            results/*.json
+            results/*.html
+          push_options: '--force-with-lease'
