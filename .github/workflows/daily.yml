@@ -59,7 +59,6 @@ jobs:
           ls -l results | grep .json || true
           echo "--- HTML ---"
           ls -l results | grep .html || true
-
       - name: Commit results to data-history
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
