@@ -15,13 +15,12 @@ jobs:
     steps:
       # 1. Checkout main
       - name: Checkout main branch
-      # 拉完整历史，不要浅 fetch，否则 reset 可能失败
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           ref: main
 
-      # 🔥 2. Reset local HEAD 强制对齐远端 main — 防止分叉导致 push 失败
+      # 2. Reset local HEAD to remote main (avoid divergence)
       - name: Reset local to remote main
         run: |
           git fetch origin main
@@ -40,7 +39,7 @@ jobs:
           pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      # 5. Run job search script
+      # 5. Run crawler
       - name: Run job crawler
         run: python run.py
 
@@ -61,13 +60,11 @@ jobs:
       # 8. Remove old files (>30 days)
       - name: Cleanup > 30 days
         run: |
-          echo "🧹 JSON older than 30 days"
           find results -type f -name "job_results_*.json" -mtime +30 -print -delete || true
-          echo "🧹 HTML older than 30 days"
           find results -type f -name "job_results_*.html" -mtime +30 -print -delete || true
 
-      # 9. Keep latest 30 items
-      - name: Cleanup (>30 newest)
+      # 9. Keep only newest 30
+      - name: Cleanup newest 30
         run: |
           ls -t results/job_results_*.json | tail -n +31 | xargs -r rm
           ls -t results/job_results_*.html | tail -n +31 | xargs -r rm
@@ -76,9 +73,8 @@ jobs:
       - name: Push to data-history branch
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Daily job scraping + dashboards"
           file_pattern: results/*
+          commit_message: "Daily job scraping + dashboards"
           branch: data-history
           create_branch: true
-          # 避免误删别人 push 的代码
           push_options: '--force-with-lease'
