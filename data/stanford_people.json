@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Christopher D. Manning",
+    "status": "faculty",
+    "labs": ["Stanford NLP Group", "SAIL", "HAI"],
+    "affiliations": ["Computer Science", "Linguistics"],
+    "homepage": "https://nlp.stanford.edu/~manning/",
+    "topics": ["nlp", "llm", "representation learning", "syntax", "semantics"],
+    "tags": ["core", "nlp", "stanford-nlp", "sail", "hai"],
+    "notes": "Founder of Stanford NLP; Siebel Professor; former SAIL director.",
+    "ids": {
+      "google_scholar": "1zmDOdwAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    }
+  },
+  {
+    "name": "Percy Liang",
+    "status": "faculty",
+    "labs": ["CRFM", "Stanford NLP Group", "SAIL", "HAI", "ML Group"],
+    "affiliations": ["Computer Science"],
+    "homepage": "https://cs.stanford.edu/~pliang/",
+    "topics": ["foundation models", "llm", "alignment", "evaluation", "program synthesis"],
+    "tags": ["core", "crfm", "nlp", "foundation-models"],
+    "notes": "Director of CRFM; focused on foundation models and evaluation.",
+    "ids": {
+      "google_scholar": "pouyVyUAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    }
+  },
+  {
+    "name": "Dan Jurafsky",
+    "status": "faculty",
+    "labs": ["Stanford NLP Group", "SAIL"],
+    "affiliations": ["Computer Science", "Linguistics"],
+    "homepage": "https://web.stanford.edu/~jurafsky/",
+    "topics": ["nlp", "speech", "pragmatics", "computational linguistics"],
+    "tags": ["core", "nlp", "speech"],
+    "notes": "Co-author of 'Speech and Language Processing'; NLP & speech.",
+    "ids": {
+      "google_scholar": "xfOe2_MAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    }
+  },
+  {
+    "name": "Chris Potts",
+    "status": "faculty",
+    "labs": ["Stanford NLP Group", "HAI"],
+    "affiliations": ["Linguistics"],
+    "homepage": "https://profiles.stanford.edu/christopher-potts",
+    "topics": ["nlp", "semantics", "pragmatics", "safety"],
+    "tags": ["nlp"],
+    "notes": "Works on semantics, pragmatics, and responsible NLP.",
+    "ids": {
+      "google_scholar": "yQzJq0QAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    }
+  },
+  {
+    "name": "Tatsunori Hashimoto",
+    "status": "faculty",
+    "labs": ["Stanford NLP Group", "SAIL", "HAI"],
+    "affiliations": ["Computer Science"],
+    "homepage": "https://thashim.github.io/",
+    "topics": ["llm", "evaluation", "robustness", "alignment", "statistics"],
+    "tags": ["core", "eval", "alignment"],
+    "notes": "Works on evaluation, robustness, and statistics for ML/LLMs.",
+    "ids": {
+      "google_scholar": "yVQvpYAAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    }
+  },
+  {
+    "name": "Diyi Yang",
+    "status": "faculty",
+    "labs": ["Stanford NLP Group", "HAI"],
+    "affiliations": ["Computer Science"],
+    "homepage": "https://cs.stanford.edu/~diyiy/",
+    "topics": ["nlp", "social nlp", "evaluation", "safety"],
+    "tags": ["nlp", "social"],
+    "notes": "Focus on social aspects of NLP, evaluation, and human-centered NLP.",
+    "ids": {
+      "google_scholar": "pRFev50AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    }
+  },
+  {
+    "name": "Fei-Fei Li",
+    "status": "faculty",
+    "labs": ["Vision & Learning Lab", "SAIL", "HAI"],
+    "affiliations": ["Computer Science"],
+    "homepage": "https://profiles.stanford.edu/fei-fei-li",
+    "topics": ["computer vision", "multimodal", "robotics", "healthcare"],
+    "tags": ["core", "vision", "hai"],
+    "notes": "Co-director of HAI; vision, multimodal perception, and human-centered AI.",
+    "ids": {
+      "google_scholar": "rDfyQnIAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    }
+  },
+  {
+    "name": "Chelsea Finn",
+    "status": "faculty",
+    "labs": ["IRIS", "SAIL", "ML Group"],
+    "affiliations": ["Computer Science", "Electrical Engineering"],
+    "homepage": "https://ai.stanford.edu/~cbfinn/",
+    "topics": ["robotics", "rl", "meta-learning", "embodied ai"],
+    "tags": ["robotics", "rl", "iris"],
+    "notes": "Leads IRIS lab; works on RL, robotics, and meta-learning.",
+    "ids": {
+      "google_scholar": "vfPE6hgAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    }
+  },
+  {
+    "name": "Jure Leskovec",
+    "status": "faculty",
+    "labs": ["SAIL", "ML Group"],
+    "affiliations": ["Computer Science"],
+    "homepage": "https://cs.stanford.edu/~jure/",
+    "topics": ["graph learning", "recommendation", "network science"],
+    "tags": ["graphs", "ml"],
+    "notes": "Works on graph ML and large-scale network modeling.",
+    "ids": {
+      "google_scholar": "IUzWkq4AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    }
+  },
+  {
+    "name": "Christopher Ré",
+    "status": "faculty",
+    "labs": ["SAIL", "HAI"],
+    "affiliations": ["Computer Science"],
+    "homepage": "https://cs.stanford.edu/people/chrismre/",
+    "topics": ["ml systems", "weak supervision", "foundation models"],
+    "tags": ["systems", "ml"],
+    "notes": "Works on ML systems, data-centric AI, and weak supervision.",
+    "ids": {
+      "google_scholar": "1p8zzLkAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    }
+  },
+  {
+    "name": "Dorsa Sadigh",
+    "status": "faculty",
+    "labs": ["IRIS", "SAIL"],
+    "affiliations": ["Computer Science", "Electrical Engineering"],
+    "homepage": "https://dorsa.fyi/",
+    "topics": ["robotics", "human-robot interaction", "rl", "safety"],
+    "tags": ["robotics", "hri"],
+    "notes": "Focus on interactive robotics, HRI, and safe decision-making.",
+    "ids": {
+      "google_scholar": "QD1gJ3cAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    }
+  },
+  {
+    "name": "Andrew Ng",
+    "status": "faculty",
+    "labs": ["ML Group", "SAIL"],
+    "affiliations": ["Computer Science"],
+    "homepage": "https://stanfordmlgroup.github.io/",
+    "topics": ["machine learning", "applied ml", "healthcare", "representation learning"],
+    "tags": ["ml-group"],
+    "notes": "Leads Stanford Machine Learning Group.",
+    "ids": {
+      "google_scholar": "nKARkWYAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    }
+  },
+  {
+    "name": "Juan Carlos Niebles",
+    "status": "faculty",
+    "labs": ["Vision & Learning Lab", "SAIL"],
+    "affiliations": ["Computer Science"],
+    "homepage": "https://cs.stanford.edu/people/jniebles/",
+    "topics": ["computer vision", "video understanding", "embodied ai"],
+    "tags": ["vision"],
+    "notes": "Works on vision, video understanding, and AI4ALL programs.",
+    "ids": {
+      "google_scholar": "V0eRx0EAAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    }
+  },
+  {
+    "name": "Rishi Bommasani",
+    "status": "other",
+    "labs": ["CRFM", "HAI"],
+    "affiliations": ["Computer Science"],
+    "homepage": "https://rishibommasani.github.io/",
+    "topics": ["foundation models", "evaluation", "policy", "societal impact"],
+    "tags": ["crfm", "foundation-models"],
+    "notes": "Key CRFM researcher; first author of 'On the Opportunities and Risks of Foundation Models'.",
+    "ids": {
+      "google_scholar": "adRDu80AAAAJ",
+      "semantic_scholar": null,
+      "openalex": null
+    }
+  }
+]
