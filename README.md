@@ -13,6 +13,18 @@ The scraper performs many network requests, so expect it to take a while:
 python job_search.py
 ```
 
+## Stanford research crawler
+
+`stanford_research_agent.py` crawls Stanford AI labs, gathers people and recent papers, summarizes them, and writes JSON plus a
+styled HTML report. Run it locally with:
+
+```bash
+python stanford_research_agent.py --out-json results/stanford_research.json --out-html results/stanford_research.html
+```
+
+The scheduled GitHub Actions workflow (`.github/workflows/stanford_research.yml`) runs the crawler every three days and uploads
+the newest report as an artifact.
+
 
 If you only need a one-off send with environment variables, use the convenience helper:
 
