@@ -95,9 +95,9 @@ jobs:
       # ---------------------------
       # 9. Auto Commit
       # ---------------------------
-      - name: Commit updated results
+      - name: Commit job results
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Daily Job Update + Dashboard"
+          commit_message: "Daily job results"
           file_pattern: results/*
           push_options: '--force-with-lease'
