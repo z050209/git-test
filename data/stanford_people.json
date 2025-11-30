@@ -428,75 +428,8 @@
       "since_2018": 9000
     }
   },
-  {
-    "name": "Tianyi Zhang",
-    "status": "phd",
-    "advisor": [
-      "Percy Liang"
-    ],
-    "labs": [
-      "CRFM"
-    ],
-    "affiliations": [
-      "Stanford CS"
-    ],
-    "homepage": "https://tianyi.io/",
-    "topics": [
-      "evaluation",
-      "foundation models",
-      "nlp",
-      "alignment"
-    ],
-    "tags": [
-      "eval",
-      "foundation-models"
-    ],
-    "notes": "Known for HELM project contributions",
-    "ids": {
-      "google_scholar": "0jEyNXgAAAAJ",
-      "semantic_scholar": null,
-      "openalex": null
-    },
-    "citations": {
-      "all": 2300,
-      "since_2018": 1800
-    }
-  },
-  {
-    "name": "Eric Wallace",
-    "status": "phd",
-    "advisor": [
-      "Percy Liang"
-    ],
-    "labs": [
-      "CRFM",
-      "HAI"
-    ],
-    "affiliations": [
-      "Stanford CS"
-    ],
-    "homepage": "https://ericwallace.github.io/",
-    "topics": [
-      "robustness",
-      "adversarial nlp",
-      "llm safety",
-      "alignment"
-    ],
-    "tags": [
-      "security",
-      "eval"
-    ],
-    "notes": "Adversarial attacks, jailbreaking; worked on adversarial pytorch NLP",
-    "ids": {
-      "google_scholar": "PYVJBL0AAAAJ",
-      "semantic_scholar": null,
-      "openalex": null
-    },
-    "citations": {
-      "all": 6400,
-      "since_2018": 5800
-    }
-  },
+ 
+ 
   {
     "name": "Xiang Lisa Li",
     "status": "phd",
@@ -697,38 +630,7 @@
       "since_2018": 2500
     }
   },
-  {
-    "name": "Tian Yu Liu",
-    "status": "phd",
-    "advisor": [
-      "Percy Liang"
-    ],
-    "labs": [
-      "CRFM"
-    ],
-    "affiliations": [
-      "Stanford CS"
-    ],
-    "homepage": "https://tianyu-liu.com/",
-    "topics": [
-      "alignment",
-      "policy",
-      "reasoning"
-    ],
-    "tags": [
-      "alignment"
-    ],
-    "notes": "Works on governance + technical alignment for FMs",
-    "ids": {
-      "google_scholar": "GFe9RZYAAAAJ",
-      "semantic_scholar": null,
-      "openalex": null
-    },
-    "citations": {
-      "all": 1700,
-      "since_2018": 1500
-    }
-  },
+ 
   {
     "name": "Sebastian Ruder",
     "status": "phd",
@@ -2368,7 +2270,7 @@
     "affiliations": [
       "Stanford CS"
     ],
-    "homepage": "https://weilinchiang.github.io/",
+    "homepage": "https://infwinston.github.io//",
     "topics": [
       "llm evaluation",
       "robustness",
@@ -2847,40 +2749,7 @@
       "since_2018": 4700
     }
   },
-  {
-    "name": "Jun S. Kang",
-    "status": "phd",
-    "advisor": [
-      "Chris Potts"
-    ],
-    "labs": [
-      "Stanford NLP Group",
-      "HAI"
-    ],
-    "affiliations": [
-      "Stanford CS"
-    ],
-    "homepage": "https://jskang.me/",
-    "topics": [
-      "semantics",
-      "context modeling",
-      "pragmatics"
-    ],
-    "tags": [
-      "semantics",
-      "context"
-    ],
-    "notes": "Interpretability through lexical-semantic structure",
-    "ids": {
-      "google_scholar": "T7PjFqUAAAAJ",
-      "semantic_scholar": null,
-      "openalex": null
-    },
-    "citations": {
-      "all": 1800,
-      "since_2018": 1650
-    }
-  },
+ 
   {
     "name": "Lara J. Martin",
     "status": "phd",
@@ -3209,39 +3078,7 @@
       "since_2018": 5800
     }
   },
-  {
-    "name": "Justine Zhang",
-    "status": "phd",
-    "advisor": [
-      "Diyi Yang"
-    ],
-    "labs": [
-      "Stanford NLP Group",
-      "HAI"
-    ],
-    "affiliations": [
-      "UMichigan"
-    ],
-    "homepage": "https://www.cs.cornell.edu/~justine/",
-    "topics": [
-      "argumentation",
-      "social nlp",
-      "conversation structure"
-    ],
-    "tags": [
-      "argumentation"
-    ],
-    "notes": "Argument structure and conversational influence; UMich faculty",
-    "ids": {
-      "google_scholar": "weJRMnMAAAAJ",
-      "semantic_scholar": null,
-      "openalex": null
-    },
-    "citations": {
-      "all": 4800,
-      "since_2018": 4500
-    }
-  },
+  
   {
     "name": "Amanpreet Singh",
     "status": "phd",
@@ -3321,7 +3158,7 @@
     "affiliations": [
       "Stanford CS"
     ],
-    "homepage": "https://valpyatkin.github.io/",
+    "homepage": "https://valentinapy.github.io/",
     "topics": [
       "values",
       "sociolinguistics",
@@ -4131,7 +3968,7 @@
     "affiliations": [
       "Stanford CS"
     ],
-    "homepage": "https://joonspk-research.github.io/",
+    "homepage": "https://www.joonsungpark.com/",
     "topics": [
       "agents",
       "social simulation",
@@ -4152,74 +3989,8 @@
       "since_2018": 2400
     }
   },
-  {
-    "name": "Sheng Shen",
-    "status": "phd",
-    "advisor": [
-      "Percy Liang"
-    ],
-    "labs": [
-      "CRFM",
-      "SAIL"
-    ],
-    "affiliations": [
-      "Stanford CS"
-    ],
-    "homepage": "https://shendurelab.stanford.edu/people/sheng-shen/",
-    "topics": [
-      "efficient training",
-      "quantization",
-      "sparsity"
-    ],
-    "tags": [
-      "systems",
-      "efficient-llm"
-    ],
-    "notes": "QLoRA style quantization + adapter training for FM scale efficiency.",
-    "ids": {
-      "google_scholar": "0KyODJ0AAAAJ",
-      "semantic_scholar": null,
-      "openalex": null
-    },
-    "citations": {
-      "all": 3100,
-      "since_2018": 2900
-    }
-  },
-  {
-    "name": "Esin Durmus",
-    "status": "phd",
-    "advisor": [
-      "Percy Liang"
-    ],
-    "labs": [
-      "CRFM",
-      "HAI"
-    ],
-    "affiliations": [
-      "Google Research"
-    ],
-    "homepage": "https://esindurmus.com/",
-    "topics": [
-      "bias",
-      "fairness",
-      "evaluation",
-      "explainability"
-    ],
-    "tags": [
-      "responsible-ai"
-    ],
-    "notes": "Evaluation methods for harmfulness, fairness, interpretability.",
-    "ids": {
-      "google_scholar": "L2R4mPgAAAAJ",
-      "semantic_scholar": null,
-      "openalex": null
-    },
-    "citations": {
-      "all": 3300,
-      "since_2018": 2800
-    }
-  },
+ 
+   
   {
     "name": "Kawin Ethayarajh",
     "status": "phd",
@@ -4290,39 +4061,7 @@
       "since_2018": 7400
     }
   },
-  {
-    "name": "Yao Fu",
-    "status": "phd",
-    "advisor": [
-      "Percy Liang"
-    ],
-    "labs": [
-      "CRFM"
-    ],
-    "affiliations": [
-      "University of Edinburgh"
-    ],
-    "homepage": "https://yaofun.github.io/",
-    "topics": [
-      "model editing",
-      "instruction tuning",
-      "alignment"
-    ],
-    "tags": [
-      "instruction",
-      "alignment"
-    ],
-    "notes": "Task vectors / model editing; LLM controllability.",
-    "ids": {
-      "google_scholar": "Mn3GpJQAAAAJ",
-      "semantic_scholar": null,
-      "openalex": null
-    },
-    "citations": {
-      "all": 3000,
-      "since_2018": 2800
-    }
-  },
+ 
   {
     "name": "Thibault Sellam",
     "status": "postdoc",
@@ -4392,39 +4131,7 @@
       "since_2018": 3300
     }
   },
-  {
-    "name": "Elliot Chane-Sane",
-    "status": "phd",
-    "advisor": [
-      "Chelsea Finn"
-    ],
-    "labs": [
-      "IRIS"
-    ],
-    "affiliations": [
-      "Stanford CS"
-    ],
-    "homepage": "https://elliotchane-sane.github.io/",
-    "topics": [
-      "embodied agents",
-      "rl",
-      "temporal abstraction"
-    ],
-    "tags": [
-      "agents",
-      "embodied"
-    ],
-    "notes": "Long-horizon abstractions for real-world agents.",
-    "ids": {
-      "google_scholar": "6bUYTSAAAAAJ",
-      "semantic_scholar": null,
-      "openalex": null
-    },
-    "citations": {
-      "all": 1400,
-      "since_2018": 1350
-    }
-  },
+ 
   {
     "name": "Abhishek Gupta",
     "status": "postdoc",
@@ -4459,39 +4166,7 @@
       "since_2018": 3800
     }
   },
-  {
-    "name": "Annie Xie",
-    "status": "phd",
-    "advisor": [
-      "Chelsea Finn"
-    ],
-    "labs": [
-      "IRIS"
-    ],
-    "affiliations": [
-      "Stanford CS"
-    ],
-    "homepage": "https://www.annie-xie.com/",
-    "topics": [
-      "embodied ai",
-      "rl",
-      "hierarchical control"
-    ],
-    "tags": [
-      "embodied",
-      "control"
-    ],
-    "notes": "Skill-based RL and compositional generalization.",
-    "ids": {
-      "google_scholar": "XQ-jnbwAAAAJ",
-      "semantic_scholar": null,
-      "openalex": null
-    },
-    "citations": {
-      "all": 1800,
-      "since_2018": 1700
-    }
-  },
+   
   {
     "name": "Lerrel Pinto",
     "status": "phd",
@@ -4526,38 +4201,7 @@
       "since_2018": 7400
     }
   },
-  {
-    "name": "Harini Kannan",
-    "status": "phd",
-    "advisor": [
-      "Chelsea Finn"
-    ],
-    "labs": [
-      "IRIS"
-    ],
-    "affiliations": [
-      "Stanford CS"
-    ],
-    "homepage": "https://harinikannan.github.io/",
-    "topics": [
-      "meta-learning",
-      "adaptation",
-      "policies"
-    ],
-    "tags": [
-      "meta"
-    ],
-    "notes": "Task-agnostic adaptation for few-shot robotics.",
-    "ids": {
-      "google_scholar": "1QL2IRgAAAAJ",
-      "semantic_scholar": null,
-      "openalex": null
-    },
-    "citations": {
-      "all": 1200,
-      "since_2018": 1150
-    }
-  },
+  
   {
     "name": "Brandon Amos",
     "status": "postdoc",
@@ -4658,40 +4302,7 @@
       "since_2018": 2100
     }
   },
-  {
-    "name": "Simran Arora",
-    "status": "phd",
-    "advisor": [
-      "Christopher Ré"
-    ],
-    "labs": [
-      "SAIL",
-      "HAI"
-    ],
-    "affiliations": [
-      "Stanford CS"
-    ],
-    "homepage": "https://simranarora.com/",
-    "topics": [
-      "foundation models",
-      "scaling",
-      "evaluation"
-    ],
-    "tags": [
-      "foundation-models",
-      "evaluation"
-    ],
-    "notes": "Scaling laws and capabilities analysis for FM; WILDS dataset.",
-    "ids": {
-      "google_scholar": "uZjGb3kAAAAJ",
-      "semantic_scholar": null,
-      "openalex": null
-    },
-    "citations": {
-      "all": 3100,
-      "since_2018": 3000
-    }
-  },
+ 
   {
     "name": "Jared Quincy Davis",
     "status": "phd",

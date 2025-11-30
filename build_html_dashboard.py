@@ -71,11 +71,12 @@ def build_lab_index(people: List[Dict[str, Any]]) -> Dict[str, List[Dict[str, An
 
 STATUS_ORDER = {
     "faculty": 0,
-    "phd": 1,
+    "Researcher": 1,
     "postdoc": 2,
-    "ms": 3,
-    "student": 4,
-    "other": 5,
+    "phd": 3,
+    "ms": 4,
+    "student": 5,
+    "other": 6,
 }
 
 def status_label(status: str) -> str:
@@ -127,11 +128,17 @@ def build_html(in_data: Dict[str, Any]) -> str:
         person_cards = []
         for p in sorted(people_in_lab, key=person_sort_key):
 
-            name = p.get("name", "")
-            homepage = p.get("homepage") or ""
-            status = status_label(p.get("status", ""))
-            topics = p.get("topics") or []
-            works = p.get("works") or []
+         name = p.get("name", "")
+         homepage = p.get("homepage") or ""
+         status = status_label(p.get("status", ""))
+         topics = p.get("topics") or []
+         works = p.get("works") or []
+        #  print(len(works))
+         if not works:
+            # 没有任何论文，直接不渲染这个人
+            continue
+         else:
+
 
             topic_badges = " ".join(
                 f"<span class='topic-badge'>{html.escape(t)}</span>" for t in topics
