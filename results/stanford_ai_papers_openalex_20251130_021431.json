@@ -1,0 +1,1126 @@
+{
+  "generated_at": "2025-11-30T02:14:45.868835Z",
+  "source": "openalex",
+  "from_date": "2025-06-01",
+  "people": [
+    {
+      "name": "Christopher D. Manning",
+      "labs": [
+        "Stanford NLP Group",
+        "SAIL",
+        "HAI"
+      ],
+      "topics": [
+        "nlp",
+        "llm",
+        "representation learning",
+        "syntax",
+        "semantics"
+      ],
+      "status": "faculty",
+      "homepage": "https://nlp.stanford.edu/~manning/",
+      "openalex_id": "https://openalex.org/A5046006076",
+      "works": [
+        {
+          "id": "https://openalex.org/W4415854782",
+          "title": "Transcribe, Translate, or Transliterate: An Investigation of Intermediate Representations in Spoken Language Models",
+          "publication_date": "2025-10-02",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2510.02569",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2510.02569"
+        },
+        {
+          "id": "https://openalex.org/W4414811222",
+          "title": "Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity",
+          "publication_date": "2025-10-01",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2510.01171",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2510.01171"
+        },
+        {
+          "id": "https://openalex.org/W4414804979",
+          "title": "Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space",
+          "publication_date": "2025-09-30",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2510.00219",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2510.00219"
+        },
+        {
+          "id": "https://openalex.org/W4413810562",
+          "title": "CAR binding efficacy and off-target interactions for common CAR detection reagents",
+          "publication_date": "2025-08-28",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1016/j.jim.2025.113970",
+          "venue": "Journal of Immunological Methods",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1016/j.jim.2025.113970"
+        },
+        {
+          "id": "https://openalex.org/W4412929247",
+          "title": "Quantifying large language model usage in scientific papers",
+          "publication_date": "2025-08-04",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1038/s41562-025-02273-8",
+          "venue": "Nature Human Behaviour",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1038/s41562-025-02273-8"
+        },
+        {
+          "id": "https://openalex.org/W4412825882",
+          "title": "The Surprising Victory of NLP: From Philosophy to Agentic Language Models",
+          "publication_date": "2025-08-01",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1145/3711896.3736801",
+          "venue": null,
+          "open_access": "closed",
+          "url": "https://doi.org/10.1145/3711896.3736801"
+        },
+        {
+          "id": "https://openalex.org/W4415233165",
+          "title": "A New Pair of GloVes",
+          "publication_date": "2025-07-24",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2507.18103",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2507.18103"
+        },
+        {
+          "id": "https://openalex.org/W4414959282",
+          "title": "Mechanisms vs. Outcomes: Probing for Syntax Fails to Explain Performance on Targeted Syntactic Evaluations",
+          "publication_date": "2025-06-20",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2506.16678",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2506.16678"
+        },
+        {
+          "id": "https://openalex.org/W4416074446",
+          "title": "Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models",
+          "publication_date": "2025-06-04",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2506.03989",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2506.03989"
+        }
+      ]
+    },
+    {
+      "name": "Percy Liang",
+      "labs": [
+        "CRFM",
+        "Stanford NLP Group",
+        "SAIL",
+        "HAI",
+        "ML Group"
+      ],
+      "topics": [
+        "foundation models",
+        "llm",
+        "alignment",
+        "evaluation",
+        "program synthesis"
+      ],
+      "status": "faculty",
+      "homepage": "https://cs.stanford.edu/~pliang/",
+      "openalex_id": "https://openalex.org/A5025255782",
+      "works": [
+        {
+          "id": "https://openalex.org/W4415257516",
+          "title": "Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation",
+          "publication_date": "2025-10-13",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2510.11977",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2510.11977"
+        },
+        {
+          "id": "https://openalex.org/W4415097678",
+          "title": "MLE-Smith: Scaling MLE Tasks with Automated Multi-Agent Pipeline",
+          "publication_date": "2025-10-08",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2510.07307",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2510.07307"
+        },
+        {
+          "id": "https://openalex.org/W4414238865",
+          "title": "Using Large Language Models and Retrieval-Augmented Generation in MRI Protocol Selection: Balancing Accuracy and Privacy",
+          "publication_date": "2025-09-16",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.58530/2025/3377",
+          "venue": "Proceedings on CD-ROM - International Society for Magnetic Resonance in Medicine. Scientific Meeting and Exhibition/Proceedings of the International Society for Magnetic Resonance in Medicine, Scientific Meeting and Exhibition",
+          "open_access": "closed",
+          "url": "https://doi.org/10.58530/2025/3377"
+        },
+        {
+          "id": "https://openalex.org/W4415059469",
+          "title": "Audits Under Resource, Data, and Access Constraints: Scaling Laws For Less Discriminatory Alternatives",
+          "publication_date": "2025-09-06",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2509.05627",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2509.05627"
+        },
+        {
+          "id": "https://openalex.org/W4412794959",
+          "title": "Advancing science- and evidence-based AI policy",
+          "publication_date": "2025-07-31",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1126/science.adu8449",
+          "venue": "Science",
+          "open_access": "green",
+          "url": "https://doi.org/10.1126/science.adu8449"
+        },
+        {
+          "id": "https://openalex.org/W4414050921",
+          "title": "Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success",
+          "publication_date": "2025-06-21",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.15607/rss.2025.xxi.017",
+          "venue": null,
+          "open_access": "gold",
+          "url": "https://doi.org/10.15607/rss.2025.xxi.017"
+        }
+      ]
+    },
+    {
+      "name": "Dan Jurafsky",
+      "labs": [
+        "Stanford NLP Group",
+        "SAIL"
+      ],
+      "topics": [
+        "nlp",
+        "speech",
+        "pragmatics",
+        "computational linguistics"
+      ],
+      "status": "faculty",
+      "homepage": "https://web.stanford.edu/~jurafsky/",
+      "openalex_id": "https://openalex.org/A5087088138",
+      "works": [
+        {
+          "id": "https://openalex.org/W4415816110",
+          "title": "Language models cannot reliably distinguish belief from knowledge and fact",
+          "publication_date": "2025-11-03",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1038/s42256-025-01113-8",
+          "venue": "Nature Machine Intelligence",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1038/s42256-025-01113-8"
+        },
+        {
+          "id": "https://openalex.org/W4415271140",
+          "title": "Generation Space Size: Understanding and Calibrating Open-Endedness of LLM Generations",
+          "publication_date": "2025-10-14",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2510.12699",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2510.12699"
+        },
+        {
+          "id": "https://openalex.org/W4415947849",
+          "title": "Attention to Non-Adopters",
+          "publication_date": "2025-10-10",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2510.15951",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2510.15951"
+        },
+        {
+          "id": "https://openalex.org/W4415854782",
+          "title": "Transcribe, Translate, or Transliterate: An Investigation of Intermediate Representations in Spoken Language Models",
+          "publication_date": "2025-10-02",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2510.02569",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2510.02569"
+        },
+        {
+          "id": "https://openalex.org/W4414816520",
+          "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence",
+          "publication_date": "2025-10-01",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2510.01395",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2510.01395"
+        },
+        {
+          "id": "https://openalex.org/W4414787219",
+          "title": "False Friends Are Not Foes: Investigating Vocabulary Overlap in Multilingual Language Models",
+          "publication_date": "2025-09-23",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2509.18750",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2509.18750"
+        },
+        {
+          "id": "https://openalex.org/W4416065066",
+          "title": "The ML-SUPERB 2.0 Challenge: Towards Inclusive ASR Benchmarking for All Language Varieties",
+          "publication_date": "2025-09-08",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2509.07139",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2509.07139"
+        },
+        {
+          "id": "https://openalex.org/W4414184234",
+          "title": "Racial Disparities in the Discretionary Context of Traffic Stops: How Organizational Practices Shape Institutional Interactions",
+          "publication_date": "2025-09-01",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1111/josi.70017",
+          "venue": "Journal of Social Issues",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1111/josi.70017"
+        },
+        {
+          "id": "https://openalex.org/W4415433462",
+          "title": "The ML-SUPERB 2.0 Challenge: Towards Inclusive ASR Benchmarking for All Language Varieties",
+          "publication_date": "2025-08-17",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.21437/interspeech.2025-1013",
+          "venue": null,
+          "open_access": "closed",
+          "url": "https://doi.org/10.21437/interspeech.2025-1013"
+        },
+        {
+          "id": "https://openalex.org/W4412794959",
+          "title": "Advancing science- and evidence-based AI policy",
+          "publication_date": "2025-07-31",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1126/science.adu8449",
+          "venue": "Science",
+          "open_access": "green",
+          "url": "https://doi.org/10.1126/science.adu8449"
+        }
+      ]
+    },
+    {
+      "name": "Chris Potts",
+      "labs": [
+        "Stanford NLP Group",
+        "HAI"
+      ],
+      "topics": [
+        "nlp",
+        "semantics",
+        "pragmatics",
+        "safety"
+      ],
+      "status": "faculty",
+      "homepage": "https://profiles.stanford.edu/christopher-potts",
+      "openalex_id": "https://openalex.org/A5110115423",
+      "works": [
+        {
+          "id": "https://openalex.org/W4414946374",
+          "title": "Polystyrene and polyethylene terephthalate nanoplastics differentially impact mouse ovarian follicle function",
+          "publication_date": "2025-10-08",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1016/j.envpol.2025.127228",
+          "venue": "Environmental Pollution",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1016/j.envpol.2025.127228"
+        }
+      ]
+    },
+    {
+      "name": "Tatsunori Hashimoto",
+      "labs": [
+        "Stanford NLP Group",
+        "SAIL",
+        "HAI"
+      ],
+      "topics": [
+        "llm",
+        "evaluation",
+        "robustness",
+        "alignment",
+        "statistics"
+      ],
+      "status": "faculty",
+      "homepage": "https://thashim.github.io/",
+      "openalex_id": "https://openalex.org/A5015518638",
+      "works": [
+        {
+          "id": "https://openalex.org/W4412567478",
+          "title": "Liability for AI-Generated Speech",
+          "publication_date": "2025-07-22",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1093/oxfordhb/9780198940272.013.0021",
+          "venue": "Oxford University Press eBooks",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1093/oxfordhb/9780198940272.013.0021"
+        },
+        {
+          "id": "https://openalex.org/W4411497326",
+          "title": "The future of open human feedback",
+          "publication_date": "2025-06-20",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1038/s42256-025-01038-2",
+          "venue": "Nature Machine Intelligence",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1038/s42256-025-01038-2"
+        }
+      ]
+    },
+    {
+      "name": "Diyi Yang",
+      "labs": [
+        "Stanford NLP Group",
+        "HAI"
+      ],
+      "topics": [
+        "nlp",
+        "social nlp",
+        "evaluation",
+        "safety"
+      ],
+      "status": "faculty",
+      "homepage": "https://cs.stanford.edu/~diyiy/",
+      "openalex_id": "https://openalex.org/A5089413311",
+      "works": [
+        {
+          "id": "https://openalex.org/W4415928590",
+          "title": "Culture Cartography: Mapping the Landscape of Cultural Knowledge",
+          "publication_date": "2025-10-31",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2510.27672",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2510.27672"
+        },
+        {
+          "id": "https://openalex.org/W4413315143",
+          "title": "Understanding #vent channels on Discord",
+          "publication_date": "2025-08-17",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.5210/fm.v30i8.13877",
+          "venue": "First Monday",
+          "open_access": "diamond",
+          "url": "https://doi.org/10.5210/fm.v30i8.13877"
+        },
+        {
+          "id": "https://openalex.org/W4412929247",
+          "title": "Quantifying large language model usage in scientific papers",
+          "publication_date": "2025-08-04",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1038/s41562-025-02273-8",
+          "venue": "Nature Human Behaviour",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1038/s41562-025-02273-8"
+        },
+        {
+          "id": "https://openalex.org/W4415309731",
+          "title": "AudioJudge: Understanding What Works in Large Audio Model Based Speech Evaluation",
+          "publication_date": "2025-07-17",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2507.12705",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2507.12705"
+        },
+        {
+          "id": "https://openalex.org/W4414967484",
+          "title": "Optimas: Optimizing Compound AI Systems with Globally Aligned Local Rewards",
+          "publication_date": "2025-07-03",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2507.03041",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2507.03041"
+        },
+        {
+          "id": "https://openalex.org/W4415181465",
+          "title": "The Ideation-Execution Gap: Execution Outcomes of LLM-Generated versus Human Research Ideas",
+          "publication_date": "2025-06-25",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2506.20803",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2506.20803"
+        },
+        {
+          "id": "https://openalex.org/W4415070629",
+          "title": "The Rise of AI Companions: How Human-Chatbot Relationships Influence Well-Being",
+          "publication_date": "2025-06-14",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2506.12605",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2506.12605"
+        }
+      ]
+    },
+    {
+      "name": "Fei-Fei Li",
+      "labs": [
+        "Vision & Learning Lab",
+        "SAIL",
+        "HAI"
+      ],
+      "topics": [
+        "computer vision",
+        "multimodal",
+        "robotics",
+        "healthcare"
+      ],
+      "status": "faculty",
+      "homepage": "https://profiles.stanford.edu/fei-fei-li",
+      "openalex_id": "https://openalex.org/A5100450462",
+      "works": [
+        {
+          "id": "https://openalex.org/W4416055723",
+          "title": "MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation",
+          "publication_date": "2025-10-21",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2510.18316",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2510.18316"
+        },
+        {
+          "id": "https://openalex.org/W4414358460",
+          "title": "EEG-Based Brain-Computer Interface for Robotic Assistance with User Intention Prediction",
+          "publication_date": "2025-09-19",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.21203/rs.3.rs-7359180/v1",
+          "venue": null,
+          "open_access": "gold",
+          "url": "https://doi.org/10.21203/rs.3.rs-7359180/v1"
+        },
+        {
+          "id": "https://openalex.org/W4412794959",
+          "title": "Advancing science- and evidence-based AI policy",
+          "publication_date": "2025-07-31",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1126/science.adu8449",
+          "venue": "Science",
+          "open_access": "green",
+          "url": "https://doi.org/10.1126/science.adu8449"
+        },
+        {
+          "id": "https://openalex.org/W4414199207",
+          "title": "An Interactive Agent Foundation Model",
+          "publication_date": "2025-06-11",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1109/cvprw67362.2025.00350",
+          "venue": null,
+          "open_access": "closed",
+          "url": "https://doi.org/10.1109/cvprw67362.2025.00350"
+        },
+        {
+          "id": "https://openalex.org/W4413145687",
+          "title": "Re-thinking Temporal Search for Long-Form Video Understanding",
+          "publication_date": "2025-06-10",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1109/cvpr52734.2025.00802",
+          "venue": null,
+          "open_access": "closed",
+          "url": "https://doi.org/10.1109/cvpr52734.2025.00802"
+        },
+        {
+          "id": "https://openalex.org/W4413144646",
+          "title": "Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces",
+          "publication_date": "2025-06-10",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1109/cvpr52734.2025.00994",
+          "venue": null,
+          "open_access": "closed",
+          "url": "https://doi.org/10.1109/cvpr52734.2025.00994"
+        },
+        {
+          "id": "https://openalex.org/W4413156691",
+          "title": "The Language of Motion: Unifying Verbal and Non-verbal Language of 3D Human Motion",
+          "publication_date": "2025-06-10",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1109/cvpr52734.2025.00581",
+          "venue": null,
+          "open_access": "closed",
+          "url": "https://doi.org/10.1109/cvpr52734.2025.00581"
+        },
+        {
+          "id": "https://openalex.org/W4411091046",
+          "title": "Foundation versus domain-specific models for left ventricular segmentation on cardiac ultrasound",
+          "publication_date": "2025-06-06",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1038/s41746-025-01730-y",
+          "venue": "npj Digital Medicine",
+          "open_access": "gold",
+          "url": "https://doi.org/10.1038/s41746-025-01730-y"
+        }
+      ]
+    },
+    {
+      "name": "Chelsea Finn",
+      "labs": [
+        "IRIS",
+        "SAIL",
+        "ML Group"
+      ],
+      "topics": [
+        "robotics",
+        "rl",
+        "meta-learning",
+        "embodied ai"
+      ],
+      "status": "faculty",
+      "homepage": "https://ai.stanford.edu/~cbfinn/",
+      "openalex_id": "https://openalex.org/A5005431772",
+      "works": [
+        {
+          "id": "https://openalex.org/W4415273528",
+          "title": "Ctrl-World: A Controllable Generative World Model for Robot Manipulation",
+          "publication_date": "2025-10-11",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2510.10125",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2510.10125"
+        },
+        {
+          "id": "https://openalex.org/W4414928093",
+          "title": "RLAD: Training LLMs to Discover Abstractions for Solving Reasoning Problems",
+          "publication_date": "2025-10-02",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2510.02263",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2510.02263"
+        },
+        {
+          "id": "https://openalex.org/W4414942645",
+          "title": "EXPO: Stable Reinforcement Learning with Expressive Policies",
+          "publication_date": "2025-07-10",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2507.07986",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2507.07986"
+        },
+        {
+          "id": "https://openalex.org/W4412124433",
+          "title": "SRT-H: A hierarchical framework for autonomous surgery via language-conditioned imitation learning",
+          "publication_date": "2025-07-09",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1126/scirobotics.adt5254",
+          "venue": "Science Robotics",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1126/scirobotics.adt5254"
+        },
+        {
+          "id": "https://openalex.org/W4414079054",
+          "title": "π₀: A Vision-Language-Action Flow Model for General Robot Control",
+          "publication_date": "2025-06-21",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.15607/rss.2025.xxi.010",
+          "venue": null,
+          "open_access": "gold",
+          "url": "https://doi.org/10.15607/rss.2025.xxi.010"
+        },
+        {
+          "id": "https://openalex.org/W4414051084",
+          "title": "FAST: Efficient Action Tokenization for Vision-Language-Action Models",
+          "publication_date": "2025-06-21",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.15607/rss.2025.xxi.012",
+          "venue": null,
+          "open_access": "gold",
+          "url": "https://doi.org/10.15607/rss.2025.xxi.012"
+        },
+        {
+          "id": "https://openalex.org/W4414050722",
+          "title": "Curating Demonstrations using Online Experience",
+          "publication_date": "2025-06-21",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.15607/rss.2025.xxi.071",
+          "venue": null,
+          "open_access": "gold",
+          "url": "https://doi.org/10.15607/rss.2025.xxi.071"
+        },
+        {
+          "id": "https://openalex.org/W4414050921",
+          "title": "Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success",
+          "publication_date": "2025-06-21",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.15607/rss.2025.xxi.017",
+          "venue": null,
+          "open_access": "gold",
+          "url": "https://doi.org/10.15607/rss.2025.xxi.017"
+        },
+        {
+          "id": "https://openalex.org/W4415199856",
+          "title": "Hierarchical Surgical Robot Transformer (SRT-H): Imitation Learning for Autonomous Surgery",
+          "publication_date": "2025-06-10",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.5281/zenodo.15637073",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2505.10251"
+        },
+        {
+          "id": "https://openalex.org/W4413156213",
+          "title": "CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models",
+          "publication_date": "2025-06-10",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1109/cvpr52734.2025.00166",
+          "venue": null,
+          "open_access": "closed",
+          "url": "https://doi.org/10.1109/cvpr52734.2025.00166"
+        }
+      ]
+    },
+    {
+      "name": "Jure Leskovec",
+      "labs": [
+        "SAIL",
+        "ML Group"
+      ],
+      "topics": [
+        "graph learning",
+        "recommendation",
+        "network science"
+      ],
+      "status": "faculty",
+      "homepage": "https://cs.stanford.edu/~jure/",
+      "openalex_id": "https://openalex.org/A5091272738",
+      "works": [
+        {
+          "id": "https://openalex.org/W4415097104",
+          "title": "Relational Transformer: Toward Zero-Shot Foundation Models for Relational Data",
+          "publication_date": "2025-10-07",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2510.06377",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2510.06377"
+        },
+        {
+          "id": "https://openalex.org/W4415338278",
+          "title": "RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance",
+          "publication_date": "2025-09-29",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2509.25604",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2509.25604"
+        },
+        {
+          "id": "https://openalex.org/W4414484443",
+          "title": "A deep reinforcement learning platform for antibiotic discovery",
+          "publication_date": "2025-09-23",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1101/2025.09.23.678086",
+          "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+          "open_access": "green",
+          "url": "https://doi.org/10.1101/2025.09.23.678086"
+        },
+        {
+          "id": "https://openalex.org/W4414458441",
+          "title": "Uncalibrated Reasoning: GRPO Induces Overconfidence for Stochastic Outcomes",
+          "publication_date": "2025-08-15",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2508.11800",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2508.11800"
+        },
+        {
+          "id": "https://openalex.org/W4413118136",
+          "title": "Countrywide natural experiment links built environment to physical activity",
+          "publication_date": "2025-08-13",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1038/s41586-025-09321-3",
+          "venue": "Nature",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1038/s41586-025-09321-3"
+        },
+        {
+          "id": "https://openalex.org/W4412875489",
+          "title": "Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures",
+          "publication_date": "2025-08-03",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1145/3711896.3736558",
+          "venue": null,
+          "open_access": "gold",
+          "url": "https://doi.org/10.1145/3711896.3736558"
+        },
+        {
+          "id": "https://openalex.org/W4412876964",
+          "title": "Surface-based Molecular Design with Multi-modal Flow Matching",
+          "publication_date": "2025-08-03",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1145/3711896.3737139",
+          "venue": null,
+          "open_access": "gold",
+          "url": "https://doi.org/10.1145/3711896.3737139"
+        },
+        {
+          "id": "https://openalex.org/W4414877928",
+          "title": "PyG 2.0: Scalable Learning on Real World Graphs",
+          "publication_date": "2025-07-22",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2507.16991",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2507.16991"
+        },
+        {
+          "id": "https://openalex.org/W4414967484",
+          "title": "Optimas: Optimizing Compound AI Systems with Globally Aligned Local Rewards",
+          "publication_date": "2025-07-03",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2507.03041",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2507.03041"
+        },
+        {
+          "id": "https://openalex.org/W4411757935",
+          "title": "Predicting cellular responses to perturbation across diverse contexts with State",
+          "publication_date": "2025-06-27",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1101/2025.06.26.661135",
+          "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+          "open_access": "green",
+          "url": "https://doi.org/10.1101/2025.06.26.661135"
+        }
+      ]
+    },
+    {
+      "name": "Christopher Ré",
+      "labs": [
+        "SAIL",
+        "HAI"
+      ],
+      "topics": [
+        "ml systems",
+        "weak supervision",
+        "foundation models"
+      ],
+      "status": "faculty",
+      "homepage": "https://cs.stanford.edu/people/chrismre/",
+      "openalex_id": "https://openalex.org/A5103852640",
+      "works": [
+        {
+          "id": "https://openalex.org/W4413157647",
+          "title": "HMAR: Efficient Hierarchical Masked Auto-Regressive Image Generation",
+          "publication_date": "2025-06-10",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1109/cvpr52734.2025.00242",
+          "venue": null,
+          "open_access": "closed",
+          "url": "https://doi.org/10.1109/cvpr52734.2025.00242"
+        }
+      ]
+    },
+    {
+      "name": "Dorsa Sadigh",
+      "labs": [
+        "IRIS",
+        "SAIL"
+      ],
+      "topics": [
+        "robotics",
+        "human-robot interaction",
+        "rl",
+        "safety"
+      ],
+      "status": "faculty",
+      "homepage": "https://dorsa.fyi/",
+      "openalex_id": "https://openalex.org/A5080725225",
+      "works": [
+        {
+          "id": "https://openalex.org/W4414942645",
+          "title": "EXPO: Stable Reinforcement Learning with Expressive Policies",
+          "publication_date": "2025-07-10",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2507.07986",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2507.07986"
+        },
+        {
+          "id": "https://openalex.org/W4414683599",
+          "title": "Scaffolding Dexterous Manipulation with Vision-Language Models",
+          "publication_date": "2025-06-24",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2506.19212",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2506.19212"
+        },
+        {
+          "id": "https://openalex.org/W4414051070",
+          "title": "Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization",
+          "publication_date": "2025-06-21",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.15607/rss.2025.xxi.155",
+          "venue": null,
+          "open_access": "gold",
+          "url": "https://doi.org/10.15607/rss.2025.xxi.155"
+        },
+        {
+          "id": "https://openalex.org/W4414050476",
+          "title": "Robot Data Curation with Mutual Information Estimators",
+          "publication_date": "2025-06-21",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.15607/rss.2025.xxi.023",
+          "venue": null,
+          "open_access": "gold",
+          "url": "https://doi.org/10.15607/rss.2025.xxi.023"
+        },
+        {
+          "id": "https://openalex.org/W4414050712",
+          "title": "Unified Video Action Model",
+          "publication_date": "2025-06-21",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.15607/rss.2025.xxi.074",
+          "venue": null,
+          "open_access": "gold",
+          "url": "https://doi.org/10.15607/rss.2025.xxi.074"
+        },
+        {
+          "id": "https://openalex.org/W4415111203",
+          "title": "ProVox: Personalization and Proactive Planning for Situated Human-Robot Collaboration",
+          "publication_date": "2025-06-13",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2506.12248",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2506.12248"
+        },
+        {
+          "id": "https://openalex.org/W4414895214",
+          "title": "HoMeR: Learning In-the-Wild Mobile Manipulation via Hybrid Imitation and Whole-Body Control",
+          "publication_date": "2025-06-01",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2506.01185",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2506.01185"
+        }
+      ]
+    },
+    {
+      "name": "Andrew Ng",
+      "labs": [
+        "ML Group",
+        "SAIL"
+      ],
+      "topics": [
+        "machine learning",
+        "applied ml",
+        "healthcare",
+        "representation learning"
+      ],
+      "status": "faculty",
+      "homepage": "https://stanfordmlgroup.github.io/",
+      "openalex_id": "https://openalex.org/A5112456378",
+      "works": [
+        {
+          "id": "https://openalex.org/W4415937527",
+          "title": "STARC-9: A Large-scale Dataset for Multi-Class Tissue Classification for CRC Histopathology",
+          "publication_date": "2025-11-01",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2511.00383",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2511.00383"
+        },
+        {
+          "id": "https://openalex.org/W4414819257",
+          "title": "Quasi-convex surface subgroups in some one-relator groups with torsion",
+          "publication_date": "2025-10-02",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2510.01876",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2510.01876"
+        },
+        {
+          "id": "https://openalex.org/W4413808613",
+          "title": "Regional mapping of natural gas compressor stations in the United States and Canada using deep learning on satellite imagery",
+          "publication_date": "2025-08-29",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1016/j.jenvman.2025.126728",
+          "venue": "Journal of Environmental Management",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1016/j.jenvman.2025.126728"
+        },
+        {
+          "id": "https://openalex.org/W4413801638",
+          "title": "MedAgentBench: A Virtual EHR Environment to Benchmark Medical LLM Agents",
+          "publication_date": "2025-08-14",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1056/aidbp2500144",
+          "venue": "NEJM AI",
+          "open_access": "bronze",
+          "url": "https://doi.org/10.1056/aidbp2500144"
+        }
+      ]
+    },
+    {
+      "name": "Juan Carlos Niebles",
+      "labs": [
+        "Vision & Learning Lab",
+        "SAIL"
+      ],
+      "topics": [
+        "computer vision",
+        "video understanding",
+        "embodied ai"
+      ],
+      "status": "faculty",
+      "homepage": "https://cs.stanford.edu/people/jniebles/",
+      "openalex_id": "https://openalex.org/A5018518655",
+      "works": [
+        {
+          "id": "https://openalex.org/W4414197524",
+          "title": "AdaVid: Adaptive Video-Language Pretraining",
+          "publication_date": "2025-06-11",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1109/cvprw67362.2025.00635",
+          "venue": null,
+          "open_access": "closed",
+          "url": "https://doi.org/10.1109/cvprw67362.2025.00635"
+        },
+        {
+          "id": "https://openalex.org/W4413144824",
+          "title": "ViUniT: Visual Unit Tests for More Robust Visual Programming",
+          "publication_date": "2025-06-10",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1109/cvpr52734.2025.02295",
+          "venue": null,
+          "open_access": "closed",
+          "url": "https://doi.org/10.1109/cvpr52734.2025.02295"
+        },
+        {
+          "id": "https://openalex.org/W4413145687",
+          "title": "Re-thinking Temporal Search for Long-Form Video Understanding",
+          "publication_date": "2025-06-10",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1109/cvpr52734.2025.00802",
+          "venue": null,
+          "open_access": "closed",
+          "url": "https://doi.org/10.1109/cvpr52734.2025.00802"
+        },
+        {
+          "id": "https://openalex.org/W4415314684",
+          "title": "Contra4: Evaluating Contrastive Cross-Modal Reasoning in Audio, Video, Image, and 3D",
+          "publication_date": "2025-06-02",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2506.01275",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2506.01275"
+        },
+        {
+          "id": "https://openalex.org/W4415131771",
+          "title": "LAM SIMULATOR: Advancing Data Generation for Large Action Model Training via Online Exploration and Trajectory Feedback",
+          "publication_date": "2025-06-02",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2506.02298",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2506.02298"
+        }
+      ]
+    },
+    {
+      "name": "Rishi Bommasani",
+      "labs": [
+        "CRFM",
+        "HAI"
+      ],
+      "topics": [
+        "foundation models",
+        "evaluation",
+        "policy",
+        "societal impact"
+      ],
+      "status": "other",
+      "homepage": "https://rishibommasani.github.io/",
+      "openalex_id": "https://openalex.org/A5069576651",
+      "works": [
+        {
+          "id": "https://openalex.org/W4415231303",
+          "title": "Disclosure and Evaluation as Fairness Interventions for General-Purpose AI",
+          "publication_date": "2025-10-15",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1609/aies.v8i3.36700",
+          "venue": "Proceedings of the AAAI/ACM Conference on AI Ethics and Society",
+          "open_access": "bronze",
+          "url": "https://doi.org/10.1609/aies.v8i3.36700"
+        },
+        {
+          "id": "https://openalex.org/W4415195132",
+          "title": "Do AI Companies Make Good on Voluntary Commitments to the White House?",
+          "publication_date": "2025-10-15",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1609/aies.v8i3.36743",
+          "venue": "Proceedings of the AAAI/ACM Conference on AI Ethics and Society",
+          "open_access": "bronze",
+          "url": "https://doi.org/10.1609/aies.v8i3.36743"
+        },
+        {
+          "id": "https://openalex.org/W4415257516",
+          "title": "Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation",
+          "publication_date": "2025-10-13",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2510.11977",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2510.11977"
+        },
+        {
+          "id": "https://openalex.org/W4414975748",
+          "title": "Disclosure and Evaluation as Fairness Interventions for General-Purpose AI",
+          "publication_date": "2025-10-06",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2510.05292",
+          "venue": "arXiv (Cornell University)",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2510.05292"
+        },
+        {
+          "id": "https://openalex.org/W4412794959",
+          "title": "Advancing science- and evidence-based AI policy",
+          "publication_date": "2025-07-31",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1126/science.adu8449",
+          "venue": "Science",
+          "open_access": "green",
+          "url": "https://doi.org/10.1126/science.adu8449"
+        },
+        {
+          "id": "https://openalex.org/W4411541893",
+          "title": "The Reality of AI and Biorisk",
+          "publication_date": "2025-06-23",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1145/3715275.3732048",
+          "venue": null,
+          "open_access": "closed",
+          "url": "https://doi.org/10.1145/3715275.3732048"
+        }
+      ]
+    }
+  ]
+}
