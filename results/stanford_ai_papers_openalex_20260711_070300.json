@@ -1,0 +1,2396 @@
+{
+  "generated_at": "2026-07-11T07:03:16.733021Z",
+  "source": "openalex",
+  "from_date": "2025-06-01",
+  "people": [
+    {
+      "name": "Christopher D. Manning",
+      "labs": [
+        "Stanford NLP Group",
+        "SAIL",
+        "HAI"
+      ],
+      "topics": [
+        "nlp",
+        "llm",
+        "representation learning",
+        "syntax",
+        "semantics"
+      ],
+      "status": "faculty",
+      "homepage": "https://nlp.stanford.edu/~manning/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Percy Liang",
+      "labs": [
+        "CRFM",
+        "Stanford NLP Group",
+        "SAIL",
+        "HAI",
+        "ML Group"
+      ],
+      "topics": [
+        "foundation models",
+        "llm",
+        "alignment",
+        "evaluation",
+        "program synthesis"
+      ],
+      "status": "faculty",
+      "homepage": "https://cs.stanford.edu/~pliang/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Dan Jurafsky",
+      "labs": [
+        "Stanford NLP Group",
+        "SAIL"
+      ],
+      "topics": [
+        "nlp",
+        "speech",
+        "pragmatics",
+        "computational linguistics"
+      ],
+      "status": "faculty",
+      "homepage": "https://web.stanford.edu/~jurafsky/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Chris Potts",
+      "labs": [
+        "Stanford NLP Group",
+        "HAI"
+      ],
+      "topics": [
+        "nlp",
+        "semantics",
+        "pragmatics",
+        "safety"
+      ],
+      "status": "faculty",
+      "homepage": "https://profiles.stanford.edu/christopher-potts",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Tatsunori Hashimoto",
+      "labs": [
+        "Stanford NLP Group",
+        "SAIL",
+        "HAI"
+      ],
+      "topics": [
+        "llm",
+        "evaluation",
+        "robustness",
+        "alignment",
+        "statistics"
+      ],
+      "status": "faculty",
+      "homepage": "https://thashim.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Diyi Yang",
+      "labs": [
+        "Stanford NLP Group",
+        "HAI"
+      ],
+      "topics": [
+        "nlp",
+        "social nlp",
+        "evaluation",
+        "safety"
+      ],
+      "status": "faculty",
+      "homepage": "https://cs.stanford.edu/~diyiy/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Fei-Fei Li",
+      "labs": [
+        "Vision & Learning Lab",
+        "SAIL",
+        "HAI"
+      ],
+      "topics": [
+        "computer vision",
+        "multimodal",
+        "robotics",
+        "healthcare"
+      ],
+      "status": "faculty",
+      "homepage": "https://profiles.stanford.edu/fei-fei-li",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Chelsea Finn",
+      "labs": [
+        "IRIS",
+        "SAIL",
+        "ML Group"
+      ],
+      "topics": [
+        "robotics",
+        "rl",
+        "meta-learning",
+        "embodied ai"
+      ],
+      "status": "faculty",
+      "homepage": "https://ai.stanford.edu/~cbfinn/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jure Leskovec",
+      "labs": [
+        "SAIL",
+        "ML Group"
+      ],
+      "topics": [
+        "graph learning",
+        "recommendation",
+        "network science"
+      ],
+      "status": "faculty",
+      "homepage": "https://cs.stanford.edu/~jure/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Christopher Ré",
+      "labs": [
+        "SAIL",
+        "HAI"
+      ],
+      "topics": [
+        "ml systems",
+        "weak supervision",
+        "foundation models"
+      ],
+      "status": "faculty",
+      "homepage": "https://cs.stanford.edu/people/chrismre/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Dorsa Sadigh",
+      "labs": [
+        "IRIS",
+        "SAIL"
+      ],
+      "topics": [
+        "robotics",
+        "human-robot interaction",
+        "rl",
+        "safety"
+      ],
+      "status": "faculty",
+      "homepage": "https://dorsa.fyi/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Andrew Ng",
+      "labs": [
+        "ML Group",
+        "SAIL"
+      ],
+      "topics": [
+        "machine learning",
+        "healthcare",
+        "large-scale systems"
+      ],
+      "status": "faculty",
+      "homepage": "https://stanfordmlgroup.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Juan Carlos Niebles",
+      "labs": [
+        "Vision & Learning Lab",
+        "SAIL"
+      ],
+      "topics": [
+        "computer vision",
+        "video understanding",
+        "embodied ai"
+      ],
+      "status": "faculty",
+      "homepage": "https://www.niebles.net/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Rishi Bommasani",
+      "labs": [
+        "CRFM",
+        "HAI"
+      ],
+      "topics": [
+        "foundation models",
+        "evaluation",
+        "policy",
+        "societal impact"
+      ],
+      "status": "other",
+      "homepage": "https://rishibommasani.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Xiang Lisa Li",
+      "labs": [
+        "CRFM",
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "llm",
+        "diffusion",
+        "prompt tuning",
+        "multimodal generation"
+      ],
+      "status": "phd",
+      "homepage": "https://lisaxiang.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Shibani Santurkar",
+      "labs": [
+        "CRFM"
+      ],
+      "topics": [
+        "evaluation",
+        "scaling laws",
+        "ai safety"
+      ],
+      "status": "postdoc",
+      "homepage": "https://ssanturkar.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Aviral Kumar",
+      "labs": [
+        "IRIS",
+        "CRFM"
+      ],
+      "topics": [
+        "rl",
+        "offline rl",
+        "decision making",
+        "robotics"
+      ],
+      "status": "phd",
+      "homepage": "https://aviralkumar2907.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Timo Schick",
+      "labs": [
+        "CRFM"
+      ],
+      "topics": [
+        "foundation models",
+        "instruction tuning",
+        "alignment"
+      ],
+      "status": "research scientist",
+      "homepage": "https://schick.xyz/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Yifan Mai",
+      "labs": [
+        "CRFM"
+      ],
+      "topics": [
+        "eval",
+        "foundation models",
+        "semantic generalization"
+      ],
+      "status": "phd",
+      "homepage": "https://yifanmai.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Asa Cooper Stickland",
+      "labs": [
+        "CRFM"
+      ],
+      "topics": [
+        "llm",
+        "robustness",
+        "uncertainty"
+      ],
+      "status": "postdoc",
+      "homepage": "https://acstickland.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Sebastian Ruder",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "transfer learning",
+        "multilingual NLP",
+        "unsupervised learning"
+      ],
+      "status": "phd",
+      "homepage": "https://ruder.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "John Hewitt",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "representation geometry",
+        "syntax",
+        "embedding structure"
+      ],
+      "status": "phd",
+      "homepage": "https://nlp.stanford.edu/people/johnhewitt/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Chris Donahue",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "generative modeling",
+        "audio",
+        "diffusion",
+        "music"
+      ],
+      "status": "phd",
+      "homepage": "https://chrisdonahue.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Bin Zhang",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "syntax",
+        "semantics",
+        "probing"
+      ],
+      "status": "phd",
+      "homepage": "https://bzhang.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Alex Tamkin",
+      "labs": [
+        "Stanford NLP Group",
+        "HAI"
+      ],
+      "topics": [
+        "foundation models",
+        "representation",
+        "alignment"
+      ],
+      "status": "phd",
+      "homepage": "https://tamkin.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Gao Jian (Jian Gao)",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "translation",
+        "multilingual NLP"
+      ],
+      "status": "phd",
+      "homepage": "https://gaojian.gitlab.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Yuhao Zhang",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "clinical NLP",
+        "information extraction",
+        "vision-language"
+      ],
+      "status": "phd",
+      "homepage": "https://yuhao.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Noah Constant",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "transformers",
+        "tokenization",
+        "multilingual"
+      ],
+      "status": "industry researcher",
+      "homepage": "https://noahconstant.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Reza Haffari",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "structured prediction",
+        "translation",
+        "bayesian models"
+      ],
+      "status": "phd",
+      "homepage": "https://users.monash.edu.au/~rhaffari/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Kevin Clark",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "transformers",
+        "representation",
+        "pretraining"
+      ],
+      "status": "phd",
+      "homepage": "https://kevincsc.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Mandar Joshi",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "coreference",
+        "QA",
+        "transformers"
+      ],
+      "status": "phd",
+      "homepage": "https://mandarjoshi90.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Kelvin Xu",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "robotics",
+        "meta learning",
+        "autonomous control"
+      ],
+      "status": "phd",
+      "homepage": "https://kelvinxu.me/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Sergey Levine",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "rl",
+        "robotics",
+        "dexterity",
+        "policy gradients"
+      ],
+      "status": "phd",
+      "homepage": "https://people.eecs.berkeley.edu/~svlevine/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Sudeep Dasari",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "offline rl",
+        "robotics",
+        "skill discovery",
+        "control"
+      ],
+      "status": "phd",
+      "homepage": "https://sudeepdasari.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Aravind Rajeswaran",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "robotics",
+        "meta rl",
+        "generalization",
+        "sim2real"
+      ],
+      "status": "postdoc",
+      "homepage": "https://homes.cs.washington.edu/~aravraj/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Karl Pertsch",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "robotics",
+        "self-supervised rl",
+        "policy adaptation"
+      ],
+      "status": "phd",
+      "homepage": "https://kpertsch.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Kasim Terzis",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "diffusion",
+        "robotics",
+        "world models"
+      ],
+      "status": "postdoc",
+      "homepage": "https://kasim.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Ashvin Nair",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "visual rl",
+        "representation",
+        "robotic manipulation"
+      ],
+      "status": "phd",
+      "homepage": "https://ashvin.me/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Michael Chang",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "object-centric models",
+        "embodied world models"
+      ],
+      "status": "phd",
+      "homepage": "https://mpchang.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Andy Zeng",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "robot manipulation",
+        "3d vision",
+        "embodied foundation models"
+      ],
+      "status": "industry researcher",
+      "homepage": "https://andyzeng.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Judy Hoffman",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "domain adaptation",
+        "robust perception",
+        "vision"
+      ],
+      "status": "phd",
+      "homepage": "https://faculty.cc.gatech.edu/~judy/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Andrej Karpathy",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "vision",
+        "self-driving",
+        "foundation models"
+      ],
+      "status": "phd",
+      "homepage": "https://karpathy.ai/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Olga Russakovsky",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "vision",
+        "fairness",
+        "longtail recognition"
+      ],
+      "status": "phd",
+      "homepage": "https://olga.community/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Hao Su",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "3d vision",
+        "robotics",
+        "autonomous systems"
+      ],
+      "status": "postdoc",
+      "homepage": "https://cseweb.ucsd.edu/~haosu/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Michael Bernstein",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "crowdsourcing",
+        "human-ai interaction"
+      ],
+      "status": "phd",
+      "homepage": "https://hci.stanford.edu/msb/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Adrien Gaidon",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "autonomous driving",
+        "simulated data",
+        "self-supervision"
+      ],
+      "status": "phd",
+      "homepage": "https://researcher.watson.ibm.com/researcher/view.php?person=us-adrien.gaidon",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Xinlei Chen",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "vision foundation models",
+        "masking",
+        "simclr"
+      ],
+      "status": "phd",
+      "homepage": "https://xinleic.xyz/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Yuke Zhu",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "embodied ai",
+        "robot manipulation",
+        "vision+action"
+      ],
+      "status": "phd",
+      "homepage": "https://yzhu.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Alex Ratner",
+      "labs": [
+        "SAIL",
+        "HAI"
+      ],
+      "topics": [
+        "weak supervision",
+        "data-centric ai",
+        "foundation models"
+      ],
+      "status": "phd",
+      "homepage": "https://ajratner.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Paroma Variar",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "weak supervision",
+        "label models",
+        "data programming"
+      ],
+      "status": "phd",
+      "homepage": "https://paromav.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Shiori Sagawa",
+      "labs": [
+        "CRFM",
+        "SAIL"
+      ],
+      "topics": [
+        "distribution shift",
+        "robustness",
+        "evaluation"
+      ],
+      "status": "phd",
+      "homepage": "https://shiorisagawa.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Sanjay Krishna Gouda",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "knowledge distillation",
+        "probabilistic modeling",
+        "semi-supervised"
+      ],
+      "status": "phd",
+      "homepage": "https://cs.stanford.edu/~sgouda/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Raphael Gontijo Lopes",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "foundations",
+        "scaling laws",
+        "vision foundation"
+      ],
+      "status": "postdoc",
+      "homepage": "https://raphaelgontijo.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Sen Wu",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "program synthesis",
+        "data programming",
+        "foundation models"
+      ],
+      "status": "phd",
+      "homepage": "https://senwu.ai/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jason Fries",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "medical ai",
+        "weak supervision",
+        "clinical nlp"
+      ],
+      "status": "postdoc",
+      "homepage": "https://jfries.net/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Henry Ehrenberg",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "weak supervision",
+        "enterprise ai",
+        "data-centric"
+      ],
+      "status": "phd",
+      "homepage": "https://henry.ai/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Stephen Bach",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "knowledge graphs",
+        "data programming",
+        "weak supervision"
+      ],
+      "status": "phd",
+      "homepage": "https://cs.brown.edu/people/sbach/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Julie Ann Nguyen",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "nlp",
+        "semantic parsing",
+        "data-centric ai"
+      ],
+      "status": "phd",
+      "homepage": "https://julieannguyen.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "William L. Hamilton",
+      "labs": [
+        "SAIL",
+        "ML Group"
+      ],
+      "topics": [
+        "graph neural networks",
+        "representation learning",
+        "heterogeneous graphs"
+      ],
+      "status": "phd",
+      "homepage": "https://williamleif.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Bryan Perozzi",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "graph embeddings",
+        "deepwalk",
+        "network representation"
+      ],
+      "status": "phd",
+      "homepage": "https://perozzi.net/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Rex Ying",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "gnn",
+        "graph robustness",
+        "interpretability",
+        "subgraph models"
+      ],
+      "status": "phd",
+      "homepage": "https://cs.yale.edu/people/rex-ying",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Johannes Günther",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "causal graphs",
+        "spurious correlations",
+        "gnn generalization"
+      ],
+      "status": "phd",
+      "homepage": "https://johannesgu.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Haochen Li",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "recommender systems",
+        "pinSage",
+        "graph retrieval"
+      ],
+      "status": "phd",
+      "homepage": "https://haochen-li.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Chenhao Tan",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "social networks",
+        "causal inference",
+        "behavioral modeling"
+      ],
+      "status": "phd",
+      "homepage": "https://chenhaot.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Heng-Tze Chen",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "graph ranking",
+        "recommendation at scale"
+      ],
+      "status": "phd",
+      "homepage": "https://research.google/people/106496/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jiaxuan You",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "graph generation",
+        "gnn autoencoders",
+        "materials design"
+      ],
+      "status": "phd",
+      "homepage": "https://jiaxuanyou.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "C. Daniel Freeman",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "graph embeddings",
+        "active learning",
+        "graph sampling"
+      ],
+      "status": "phd",
+      "homepage": "https://cfreemanf.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Arun Jambulapati",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "graph optimization",
+        "linear systems",
+        "spectral theory"
+      ],
+      "status": "phd",
+      "homepage": "https://ajambulapati.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Ehsan Amid",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "distribution shift",
+        "robustness",
+        "adversarial",
+        "calibration"
+      ],
+      "status": "postdoc",
+      "homepage": "https://amides.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Wei-Lin Chiang",
+      "labs": [
+        "SAIL",
+        "CRFM"
+      ],
+      "topics": [
+        "llm evaluation",
+        "robustness",
+        "alignment",
+        "distribution shift"
+      ],
+      "status": "phd",
+      "homepage": "https://infwinston.github.io//",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Hidenori Takahashi",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "statistical learning",
+        "robust optimization",
+        "safety"
+      ],
+      "status": "phd",
+      "homepage": "https://people.stanford.edu/hidenorit/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Irena Gao",
+      "labs": [
+        "IRIS",
+        "SAIL"
+      ],
+      "topics": [
+        "fairness",
+        "domain shift",
+        "robust rl"
+      ],
+      "status": "phd",
+      "homepage": "https://irenegao.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Hadi Salman",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "certified robustness",
+        "adversarial training"
+      ],
+      "status": "phd",
+      "homepage": "https://hadisalman.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Tianyi Zhang (Hashimoto)",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "test-time adaptation",
+        "self-training",
+        "deadline safety"
+      ],
+      "status": "phd",
+      "homepage": "https://tianyizhang.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Amir Feder",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "bias in ML",
+        "fairness",
+        "causal estimation"
+      ],
+      "status": "postdoc",
+      "homepage": "https://amirfeder.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Edward Pavlick",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "semantics",
+        "natural language inference",
+        "lexical knowledge"
+      ],
+      "status": "phd",
+      "homepage": "https://cs.brown.edu/people/epavlick/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Alan Ritter",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "information extraction",
+        "dialogue",
+        "social nlp"
+      ],
+      "status": "phd",
+      "homepage": "https://aritter.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jason Baldridge",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "syntax",
+        "nlp for vision",
+        "location modeling"
+      ],
+      "status": "phd",
+      "homepage": "http://www.jasonbaldridge.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Emily M. Bender",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "sociolinguistics",
+        "nlp ethics",
+        "typology"
+      ],
+      "status": "phd",
+      "homepage": "https://faculty.washington.edu/ebender/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jennifer E. Arnold",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "pronouns",
+        "referential form",
+        "psycholinguistics"
+      ],
+      "status": "phd",
+      "homepage": "https://arnoldlab.web.unc.edu/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Kristina Toutanova",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "representation learning",
+        "sequence labeling",
+        "pretraining"
+      ],
+      "status": "phd",
+      "homepage": "https://scholar.google.com/citations?user=QH1CtcQAAAAJ",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Eric Fosler-Lussier",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "speech recognition",
+        "prosody",
+        "dialogue"
+      ],
+      "status": "phd",
+      "homepage": "https://web.cse.ohio-state.edu/~fosler-lussier.1/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Zhuoran Liu",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "speech translation",
+        "acoustic modeling",
+        "social speech"
+      ],
+      "status": "phd",
+      "homepage": "https://zliu.co/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "David Jurgens",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "computational social science",
+        "emotion",
+        "discourse"
+      ],
+      "status": "phd",
+      "homepage": "https://jurgens.people.si.umich.edu/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Lara J. Martin",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "narrative nlp",
+        "emotion",
+        "social dialog"
+      ],
+      "status": "phd",
+      "homepage": "https://laramartin.info/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Michael Hahn",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "syntax",
+        "information theory",
+        "surprisal"
+      ],
+      "status": "phd",
+      "homepage": "https://michaelhahn.net/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Ge Gao",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "alignment",
+        "reasoning",
+        "evaluations"
+      ],
+      "status": "phd",
+      "homepage": "https://gogogogao.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Allyson Ettinger",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "psycholinguistics",
+        "model probing",
+        "semantic capacity"
+      ],
+      "status": "phd",
+      "homepage": "https://ling.uchicago.edu/people/allyson-ettinger",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Yin Tat Lee",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "optimization",
+        "algorithmic semantics"
+      ],
+      "status": "phd",
+      "homepage": "https://scholar.google.com/citations?user=UFKohsgAAAAJ",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Ellie Pavlick",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "formal semantics",
+        "nli",
+        "lexical meaning"
+      ],
+      "status": "postdoc",
+      "homepage": "https://epavlick.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Yichen Zhang",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "nlp safety",
+        "toxicity",
+        "social semantics"
+      ],
+      "status": "phd",
+      "homepage": "https://yichenzhang.org/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Reid Pryzant",
+      "labs": [
+        "Stanford NLP Group",
+        "HAI"
+      ],
+      "topics": [
+        "social nlp",
+        "control",
+        "bias",
+        "evaluation"
+      ],
+      "status": "phd",
+      "homepage": "https://rpryzant.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Larry He",
+      "labs": [
+        "Stanford NLP Group",
+        "HAI"
+      ],
+      "topics": [
+        "evaluation",
+        "persuasion",
+        "value modeling",
+        "agents"
+      ],
+      "status": "phd",
+      "homepage": "https://larryhe.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Zeerak Waseem",
+      "labs": [
+        "Stanford NLP Group",
+        "HAI"
+      ],
+      "topics": [
+        "hate speech",
+        "toxicity",
+        "abuse detection"
+      ],
+      "status": "phd",
+      "homepage": "https://zeerakw.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Amanpreet Singh",
+      "labs": [
+        "Stanford NLP Group",
+        "ML Group"
+      ],
+      "topics": [
+        "evaluation",
+        "self-supervision",
+        "representation"
+      ],
+      "status": "phd",
+      "homepage": "https://aman.ai/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jian Guan",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "story generation",
+        "emotion",
+        "dialog"
+      ],
+      "status": "phd",
+      "homepage": "https://guanjian945.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Valentina Pyatkin",
+      "labs": [
+        "Stanford NLP Group",
+        "HAI"
+      ],
+      "topics": [
+        "values",
+        "sociolinguistics",
+        "alignment"
+      ],
+      "status": "phd",
+      "homepage": "https://valentinapy.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Andrey Kurenkov",
+      "labs": [
+        "IRIS",
+        "SAIL"
+      ],
+      "topics": [
+        "interactive rl",
+        "robotics",
+        "human-robot interaction",
+        "safety"
+      ],
+      "status": "phd",
+      "homepage": "https://andrey.ai/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Anca Dragan",
+      "labs": [
+        "IRIS",
+        "SAIL"
+      ],
+      "topics": [
+        "human-aware planning",
+        "robot ethics",
+        "preference learning",
+        "hri"
+      ],
+      "status": "postdoc",
+      "homepage": "https://people.eecs.berkeley.edu/~anca/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Siddharth Nayak",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "control",
+        "safety",
+        "interactive decision making"
+      ],
+      "status": "phd",
+      "homepage": "https://sidnayak.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Hongzi Mao",
+      "labs": [
+        "IRIS",
+        "SAIL"
+      ],
+      "topics": [
+        "autonomous driving",
+        "multi-agent",
+        "policy learning"
+      ],
+      "status": "phd",
+      "homepage": "https://hongzim.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Dimitar Dimitrov",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "embodied ai",
+        "interaction",
+        "motion planning"
+      ],
+      "status": "phd",
+      "homepage": "https://dimitar.ai/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Monica Arango",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "assistive robotics",
+        "task delegation",
+        "hri"
+      ],
+      "status": "phd",
+      "homepage": "https://marango.org/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Brandon Wald",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "policy shaping",
+        "imitation",
+        "human feedback"
+      ],
+      "status": "postdoc",
+      "homepage": "https://brandondwald.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Leigh Hunsberger",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "ergonomics",
+        "motion adaptation",
+        "assistive robots"
+      ],
+      "status": "phd",
+      "homepage": "https://leigh.me/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Sebastian Thrun",
+      "labs": [
+        "ML Group",
+        "SAIL"
+      ],
+      "topics": [
+        "robotics",
+        "autonomous driving",
+        "applied ml"
+      ],
+      "status": "phd",
+      "homepage": "https://www.udacity.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Richard Socher",
+      "labs": [
+        "Stanford NLP Group",
+        "ML Group"
+      ],
+      "topics": [
+        "nlp",
+        "multimodal",
+        "deep learning"
+      ],
+      "status": "phd",
+      "homepage": "https://www.socher.org/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Quoc Le",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "deep learning",
+        "self-training",
+        "generative models"
+      ],
+      "status": "phd",
+      "homepage": "https://research.google/people/quoctle/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Adam Coates",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "large-scale training",
+        "vision",
+        "applied ml"
+      ],
+      "status": "phd",
+      "homepage": "https://coates.ai/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Alex Krizhevsky",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "cnn",
+        "vision",
+        "deep learning"
+      ],
+      "status": "phd",
+      "homepage": "https://scholar.google.com/citations?user=Ib8q5agAAAAJ",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Ian Goodfellow",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "generative models",
+        "gan",
+        "security",
+        "federated learning"
+      ],
+      "status": "phd",
+      "homepage": "https://www.iangoodfellow.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Bryan Catanzaro",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "gpu",
+        "ml systems",
+        "distributed training"
+      ],
+      "status": "phd",
+      "homepage": "https://bcatanzaro.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Volodymyr Mnih",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "deep rl",
+        "value-based control",
+        "scalable agents"
+      ],
+      "status": "phd",
+      "homepage": "https://scholar.google.com/citations?user=lt_OgKQAAAAJ",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Fabian Caba Heilbron",
+      "labs": [
+        "Vision & Learning Lab",
+        "SAIL"
+      ],
+      "topics": [
+        "video understanding",
+        "temporal action localization",
+        "segmentation"
+      ],
+      "status": "phd",
+      "homepage": "https://fabiancaba.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Hao Zhang (Vision)",
+      "labs": [
+        "Vision & Learning Lab",
+        "SAIL"
+      ],
+      "topics": [
+        "video",
+        "representation learning",
+        "activity recognition"
+      ],
+      "status": "phd",
+      "homepage": "https://haozhang.info/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Gunnar A. Sigurdsson",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "egocentric vision",
+        "video actions",
+        "multiview"
+      ],
+      "status": "phd",
+      "homepage": "https://scholar.google.com/citations?user=RrE8W1gAAAAJ",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Hilde Kuehne",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "temporal modeling",
+        "video datasets",
+        "self-supervision"
+      ],
+      "status": "postdoc",
+      "homepage": "https://hildekuehne.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Yue Zhao",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "video",
+        "multi-modal",
+        "benchmarks"
+      ],
+      "status": "phd",
+      "homepage": "https://zhaoyue.one/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jiongxin Liu",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "3d action modeling",
+        "embodied representation",
+        "temporal structure"
+      ],
+      "status": "phd",
+      "homepage": "https://jiongxinliu.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Katie Driggs-Campbell",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "interactive perception",
+        "autonomous systems",
+        "human behavior modeling"
+      ],
+      "status": "phd",
+      "homepage": "https://krdc.web.illinois.edu/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Joon Sung Park",
+      "labs": [
+        "CRFM",
+        "HAI"
+      ],
+      "topics": [
+        "agents",
+        "social simulation",
+        "emergent behavior"
+      ],
+      "status": "phd",
+      "homepage": "https://www.joonsungpark.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Kawin Ethayarajh",
+      "labs": [
+        "CRFM",
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "representation",
+        "similarity metrics",
+        "scaling laws"
+      ],
+      "status": "phd",
+      "homepage": "https://ethayarajh.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jason Wei",
+      "labs": [
+        "CRFM",
+        "SAIL"
+      ],
+      "topics": [
+        "prompting",
+        "chain-of-thought",
+        "alignment"
+      ],
+      "status": "phd",
+      "homepage": "https://jasonwei20.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Thibault Sellam",
+      "labs": [
+        "CRFM"
+      ],
+      "topics": [
+        "evaluation",
+        "benchmarks",
+        "metrics"
+      ],
+      "status": "postdoc",
+      "homepage": "https://tsellam.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Karol Hausman",
+      "labs": [
+        "IRIS",
+        "SAIL",
+        "ML Group"
+      ],
+      "topics": [
+        "robotics",
+        "rl",
+        "policy learning",
+        "physical interaction"
+      ],
+      "status": "phd",
+      "homepage": "https://karolhausman.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Abhishek Gupta",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "offline rl",
+        "robotics",
+        "meta-learning"
+      ],
+      "status": "postdoc",
+      "homepage": "https://abhray.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Lerrel Pinto",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "self-supervised robotics",
+        "dexterity",
+        "autonomy"
+      ],
+      "status": "phd",
+      "homepage": "https://lerrelpinto.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Brandon Amos",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "differentiable programming",
+        "optimization",
+        "rl"
+      ],
+      "status": "postdoc",
+      "homepage": "https://bamos.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Stephen H. Bach",
+      "labs": [
+        "SAIL",
+        "ML Group"
+      ],
+      "topics": [
+        "labeling functions",
+        "weak supervision",
+        "structure learning"
+      ],
+      "status": "phd",
+      "homepage": "https://stephen-bach.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Mayee F. Chen",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "data-centric ai",
+        "pretraining",
+        "vision models"
+      ],
+      "status": "phd",
+      "homepage": "https://mayeechen.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jared Quincy Davis",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "ml systems",
+        "distributed training",
+        "weak supervision"
+      ],
+      "status": "phd",
+      "homepage": "https://jqdavis.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Pan Li",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "graph ml",
+        "system modeling",
+        "weak supervision"
+      ],
+      "status": "postdoc",
+      "homepage": "https://web.ecst.cwru.edu/~pxl275/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Dan Fu",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "efficient fm",
+        "vision foundation models",
+        "distillation"
+      ],
+      "status": "phd",
+      "homepage": "https://danfu.org/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Danqi Chen",
+      "labs": [
+        "Stanford NLP Group",
+        "SAIL"
+      ],
+      "topics": [
+        "qa",
+        "retrieval",
+        "deep learning"
+      ],
+      "status": "phd",
+      "homepage": "https://dchen.ai/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Percy Liang",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "llm",
+        "foundation models",
+        "program synthesis",
+        "evaluation"
+      ],
+      "status": "phd",
+      "homepage": "https://cs.stanford.edu/~pliang/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Christopher Potts",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "semantics",
+        "pragmatics",
+        "safety"
+      ],
+      "status": "phd",
+      "homepage": "https://web.stanford.edu/~cgpotts/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Ashutosh Saxena",
+      "labs": [
+        "Stanford NLP Group",
+        "SAIL"
+      ],
+      "topics": [
+        "robotics",
+        "computer vision",
+        "nlp commands"
+      ],
+      "status": "phd",
+      "homepage": "https://ashutosh.saxena.org/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Yejin Choi",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "commonsense",
+        "multimodal",
+        "alignment"
+      ],
+      "status": "postdoc",
+      "homepage": "https://homes.cs.washington.edu/~yejin/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Yoav Artzi",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "grounded language",
+        "nlp",
+        "robotics natural language"
+      ],
+      "status": "phd",
+      "homepage": "https://yoavartzi.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Eduard Hovy",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "summarization",
+        "information extraction",
+        "nlp evaluation"
+      ],
+      "status": "postdoc",
+      "homepage": "http://www.cs.cmu.edu/~hovy/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Saurabh Garg",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "evaluation",
+        "robustness",
+        "rlhf",
+        "distribution shift"
+      ],
+      "status": "phd",
+      "homepage": "https://cs.stanford.edu/~sgarg/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Xuechen Li",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "rlhf",
+        "alignment",
+        "preference learning",
+        "large models"
+      ],
+      "status": "phd",
+      "homepage": "https://cs.stanford.edu/~xuechenl/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Eric Mitchell",
+      "labs": [
+        "CRFM",
+        "SAIL"
+      ],
+      "topics": [
+        "ai safety",
+        "alignment",
+        "data-centric rl",
+        "generative models"
+      ],
+      "status": "phd",
+      "homepage": "https://ericmitchell.ai/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Michele Bevilacqua",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "evaluation",
+        "safety",
+        "social nlp"
+      ],
+      "status": "postdoc",
+      "homepage": "https://michelebevilacqua.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jia Deng",
+      "labs": [
+        "Vision & Learning Lab",
+        "SAIL"
+      ],
+      "topics": [
+        "computer vision",
+        "imagenet",
+        "representation learning"
+      ],
+      "status": "phd",
+      "homepage": "https://www.cs.princeton.edu/~jia/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Aditya Khosla",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "vision",
+        "metric learning",
+        "medical ai"
+      ],
+      "status": "phd",
+      "homepage": "https://www.csail.mit.edu/person/aditya-khosla",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Lijuan Wang",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "vision-language",
+        "video",
+        "foundation models"
+      ],
+      "status": "postdoc",
+      "homepage": "https://www.microsoft.com/en-us/research/people/lijuanw/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Honglak Lee",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "unsupervised learning",
+        "representation learning",
+        "vision"
+      ],
+      "status": "phd",
+      "homepage": "https://web.eecs.umich.edu/~honglak/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Quoc V. Le",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "deep learning",
+        "sequence modeling",
+        "foundation models"
+      ],
+      "status": "phd",
+      "homepage": "https://research.google/people/author/QuocLe/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jeff Dean",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "ml systems",
+        "scaling",
+        "distributed training"
+      ],
+      "status": "postdoc",
+      "homepage": "https://research.google/people/author/JeffDean/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Ranjay Krishna",
+      "labs": [
+        "Vision & Learning Lab",
+        "SAIL"
+      ],
+      "topics": [
+        "video understanding",
+        "embodied ai",
+        "multimodal foundation models",
+        "datasets"
+      ],
+      "status": "phd",
+      "homepage": "https://ranjaykrishna.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Joon-Young Lee",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "video segmentation",
+        "video editing",
+        "tracking"
+      ],
+      "status": "postdoc",
+      "homepage": "https://joonyoung.org/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Fabio Cuzzolin",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "action understanding",
+        "causal video",
+        "3d vision"
+      ],
+      "status": "postdoc",
+      "homepage": "https://cuzzolin.net/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Wanfeng Jin",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "multimodal agents",
+        "video + language",
+        "embodied robotics"
+      ],
+      "status": "phd",
+      "homepage": "https://wanfengjin.github.io/",
+      "openalex_id": null,
+      "works": []
+    }
+  ]
+}
