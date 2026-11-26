@@ -1,0 +1,4885 @@
+{
+  "generated_at": "2026-11-26T14:33:46.661458Z",
+  "source": "openalex",
+  "from_date": "2025-06-01",
+  "people": [
+    {
+      "name": "Christopher D. Manning",
+      "labs": [
+        "Stanford NLP Group",
+        "SAIL",
+        "HAI"
+      ],
+      "topics": [
+        "nlp",
+        "llm",
+        "representation learning",
+        "syntax",
+        "semantics"
+      ],
+      "status": "faculty",
+      "homepage": "https://nlp.stanford.edu/~manning/",
+      "openalex_id": "https://openalex.org/A5046006076",
+      "works": [
+        {
+          "id": "https://openalex.org/W7236836907",
+          "title": "The GQA Dataset:Question Answering on Image Scene Graphs",
+          "publication_date": "2026-11-18",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.57760/sciencedb.space.00373",
+          "venue": "ScienceDB",
+          "open_access": "green",
+          "url": "https://doi.org/10.57760/sciencedb.space.00373"
+        },
+        {
+          "id": "https://openalex.org/W4414804979",
+          "title": "Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2510.00219",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/liu26cx.html"
+        },
+        {
+          "id": "https://openalex.org/W4414811222",
+          "title": "Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2510.01171",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "green",
+          "url": "https://proceedings.mlr.press/v306/zhang26hy.html"
+        },
+        {
+          "id": "https://openalex.org/W7165627996",
+          "title": "Natural Language Processing: How NSF Supports Visionary New Approaches to NLP",
+          "publication_date": "2026-07-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1145/3773294",
+          "venue": "Communications of the ACM",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1145/3773294"
+        },
+        {
+          "id": "https://openalex.org/W7169805468",
+          "title": "There is no free benchmark: An institutional view of legal AI benchmarking",
+          "publication_date": "2026-07-20",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1073/pnas.2509757122",
+          "venue": "Proceedings of the National Academy of Sciences",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1073/pnas.2509757122"
+        },
+        {
+          "id": "https://openalex.org/W7169812372",
+          "title": "At the boundary: Law and AI",
+          "publication_date": "2026-07-20",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1073/pnas.2606704123",
+          "venue": "Proceedings of the National Academy of Sciences",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1073/pnas.2606704123"
+        },
+        {
+          "id": "https://openalex.org/W7164518416",
+          "title": "High-performance and robust intracortical brain-computer interfaces for restoring communication",
+          "publication_date": "2026-06-12",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.25740/jx020tm5629",
+          "venue": "Stanford Digital Repository",
+          "open_access": "green",
+          "url": "https://doi.org/10.25740/jx020tm5629"
+        },
+        {
+          "id": "https://openalex.org/W7160908075",
+          "title": "Shepherd: Enabling Programmable Meta-Agents via Reversible Agentic Execution Traces",
+          "publication_date": "2026-05-11",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2605.10913",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2605.10913"
+        },
+        {
+          "id": "https://openalex.org/W7160928567",
+          "title": "SecureForge: Finding and Preventing Vulnerabilities in LLM-Generated Code via Prompt Optimization",
+          "publication_date": "2026-05-08",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2605.08382",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2605.08382"
+        },
+        {
+          "id": "https://openalex.org/W4415068011",
+          "title": "Tversky Neural Networks: Psychologically Plausible Deep Learning with Differentiable Tversky Similarity",
+          "publication_date": "2026-04-20",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2506.11035",
+          "venue": "International Conference on Learning Representations",
+          "open_access": "diamond",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/13dbe089b74a3eb1abfb60fb412533de-Abstract-Conference.html"
+        }
+      ]
+    },
+    {
+      "name": "Percy Liang",
+      "labs": [
+        "CRFM",
+        "Stanford NLP Group",
+        "SAIL",
+        "HAI",
+        "ML Group"
+      ],
+      "topics": [
+        "foundation models",
+        "llm",
+        "alignment",
+        "evaluation",
+        "program synthesis"
+      ],
+      "status": "faculty",
+      "homepage": "https://cs.stanford.edu/~pliang/",
+      "openalex_id": "https://openalex.org/A5025255782",
+      "works": [
+        {
+          "id": "https://openalex.org/W7238609894",
+          "title": "NeurIPS 2025 Foundation Models Meet Embodied Agents Challenge: Systems, Analysis, and Lessons Learned",
+          "publication_date": "2026-11-21",
+          "publication_year": 2026,
+          "doi": null,
+          "venue": "Proceedings of Machine Learning Research",
+          "open_access": "diamond",
+          "url": "https://proceedings.mlr.press/v276/bao26a.html"
+        },
+        {
+          "id": "https://openalex.org/W7236744272",
+          "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+          "publication_date": "2026-11-18",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2611.24927",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2611.24927"
+        },
+        {
+          "id": "https://openalex.org/W7225191708",
+          "title": "Hinted Scaling Laws",
+          "publication_date": "2026-11-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2611.02270",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2611.02270"
+        },
+        {
+          "id": "https://openalex.org/W7223655109",
+          "title": "Rewriting Scaling Laws for Synthetic Data with Compute and Data Constraints",
+          "publication_date": "2026-10-22",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.31867",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.31867"
+        },
+        {
+          "id": "https://openalex.org/W7220652399",
+          "title": "Priced Guidance: Can Language Models Generate Future Research Ideas?",
+          "publication_date": "2026-10-04",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.04976",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.04976"
+        },
+        {
+          "id": "https://openalex.org/W7128386444",
+          "title": "When RL Meets Adaptive Speculative Training: A Unified Training-Serving System",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2602.06932",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/wang26j.html"
+        },
+        {
+          "id": "https://openalex.org/W7128804563",
+          "title": "VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2602.12063",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/guo26i.html"
+        },
+        {
+          "id": "https://openalex.org/W7166861014",
+          "title": "FLARE-AI: Flaw Reporting for AI",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2606.31567",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "green",
+          "url": "https://proceedings.mlr.press/v306/longpre26a.html"
+        },
+        {
+          "id": "https://openalex.org/W7214007232",
+          "title": "MobileCybench: Evaluating Agent Vulnerability Discovery via Executable Probes",
+          "publication_date": "2026-09-21",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2609.23980",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2609.23980"
+        },
+        {
+          "id": "https://openalex.org/W7212322136",
+          "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+          "publication_date": "2026-09-10",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2609.11917",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2609.11917"
+        }
+      ]
+    },
+    {
+      "name": "Dan Jurafsky",
+      "labs": [
+        "Stanford NLP Group",
+        "SAIL"
+      ],
+      "topics": [
+        "nlp",
+        "speech",
+        "pragmatics",
+        "computational linguistics"
+      ],
+      "status": "faculty",
+      "homepage": "https://web.stanford.edu/~jurafsky/",
+      "openalex_id": "https://openalex.org/A5087088138",
+      "works": [
+        {
+          "id": "https://openalex.org/W7214762953",
+          "title": "Turning Speech Language Models into Multilingual Listeners",
+          "publication_date": "2026-09-27",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.21437/interspeech.2026-2584",
+          "venue": "Interspeech (USB)",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.21437/interspeech.2026-2584"
+        },
+        {
+          "id": "https://openalex.org/W7225154607",
+          "title": "Universality of Speech Emotion Recognition in Humans and Speech Language Models",
+          "publication_date": "2026-09-27",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.21437/interspeech.2026-3061",
+          "venue": "Interspeech (USB)",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.21437/interspeech.2026-3061"
+        },
+        {
+          "id": "https://openalex.org/W7214106579",
+          "title": "Matryoshka attribution: Learning to attribute language model outputs to representations and weights",
+          "publication_date": "2026-09-22",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2609.25518",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2609.25518"
+        },
+        {
+          "id": "https://openalex.org/W7213291565",
+          "title": "LLMs as Oracles: Reliance on LLMs for Subjective Personal Questions",
+          "publication_date": "2026-09-13",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2609.14849",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2609.14849"
+        },
+        {
+          "id": "https://openalex.org/W7168853831",
+          "title": "Social calibration of sycophantic AI—Response",
+          "publication_date": "2026-07-16",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1126/science.aeh8601",
+          "venue": "Science",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1126/science.aeh8601"
+        },
+        {
+          "id": "https://openalex.org/W7239381728",
+          "title": "VP 1.28 Cognitive offloading and the speedup illusion in human-AI interaction",
+          "publication_date": "2026-07-13",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48448/vf9w-1x25",
+          "venue": "Underline Science Inc.",
+          "open_access": "green",
+          "url": "https://doi.org/10.48448/vf9w-1x25"
+        },
+        {
+          "id": "https://openalex.org/W7167273491",
+          "title": "Artificial intelligence for food innovation",
+          "publication_date": "2026-07-03",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1038/s43016-026-01380-7",
+          "venue": "Nature Food",
+          "open_access": "green",
+          "url": "https://doi.org/10.1038/s43016-026-01380-7"
+        },
+        {
+          "id": "https://openalex.org/W7171553123",
+          "title": "You Talkin to Me?: A Network Analysis of Gendered Speaker-Addressee Patterns in Film Screenplays",
+          "publication_date": "2026-06-26",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2607.22656",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2607.22656"
+        },
+        {
+          "id": "https://openalex.org/W7166581764",
+          "title": "Algorithmic Monocultures in Hiring",
+          "publication_date": "2026-06-25",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1145/3805689.3812400",
+          "venue": "ACM Conference on Fairness, Accountability, and Transparency (FAccT)",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1145/3805689.3812400"
+        },
+        {
+          "id": "https://openalex.org/W7165662885",
+          "title": "Warning labels shift perceptions of sycophantic AI, but not its influence",
+          "publication_date": "2026-06-19",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2606.21317",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2606.21317"
+        }
+      ]
+    },
+    {
+      "name": "Chris Potts",
+      "labs": [
+        "Stanford NLP Group",
+        "HAI"
+      ],
+      "topics": [
+        "nlp",
+        "semantics",
+        "pragmatics",
+        "safety"
+      ],
+      "status": "faculty",
+      "homepage": "https://profiles.stanford.edu/christopher-potts",
+      "openalex_id": "https://openalex.org/A5042601761",
+      "works": [
+        {
+          "id": "https://openalex.org/W7225272642",
+          "title": "Data, code and decision log for: Fine particulate matter exposure and atrial fibrillation: a systematic review and meta-analysis of incident AF, detected AF episodes and AF hospital use",
+          "publication_date": "2026-11-04",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.5281/zenodo.23953845",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "open_access": "green",
+          "url": "https://doi.org/10.5281/zenodo.23953845"
+        },
+        {
+          "id": "https://openalex.org/W7223273597",
+          "title": "Urine drug screen co-positivity and the fentanyl testing gap among adult psychiatric emergency department encounters in West Virginia: a cross-sectional analysis",
+          "publication_date": "2026-10-23",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1080/10550887.2026.2748463",
+          "venue": "Journal of Addictive Diseases",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1080/10550887.2026.2748463"
+        },
+        {
+          "id": "https://openalex.org/W7156264080",
+          "title": "Outcome Rewards Do Not Guarantee Verifiable or Causally Important Reasoning",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2604.22074",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/yu26av.html"
+        },
+        {
+          "id": "https://openalex.org/W7160835164",
+          "title": "Fast Byte Latent Transformer",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2605.08044",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/kallini26a.html"
+        },
+        {
+          "id": "https://openalex.org/W7214106579",
+          "title": "Matryoshka attribution: Learning to attribute language model outputs to representations and weights",
+          "publication_date": "2026-09-22",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2609.25518",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2609.25518"
+        },
+        {
+          "id": "https://openalex.org/W7213413124",
+          "title": "Verbalizing Subliminal Learning Effects Using Text Optimization",
+          "publication_date": "2026-09-15",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2609.16927",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2609.16927"
+        },
+        {
+          "id": "https://openalex.org/W7204896979",
+          "title": "Sycophantic Agreement Transfers with Neutral Data via Contrastive Preference Optimization",
+          "publication_date": "2026-08-31",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2608.31079",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2608.31079"
+        },
+        {
+          "id": "https://openalex.org/W7204601527",
+          "title": "Unifying symbols and neurons : a case study in numerical cognition",
+          "publication_date": "2026-08-28",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.25740/rk840yg0202",
+          "venue": "Stanford Digital Repository",
+          "open_access": "green",
+          "url": "https://doi.org/10.25740/rk840yg0202"
+        },
+        {
+          "id": "https://openalex.org/W7203675333",
+          "title": "Do Language Models Consistently Encode the Current Year?",
+          "publication_date": "2026-08-16",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2608.15507",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2608.15507"
+        },
+        {
+          "id": "https://openalex.org/W7168806893",
+          "title": "Facial Cellulitis Mimicking Ludwig’s Angina in a Patient with Chronic Myelogenous Leukemia on Dasatinib Therapy",
+          "publication_date": "2026-07-15",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.3390/idr18040075",
+          "venue": "Infectious Disease Reports",
+          "open_access": "gold",
+          "url": "https://doi.org/10.3390/idr18040075"
+        }
+      ]
+    },
+    {
+      "name": "Tatsunori Hashimoto",
+      "labs": [
+        "Stanford NLP Group",
+        "SAIL",
+        "HAI"
+      ],
+      "topics": [
+        "llm",
+        "evaluation",
+        "robustness",
+        "alignment",
+        "statistics"
+      ],
+      "status": "faculty",
+      "homepage": "https://thashim.github.io/",
+      "openalex_id": "https://openalex.org/A5015518638",
+      "works": [
+        {
+          "id": "https://openalex.org/W7225295780",
+          "title": "Reconciling Privacy with Provenance for Language Model Watermarks",
+          "publication_date": "2026-11-04",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2611.06100",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2611.06100"
+        },
+        {
+          "id": "https://openalex.org/W7225191708",
+          "title": "Hinted Scaling Laws",
+          "publication_date": "2026-11-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2611.02270",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2611.02270"
+        },
+        {
+          "id": "https://openalex.org/W4404988644",
+          "title": "The Extractive-Abstractive Spectrum: Uncovering Verifiability Trade-offs in LLM Generations",
+          "publication_date": "2026-10-13",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1162/tacl.a.811",
+          "venue": "Transactions of the Association for Computational Linguistics",
+          "open_access": "diamond",
+          "url": "https://doi.org/10.1162/tacl.a.811"
+        },
+        {
+          "id": "https://openalex.org/W7167236937",
+          "title": "AI Assistance for Human Review of Default Judgments",
+          "publication_date": "2026-10-11",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1609/aies.v9i4.43347",
+          "venue": "Proceedings of the AAAI/ACM Conference on AI Ethics and Society",
+          "open_access": "bronze",
+          "url": "https://doi.org/10.1609/aies.v9i4.43347"
+        },
+        {
+          "id": "https://openalex.org/W7125390180",
+          "title": "Towards Execution-Grounded Automated AI Research",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2601.14525",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/si26b.html"
+        },
+        {
+          "id": "https://openalex.org/W7167644418",
+          "title": "Anchored Self-Play for Code Repair",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2607.03523",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/choi26f.html"
+        },
+        {
+          "id": "https://openalex.org/W7211959282",
+          "title": "Trustworthy oversight of machine learning via randomization",
+          "publication_date": "2026-09-08",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.25740/ys987nd5770",
+          "venue": "Stanford Digital Repository",
+          "open_access": "green",
+          "url": "https://doi.org/10.25740/ys987nd5770"
+        },
+        {
+          "id": "https://openalex.org/W7170071712",
+          "title": "LLM Detection as an Intervention: Downstream Impact under Strategic User Behavior",
+          "publication_date": "2026-07-21",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2607.19300",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2607.19300"
+        },
+        {
+          "id": "https://openalex.org/W7167271316",
+          "title": "Will Scaling Improve Social Simulation with LLMs?",
+          "publication_date": "2026-07-02",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2607.02464",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2607.02464"
+        },
+        {
+          "id": "https://openalex.org/W7164554743",
+          "title": "Self-improvement at test time",
+          "publication_date": "2026-06-12",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.25740/dy474wr6801",
+          "venue": "Stanford Digital Repository",
+          "open_access": "green",
+          "url": "https://doi.org/10.25740/dy474wr6801"
+        }
+      ]
+    },
+    {
+      "name": "Diyi Yang",
+      "labs": [
+        "Stanford NLP Group",
+        "HAI"
+      ],
+      "topics": [
+        "nlp",
+        "social nlp",
+        "evaluation",
+        "safety"
+      ],
+      "status": "faculty",
+      "homepage": "https://cs.stanford.edu/~diyiy/",
+      "openalex_id": "https://openalex.org/A5089413311",
+      "works": [
+        {
+          "id": "https://openalex.org/W7221663849",
+          "title": "Classroom Integration of AI-Simulated Patients and Automated Feedback in Doctoral Psychotherapy Training: Longitudinal Mixed Methods Study",
+          "publication_date": "2026-11-11",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.2196/93199",
+          "venue": "Interactive Journal of Medical Research",
+          "open_access": "gold",
+          "url": "https://doi.org/10.2196/93199"
+        },
+        {
+          "id": "https://openalex.org/W7225622131",
+          "title": "TaskNet: Building Occupational Task Inventories from Worker Interviews at Scale",
+          "publication_date": "2026-11-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.3386/w35987",
+          "venue": "National Bureau of Economic Research",
+          "open_access": "green",
+          "url": "https://doi.org/10.3386/w35987"
+        },
+        {
+          "id": "https://openalex.org/W7223806954",
+          "title": "Lost in Translation: Investigating Systematic Discrepancies between Parallel English and Chinese Names of American Chinese Restaurants",
+          "publication_date": "2026-10-26",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.35191",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.35191"
+        },
+        {
+          "id": "https://openalex.org/W7221935449",
+          "title": "Articulation Upper Bounds for Language Models",
+          "publication_date": "2026-10-14",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.19721",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.19721"
+        },
+        {
+          "id": "https://openalex.org/W4417063441",
+          "title": "Measuring and Mitigating (Over)reliance to Build Human-Compatible AI",
+          "publication_date": "2026-10-11",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1609/aies.v9i2.43225",
+          "venue": "Proceedings of the AAAI/ACM Conference on AI Ethics and Society",
+          "open_access": "bronze",
+          "url": "https://doi.org/10.1609/aies.v9i2.43225"
+        },
+        {
+          "id": "https://openalex.org/W7168259339",
+          "title": "FaciliTrain: Practicing Facilitation Skills through AI-Simulated Group Dialogue",
+          "publication_date": "2026-10-10",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1145/3785651.3831566",
+          "venue": "ACM Conference on Computer Supported Cooperative Work (CSCW)",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1145/3785651.3831566"
+        },
+        {
+          "id": "https://openalex.org/W7220917321",
+          "title": "Sherpa: Teaching LLMs to Teach Adaptively",
+          "publication_date": "2026-10-06",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.08778",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.08778"
+        },
+        {
+          "id": "https://openalex.org/W7220748528",
+          "title": "Verifiable, Articulable, and Tacit Components of Preference",
+          "publication_date": "2026-10-02",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.03025",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.03025"
+        },
+        {
+          "id": "https://openalex.org/W4416432173",
+          "title": "CodeClash: Benchmarking Goal-Oriented Software Engineering",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2511.00839",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/yang26aq.html"
+        },
+        {
+          "id": "https://openalex.org/W7125390180",
+          "title": "Towards Execution-Grounded Automated AI Research",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2601.14525",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/si26b.html"
+        }
+      ]
+    },
+    {
+      "name": "Fei-Fei Li",
+      "labs": [
+        "Vision & Learning Lab",
+        "SAIL",
+        "HAI"
+      ],
+      "topics": [
+        "computer vision",
+        "multimodal",
+        "robotics",
+        "healthcare"
+      ],
+      "status": "faculty",
+      "homepage": "https://profiles.stanford.edu/fei-fei-li",
+      "openalex_id": "https://openalex.org/A5100450462",
+      "works": [
+        {
+          "id": "https://openalex.org/W7220948940",
+          "title": "RoboRender: Robot-Oriented Video Generation for Visual Sim-to-Real Transfer",
+          "publication_date": "2026-10-07",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.09254",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.09254"
+        },
+        {
+          "id": "https://openalex.org/W7220902832",
+          "title": "OpenWAM: An Open Framework for Composable World-Action Models",
+          "publication_date": "2026-10-06",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.07922",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.07922"
+        },
+        {
+          "id": "https://openalex.org/W7220453172",
+          "title": "LoGo: Local-Global Rewards for Consistent Long-Horizon Video Generation",
+          "publication_date": "2026-10-02",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.03636",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.03636"
+        },
+        {
+          "id": "https://openalex.org/W7128788684",
+          "title": "Latent Forcing: Reordering the Diffusion Trajectory for Pixel-Space Image Generation",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2602.11401",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/baade26a.html"
+        },
+        {
+          "id": "https://openalex.org/W7140328093",
+          "title": "CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2603.22435",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "hybrid",
+          "url": "https://proceedings.mlr.press/v306/fu26u.html"
+        },
+        {
+          "id": "https://openalex.org/W7152490972",
+          "title": "RAGEN-2: Reasoning Collapse in Agentic RL",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2604.06268",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/wang26bn.html"
+        },
+        {
+          "id": "https://openalex.org/W7214919004",
+          "title": "T$^2$Mem: Learning Test-Time Memory for Robotics",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2609.36720",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2609.36720"
+        },
+        {
+          "id": "https://openalex.org/W7221081025",
+          "title": "Cross-Embodiment Robot Foundation World Models with Latent Actions",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.10846",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/huang26bv.html"
+        },
+        {
+          "id": "https://openalex.org/W7214753102",
+          "title": "DexAgent: An Agentic Human2Sim2Robot Framework for Dexterous Manipulation with Self-Evolving Tool Library",
+          "publication_date": "2026-09-28",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2609.35318",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2609.35318"
+        },
+        {
+          "id": "https://openalex.org/W7207863546",
+          "title": "One Demonstration, Many Objects: Generalizing Manipulation via Local Contact Geometry",
+          "publication_date": "2026-09-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2609.01938",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2609.01938"
+        }
+      ]
+    },
+    {
+      "name": "Chelsea Finn",
+      "labs": [
+        "IRIS",
+        "SAIL",
+        "ML Group"
+      ],
+      "topics": [
+        "robotics",
+        "rl",
+        "meta-learning",
+        "embodied ai"
+      ],
+      "status": "faculty",
+      "homepage": "https://ai.stanford.edu/~cbfinn/",
+      "openalex_id": "https://openalex.org/A5005431772",
+      "works": [
+        {
+          "id": "https://openalex.org/W7224853725",
+          "title": "Cross-Controller Transfer via In-Context Behavior Adaptation",
+          "publication_date": "2026-10-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.39280",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.39280"
+        },
+        {
+          "id": "https://openalex.org/W7222663583",
+          "title": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+          "publication_date": "2026-10-15",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.22273",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.22273"
+        },
+        {
+          "id": "https://openalex.org/W7222923491",
+          "title": "Generative Value Classifier",
+          "publication_date": "2026-10-15",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.22497",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.22497"
+        },
+        {
+          "id": "https://openalex.org/W7220687522",
+          "title": "Mulligan: Performance-Guided Data Collection for Efficient On-Robot Learning",
+          "publication_date": "2026-10-05",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.05882",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.05882"
+        },
+        {
+          "id": "https://openalex.org/W7216217917",
+          "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+          "publication_date": "2026-10-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.02202",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.02202"
+        },
+        {
+          "id": "https://openalex.org/W4417531500",
+          "title": "Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2512.16911",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/wagenmaker26a.html"
+        },
+        {
+          "id": "https://openalex.org/W7127366176",
+          "title": "TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2602.01439",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "green",
+          "url": "https://proceedings.mlr.press/v306/dong26d.html"
+        },
+        {
+          "id": "https://openalex.org/W7128804563",
+          "title": "VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2602.12063",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/guo26i.html"
+        },
+        {
+          "id": "https://openalex.org/W7134037000",
+          "title": "RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2603.04639",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "green",
+          "url": "https://proceedings.mlr.press/v306/dai26c.html"
+        },
+        {
+          "id": "https://openalex.org/W7213529142",
+          "title": "Reinforcement Learning for Real-Time Vision-Language-Action Policies",
+          "publication_date": "2026-09-16",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2609.18207",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2609.18207"
+        }
+      ]
+    },
+    {
+      "name": "Jure Leskovec",
+      "labs": [
+        "SAIL",
+        "ML Group"
+      ],
+      "topics": [
+        "graph learning",
+        "recommendation",
+        "network science"
+      ],
+      "status": "faculty",
+      "homepage": "https://cs.stanford.edu/~jure/",
+      "openalex_id": "https://openalex.org/A5091272738",
+      "works": [
+        {
+          "id": "https://openalex.org/W7130431757",
+          "title": "Revised estimates of types and duration of long COVID symptoms based on claims records from 245 million US patients",
+          "publication_date": "2026-10-27",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1073/pnas.2604414123",
+          "venue": "Proceedings of the National Academy of Sciences",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1073/pnas.2604414123"
+        },
+        {
+          "id": "https://openalex.org/W7216241838",
+          "title": "Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry",
+          "publication_date": "2026-10-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.02186",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.02186"
+        },
+        {
+          "id": "https://openalex.org/W7215120070",
+          "title": "UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement",
+          "publication_date": "2026-09-30",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2609.38721",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2609.38721"
+        },
+        {
+          "id": "https://openalex.org/W7127942774",
+          "title": "PluRel: Synthetic Data unlocks Scaling Laws for Relational Foundation Models",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2602.04029",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/kothapalli26a.html"
+        },
+        {
+          "id": "https://openalex.org/W7133811887",
+          "title": "HumanLM: Simulating Users with State Alignment Beats Response Imitation",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2603.03303",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/wu26k.html"
+        },
+        {
+          "id": "https://openalex.org/W7160413107",
+          "title": "Proteo-R1: Reasoning Foundation Models for De Novo Protein Design",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2605.02937",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/wu26bq.html"
+        },
+        {
+          "id": "https://openalex.org/W7164008456",
+          "title": "Diffusion Language Model Parallel Decoding via Product-of-Experts Bridge",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2606.08048",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/shi26v.html"
+        },
+        {
+          "id": "https://openalex.org/W7212131218",
+          "title": "AutoScreen: AI Co-Scientist System for Target Discovery in Functional Genomics",
+          "publication_date": "2026-09-10",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.64898/2026.09.06.749678",
+          "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+          "open_access": "green",
+          "url": "https://doi.org/10.64898/2026.09.06.749678"
+        },
+        {
+          "id": "https://openalex.org/W7212322136",
+          "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+          "publication_date": "2026-09-10",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2609.11917",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2609.11917"
+        },
+        {
+          "id": "https://openalex.org/W7213405904",
+          "title": "CollabLLM: From Passive Responders to Active Collaborators (Extended Abstract)",
+          "publication_date": "2026-09-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.24963/ijcai.2026/928",
+          "venue": "International Joint Conference on Artificial Intelligence",
+          "open_access": "bronze",
+          "url": "https://doi.org/10.24963/ijcai.2026/928"
+        }
+      ]
+    },
+    {
+      "name": "Christopher Ré",
+      "labs": [
+        "SAIL",
+        "HAI"
+      ],
+      "topics": [
+        "ml systems",
+        "weak supervision",
+        "foundation models"
+      ],
+      "status": "faculty",
+      "homepage": "https://cs.stanford.edu/people/chrismre/",
+      "openalex_id": "https://openalex.org/A5103852640",
+      "works": [
+        {
+          "id": "https://openalex.org/W7225417676",
+          "title": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
+          "publication_date": "2026-11-05",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2611.08417",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2611.08417"
+        },
+        {
+          "id": "https://openalex.org/W7223304902",
+          "title": "Joules-to-GDP: How Much Economic Value Do AI Systems Produce per Unit of Energy?",
+          "publication_date": "2026-10-22",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.30858",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.30858"
+        },
+        {
+          "id": "https://openalex.org/W7128793074",
+          "title": "Olmix: A Framework for Data Mixing Throughout LM Development",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2602.12237",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/chen26dd.html"
+        },
+        {
+          "id": "https://openalex.org/W7214956677",
+          "title": "Mixture-of-Kittens: MoE Megakernel for NVL72s",
+          "publication_date": "2026-09-28",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2609.36070",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2609.36070"
+        },
+        {
+          "id": "https://openalex.org/W7214975245",
+          "title": "Stochastic Optimization Under Power-Law Spectra: Tight Bounds and Shuffling Analysis",
+          "publication_date": "2026-09-28",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2609.36271",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2609.36271"
+        },
+        {
+          "id": "https://openalex.org/W7203872526",
+          "title": "Insights from law for building and evaluating AI systems",
+          "publication_date": "2026-08-20",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.25740/dn179pk0699",
+          "venue": "Stanford Digital Repository",
+          "open_access": "green",
+          "url": "https://doi.org/10.25740/dn179pk0699"
+        },
+        {
+          "id": "https://openalex.org/W7171507097",
+          "title": "Predict before you train: Scaling Laws for particle physics foundation models",
+          "publication_date": "2026-07-25",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2607.23377",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2607.23377"
+        },
+        {
+          "id": "https://openalex.org/W7170045580",
+          "title": "Intelligence per watt : an organizing principle for local-first AI inference",
+          "publication_date": "2026-07-22",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.25740/hs910cr6245",
+          "venue": "Stanford Digital Repository",
+          "open_access": "green",
+          "url": "https://doi.org/10.25740/hs910cr6245"
+        },
+        {
+          "id": "https://openalex.org/W7168252647",
+          "title": "MLPs are Hebbians: Constructing Efficient Fact-Storing MLPs for Transformers",
+          "publication_date": "2026-07-10",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2607.10034",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2607.10034"
+        },
+        {
+          "id": "https://openalex.org/W7161686292",
+          "title": "OpenJarvis: Personal AI, On Personal Devices",
+          "publication_date": "2026-05-16",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2605.17172",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2605.17172"
+        }
+      ]
+    },
+    {
+      "name": "Dorsa Sadigh",
+      "labs": [
+        "IRIS",
+        "SAIL"
+      ],
+      "topics": [
+        "robotics",
+        "human-robot interaction",
+        "rl",
+        "safety"
+      ],
+      "status": "faculty",
+      "homepage": "https://dorsa.fyi/",
+      "openalex_id": "https://openalex.org/A5080725225",
+      "works": [
+        {
+          "id": "https://openalex.org/W7225407579",
+          "title": "RoboARCade: Benchmarking Agentic Robot Control",
+          "publication_date": "2026-11-05",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2611.08209",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2611.08209"
+        },
+        {
+          "id": "https://openalex.org/W7224853725",
+          "title": "Cross-Controller Transfer via In-Context Behavior Adaptation",
+          "publication_date": "2026-10-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.39280",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.39280"
+        },
+        {
+          "id": "https://openalex.org/W7127366176",
+          "title": "TQL: Scaling Q-Functions with Transformers by Preventing Attention Collapse",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2602.01439",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "green",
+          "url": "https://proceedings.mlr.press/v306/dong26d.html"
+        },
+        {
+          "id": "https://openalex.org/W7238569956",
+          "title": "Tournament Style RL: Stabilizing Policy Optimization on Non Verifiable Problems",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": null,
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v306/juneja26b.html"
+        },
+        {
+          "id": "https://openalex.org/W7213529142",
+          "title": "Reinforcement Learning for Real-Time Vision-Language-Action Policies",
+          "publication_date": "2026-09-16",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2609.18207",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2609.18207"
+        },
+        {
+          "id": "https://openalex.org/W7207863546",
+          "title": "One Demonstration, Many Objects: Generalizing Manipulation via Local Contact Geometry",
+          "publication_date": "2026-09-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2609.01938",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2609.01938"
+        },
+        {
+          "id": "https://openalex.org/W7203900130",
+          "title": "Grounding Robot Generalization in Training Data via Retrieval-Augmented VLMs",
+          "publication_date": "2026-08-21",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1109/lra.2026.3726331",
+          "venue": "IEEE Robotics and Automation Letters",
+          "open_access": "green",
+          "url": "https://doi.org/10.1109/lra.2026.3726331"
+        },
+        {
+          "id": "https://openalex.org/W7203793813",
+          "title": "Q-Learning With World Models",
+          "publication_date": "2026-08-17",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2608.17163",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2608.17163"
+        },
+        {
+          "id": "https://openalex.org/W7171815610",
+          "title": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
+          "publication_date": "2026-07-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2607.27203",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2607.27203"
+        },
+        {
+          "id": "https://openalex.org/W7168276635",
+          "title": "VIA: Visual Interface Agent for Robot Control",
+          "publication_date": "2026-07-13",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2607.11119",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2607.11119"
+        }
+      ]
+    },
+    {
+      "name": "Andrew Ng",
+      "labs": [
+        "ML Group",
+        "SAIL"
+      ],
+      "topics": [
+        "machine learning",
+        "healthcare",
+        "large-scale systems"
+      ],
+      "status": "faculty",
+      "homepage": "https://stanfordmlgroup.github.io/",
+      "openalex_id": "https://openalex.org/A5102617494",
+      "works": [
+        {
+          "id": "https://openalex.org/W7224320293",
+          "title": "PharmaAgent: a real-world evaluation of high- and low-autonomy agentic systems for inpatient vancomycin dosing",
+          "publication_date": "2026-10-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.64898/2026.10.23.26365968",
+          "venue": "medRxiv",
+          "open_access": "green",
+          "url": "https://doi.org/10.64898/2026.10.23.26365968"
+        },
+        {
+          "id": "https://openalex.org/W7160392036",
+          "title": "SmartAlert: Integrating Machine Learning and Alert Triggers into Live Electronic Medical Record Systems, Targeting Low-Yield Inpatient Lab Tests",
+          "publication_date": "2026-05-06",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.64898/2026.04.29.26351965",
+          "venue": "medRxiv",
+          "open_access": "green",
+          "url": "https://doi.org/10.64898/2026.04.29.26351965"
+        },
+        {
+          "id": "https://openalex.org/W7131267054",
+          "title": "MEthane Tracking Emissions Reference (METER): A global database of methane-emitting infrastructure",
+          "publication_date": "2026-02-24",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.5194/essd-2026-124",
+          "venue": "Earth System Science Data Discussions",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.5194/essd-2026-124"
+        },
+        {
+          "id": "https://openalex.org/W4413808613",
+          "title": "Regional mapping of natural gas compressor stations in the United States and Canada using deep learning on satellite imagery",
+          "publication_date": "2025-08-29",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1016/j.jenvman.2025.126728",
+          "venue": "Journal of Environmental Management",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1016/j.jenvman.2025.126728"
+        },
+        {
+          "id": "https://openalex.org/W4413801638",
+          "title": "MedAgentBench: A Virtual EHR Environment to Benchmark Medical LLM Agents",
+          "publication_date": "2025-08-14",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1056/aidbp2500144",
+          "venue": "NEJM AI",
+          "open_access": "bronze",
+          "url": "https://doi.org/10.1056/aidbp2500144"
+        }
+      ]
+    },
+    {
+      "name": "Juan Carlos Niebles",
+      "labs": [
+        "Vision & Learning Lab",
+        "SAIL"
+      ],
+      "topics": [
+        "computer vision",
+        "video understanding",
+        "embodied ai"
+      ],
+      "status": "faculty",
+      "homepage": "https://www.niebles.net/",
+      "openalex_id": "https://openalex.org/A5018518655",
+      "works": [
+        {
+          "id": "https://openalex.org/W7235042369",
+          "title": "BLIP-Live: Balancing Timeliness & Firing Precision in Proactive Streaming Video Agents",
+          "publication_date": "2026-11-16",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2611.21553",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2611.21553"
+        },
+        {
+          "id": "https://openalex.org/W7225410708",
+          "title": "Interactive Visual Gym: Evaluating Visual Interaction Models with Simulated Users in Interactive Worlds",
+          "publication_date": "2026-11-05",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2611.08286",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2611.08286"
+        },
+        {
+          "id": "https://openalex.org/W7225162451",
+          "title": "EgoMo3R: Joint Egocentric Motion and Scene Reconstruction",
+          "publication_date": "2026-11-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2611.01627",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2611.01627"
+        },
+        {
+          "id": "https://openalex.org/W7223048829",
+          "title": "Text-to-Image Generative Modeling Without Language Pretraining",
+          "publication_date": "2026-10-19",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.26863",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.26863"
+        },
+        {
+          "id": "https://openalex.org/W7222914056",
+          "title": "A Language-Informed Loss for Visual Generation",
+          "publication_date": "2026-10-16",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.23653",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.23653"
+        },
+        {
+          "id": "https://openalex.org/W7222429312",
+          "title": "TRACER: A Multimodal Harness for Patient Care in Hospitals",
+          "publication_date": "2026-10-15",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.21266",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.21266"
+        },
+        {
+          "id": "https://openalex.org/W7168289900",
+          "title": "Evidence-Backed Video Question Answering",
+          "publication_date": "2026-09-11",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1007/978-3-032-36846-1_5",
+          "venue": "Lecture notes in computer science",
+          "open_access": "green",
+          "url": "https://doi.org/10.1007/978-3-032-36846-1_5"
+        },
+        {
+          "id": "https://openalex.org/W7163019934",
+          "title": "Linear Scaling Video VLMs for Long Video Understanding",
+          "publication_date": "2026-09-10",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1007/978-3-032-37369-4_13",
+          "venue": "Lecture notes in computer science",
+          "open_access": "green",
+          "url": "https://doi.org/10.1007/978-3-032-37369-4_13"
+        },
+        {
+          "id": "https://openalex.org/W7207521196",
+          "title": "Selective computation for video understanding",
+          "publication_date": "2026-09-03",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.25740/mr410dh3988",
+          "venue": "Stanford Digital Repository",
+          "open_access": "green",
+          "url": "https://doi.org/10.25740/mr410dh3988"
+        },
+        {
+          "id": "https://openalex.org/W7163641762",
+          "title": "Physics-grounded world models",
+          "publication_date": "2026-06-05",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.25740/rb876hg8576",
+          "venue": "Stanford Digital Repository",
+          "open_access": "green",
+          "url": "https://doi.org/10.25740/rb876hg8576"
+        }
+      ]
+    },
+    {
+      "name": "Rishi Bommasani",
+      "labs": [
+        "CRFM",
+        "HAI"
+      ],
+      "topics": [
+        "foundation models",
+        "evaluation",
+        "policy",
+        "societal impact"
+      ],
+      "status": "other",
+      "homepage": "https://rishibommasani.github.io/",
+      "openalex_id": "https://openalex.org/A5069576651",
+      "works": [
+        {
+          "id": "https://openalex.org/W7236744272",
+          "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+          "publication_date": "2026-11-18",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2611.24927",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2611.24927"
+        },
+        {
+          "id": "https://openalex.org/W7166861014",
+          "title": "FLARE-AI: Flaw Reporting for AI",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2606.31567",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "green",
+          "url": "https://proceedings.mlr.press/v306/longpre26a.html"
+        },
+        {
+          "id": "https://openalex.org/W7172034168",
+          "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+          "publication_date": "2026-07-30",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2607.28617",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2607.28617"
+        },
+        {
+          "id": "https://openalex.org/W7171829728",
+          "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
+          "publication_date": "2026-07-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2607.27191",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2607.27191"
+        },
+        {
+          "id": "https://openalex.org/W7170155631",
+          "title": "Economic Evaluations of Language Models",
+          "publication_date": "2026-06-26",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2607.19375",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2607.19375"
+        },
+        {
+          "id": "https://openalex.org/W7201879128",
+          "title": "Estimating time spent on work tasks",
+          "publication_date": "2026-06-26",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2608.05172",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2608.05172"
+        },
+        {
+          "id": "https://openalex.org/W7166581764",
+          "title": "Algorithmic Monocultures in Hiring",
+          "publication_date": "2026-06-25",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1145/3805689.3812400",
+          "venue": "ACM Conference on Fairness, Accountability, and Transparency (FAccT)",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1145/3805689.3812400"
+        },
+        {
+          "id": "https://openalex.org/W7167742978",
+          "title": "The Jagged Global Economy: Frontier AI Unevenly Exposes National Economies",
+          "publication_date": "2026-06-08",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2607.05404",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2607.05404"
+        },
+        {
+          "id": "https://openalex.org/W7119503399",
+          "title": "Legal Alignment for Safe and Ethical AI",
+          "publication_date": "2026-06-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2601.04175",
+          "venue": "Transactions on machine learning research",
+          "open_access": "diamond",
+          "url": "https://openreview.net/forum?id=BypXEQa7mf"
+        },
+        {
+          "id": "https://openalex.org/W7161994113",
+          "title": "Open-World Evaluations for Measuring Frontier AI Capabilities",
+          "publication_date": "2026-05-19",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2605.20520",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2605.20520"
+        }
+      ]
+    },
+    {
+      "name": "Xiang Lisa Li",
+      "labs": [
+        "CRFM",
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "llm",
+        "diffusion",
+        "prompt tuning",
+        "multimodal generation"
+      ],
+      "status": "phd",
+      "homepage": "https://lisaxiang.com/",
+      "openalex_id": "https://openalex.org/A5041701394",
+      "works": [
+        {
+          "id": "https://openalex.org/W4407131686",
+          "title": "Eliciting Language Model Behaviors with Investigator Agents",
+          "publication_date": "2025-10-06",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2502.01236",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v267/li25i.html"
+        },
+        {
+          "id": "https://openalex.org/W4407425893",
+          "title": "Auditing Prompt Caching in Language Model APIs",
+          "publication_date": "2025-10-06",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2502.07776",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v267/gu25b.html"
+        }
+      ]
+    },
+    {
+      "name": "Shibani Santurkar",
+      "labs": [
+        "CRFM"
+      ],
+      "topics": [
+        "evaluation",
+        "scaling laws",
+        "ai safety"
+      ],
+      "status": "postdoc",
+      "homepage": "https://ssanturkar.github.io/",
+      "openalex_id": "https://openalex.org/A5068204319",
+      "works": [
+        {
+          "id": "https://openalex.org/W7119523234",
+          "title": "OpenAI GPT-5 System Card",
+          "publication_date": "2026-01-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2601.03267",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2601.03267"
+        }
+      ]
+    },
+    {
+      "name": "Aviral Kumar",
+      "labs": [
+        "IRIS",
+        "CRFM"
+      ],
+      "topics": [
+        "rl",
+        "offline rl",
+        "decision making",
+        "robotics"
+      ],
+      "status": "phd",
+      "homepage": "https://aviralkumar2907.github.io/",
+      "openalex_id": "https://openalex.org/A5062136150",
+      "works": [
+        {
+          "id": "https://openalex.org/W7225344335",
+          "title": "Dynamic correlation between cryptocurrency and energy commodity prices: a Multiscale Time-Dependent Analysis",
+          "publication_date": "2026-11-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1016/j.qref.2026.102256",
+          "venue": "The Quarterly Review of Economics and Finance",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1016/j.qref.2026.102256"
+        },
+        {
+          "id": "https://openalex.org/W7204573302",
+          "title": "Decarbonising transportation: Driving the energy transition and shaping climate resilience",
+          "publication_date": "2026-08-28",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1016/j.tranpol.2026.104393",
+          "venue": "Transport Policy",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1016/j.tranpol.2026.104393"
+        },
+        {
+          "id": "https://openalex.org/W7197025566",
+          "title": "Dynamics of oil price shocks and federal interest rates: a quantile based analysis during crisis period",
+          "publication_date": "2026-08-06",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1080/00036846.2026.2709167",
+          "venue": "Applied Economics",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1080/00036846.2026.2709167"
+        },
+        {
+          "id": "https://openalex.org/W7172423043",
+          "title": "Environmental Efficiency in Germany: The Role of Renewable Energy R&D, Labor Productivity, Fossil Fuel Inefficiency, and Energy Efficiency Investments",
+          "publication_date": "2026-08-04",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1111/1477-8947.70080",
+          "venue": "Natural Resources Forum",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1111/1477-8947.70080"
+        },
+        {
+          "id": "https://openalex.org/W7170041274",
+          "title": "Exploring the Dynamic Influence of Credit Market Factors on Financial Development",
+          "publication_date": "2026-07-22",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1007/s40953-026-00529-2",
+          "venue": "Journal of Quantitative Economics",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1007/s40953-026-00529-2"
+        },
+        {
+          "id": "https://openalex.org/W7162580426",
+          "title": "Multidimensional Analysis of Finance-Growth Nexus in Emerging Economies. Does the Role of Institutions Matter?",
+          "publication_date": "2026-05-27",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1007/s40953-026-00518-5",
+          "venue": "Journal of Quantitative Economics",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1007/s40953-026-00518-5"
+        },
+        {
+          "id": "https://openalex.org/W7162638675",
+          "title": "Navigating the Sustainable Development Goals Through Volatility Spillovers, Maritime Trade, and Commodity Markets",
+          "publication_date": "2026-05-27",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1002/sd.71248",
+          "venue": "Sustainable Development",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1002/sd.71248"
+        },
+        {
+          "id": "https://openalex.org/W7160780997",
+          "title": "The impact of biomass energy and information and communication technology on economic growth: a global panel data analysis",
+          "publication_date": "2026-05-10",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1080/15567249.2026.2671303",
+          "venue": "Energy Sources Part B Economics Planning and Policy",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1080/15567249.2026.2671303"
+        },
+        {
+          "id": "https://openalex.org/W7143510859",
+          "title": "Asymmetric risk spillovers and multiscale interconnectedness in sustainable financial markets: A time-varying frequency analysis",
+          "publication_date": "2026-03-30",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1016/j.ribaf.2026.103402",
+          "venue": "Research in International Business and Finance",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1016/j.ribaf.2026.103402"
+        },
+        {
+          "id": "https://openalex.org/W7141001793",
+          "title": "International environment agreements and emissions reduction: new insights from a staggered difference-in-difference analysis",
+          "publication_date": "2026-03-27",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1017/s1355770x26100503",
+          "venue": "Environment and Development Economics",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1017/s1355770x26100503"
+        }
+      ]
+    },
+    {
+      "name": "Timo Schick",
+      "labs": [
+        "CRFM"
+      ],
+      "topics": [
+        "foundation models",
+        "instruction tuning",
+        "alignment"
+      ],
+      "status": "research scientist",
+      "homepage": "https://schick.xyz/",
+      "openalex_id": "https://openalex.org/A5076269589",
+      "works": []
+    },
+    {
+      "name": "Yifan Mai",
+      "labs": [
+        "CRFM"
+      ],
+      "topics": [
+        "eval",
+        "foundation models",
+        "semantic generalization"
+      ],
+      "status": "phd",
+      "homepage": "https://yifanmai.github.io/",
+      "openalex_id": "https://openalex.org/A5006623234",
+      "works": [
+        {
+          "id": "https://openalex.org/W4416047697",
+          "title": "LLMs Judging LLMs: A Simplex Perspective",
+          "publication_date": "2026-08-30",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2505.21972",
+          "venue": "International Conference on Artificial Intelligence and Statistics",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v300/vossler26a.html"
+        },
+        {
+          "id": "https://openalex.org/W7196925414",
+          "title": "DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots",
+          "publication_date": "2026-08-05",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2608.05004",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2608.05004"
+        },
+        {
+          "id": "https://openalex.org/W7237105603",
+          "title": "The Mighty ToRR: A Benchmark for Table Reasoning and Robustness in LLMs",
+          "publication_date": "2026-07-04",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48448/n701-hx60",
+          "venue": "Underline Science Inc.",
+          "open_access": "green",
+          "url": "https://doi.org/10.48448/n701-hx60"
+        },
+        {
+          "id": "https://openalex.org/W7166741332",
+          "title": "Expert Evaluation of Clinical AI Tools on Real Point-of-Care Clinical Queries",
+          "publication_date": "2026-06-27",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2606.28960",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2606.28960"
+        },
+        {
+          "id": "https://openalex.org/W7164838414",
+          "title": "Every Eval Ever: A Unifying Schema and Community Repository for AI Evaluation Results",
+          "publication_date": "2026-06-12",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2606.14516",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2606.14516"
+        },
+        {
+          "id": "https://openalex.org/W7160876754",
+          "title": "Adaptive auditing of AI systems with anytime-valid guarantees",
+          "publication_date": "2026-05-07",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2605.07002",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2605.07002"
+        },
+        {
+          "id": "https://openalex.org/W4415257516",
+          "title": "Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation",
+          "publication_date": "2026-04-20",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2510.11977",
+          "venue": "International Conference on Learning Representations",
+          "open_access": "diamond",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/a0928f924a344aaebbb7f6cd8d56e34c-Abstract-Conference.html"
+        },
+        {
+          "id": "https://openalex.org/W7138123451",
+          "title": "Talk, Evaluate, Diagnose: User-aware Agent Evaluation with Automated Error Analysis",
+          "publication_date": "2026-04-20",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2603.15483",
+          "venue": "International Conference on Learning Representations",
+          "open_access": "diamond",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/4cb31c278aae8c8862af1672557d3b11-Abstract-Conference.html"
+        },
+        {
+          "id": "https://openalex.org/W7140110720",
+          "title": "OCR or Not? Rethinking Document Information Extraction in the MLLMs Era with Real-World Large-Scale Datasets",
+          "publication_date": "2026-01-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.18653/v1/2026.eacl-industry.28",
+          "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.18653/v1/2026.eacl-industry.28"
+        },
+        {
+          "id": "https://openalex.org/W4416778153",
+          "title": "Structured Prompts Improve Evaluation of Language Models",
+          "publication_date": "2025-11-25",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2511.20836",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2511.20836"
+        }
+      ]
+    },
+    {
+      "name": "Asa Cooper Stickland",
+      "labs": [
+        "CRFM"
+      ],
+      "topics": [
+        "llm",
+        "robustness",
+        "uncertainty"
+      ],
+      "status": "postdoc",
+      "homepage": "https://acstickland.github.io/",
+      "openalex_id": "https://openalex.org/A5024678824",
+      "works": [
+        {
+          "id": "https://openalex.org/W7197006542",
+          "title": "Chain-of-Thought Monitoring Can Be Unreliable in Implicit-Influence Settings",
+          "publication_date": "2026-08-05",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2608.04735",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2608.04735"
+        },
+        {
+          "id": "https://openalex.org/W7167231246",
+          "title": "Distributed Attacks in Persistent-State AI Control",
+          "publication_date": "2026-07-02",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2607.02514",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2607.02514"
+        },
+        {
+          "id": "https://openalex.org/W7164318194",
+          "title": "Forecasting Future Behavior as a Learning Task",
+          "publication_date": "2026-06-09",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2606.11445",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2606.11445"
+        },
+        {
+          "id": "https://openalex.org/W4417459247",
+          "title": "Async Control: Stress-testing Asynchronous Control Measures for LLM Agents",
+          "publication_date": "2025-12-15",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2512.13526",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2512.13526"
+        },
+        {
+          "id": "https://openalex.org/W4416595452",
+          "title": "Why Do Language Model Agents Whistleblow?",
+          "publication_date": "2025-11-21",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2511.17085",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2511.17085"
+        },
+        {
+          "id": "https://openalex.org/W4405621156",
+          "title": "Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs",
+          "publication_date": "2025-08-01",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2407.15549",
+          "venue": "Transactions on machine learning research",
+          "open_access": "diamond",
+          "url": "https://openreview.net/forum?id=6LxMeRlkWl"
+        }
+      ]
+    },
+    {
+      "name": "Sebastian Ruder",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "transfer learning",
+        "multilingual NLP",
+        "unsupervised learning"
+      ],
+      "status": "phd",
+      "homepage": "https://ruder.io/",
+      "openalex_id": "https://openalex.org/A5037310413",
+      "works": [
+        {
+          "id": "https://openalex.org/W7202214872",
+          "title": "OmnilingualGAIA2: Evaluating the Multilingual Gap in Frontier AI Agents",
+          "publication_date": "2026-08-09",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2608.08775",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2608.08775"
+        },
+        {
+          "id": "https://openalex.org/W7155413980",
+          "title": "Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL",
+          "publication_date": "2026-04-22",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2604.20835",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2604.20835"
+        },
+        {
+          "id": "https://openalex.org/W4415308159",
+          "title": "The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs",
+          "publication_date": "2026-01-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.18653/v1/2026.findings-acl.1926",
+          "venue": "Findings of the Association for Computational Linguistics: ACL (Findings of ACL)",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.18653/v1/2026.findings-acl.1926"
+        },
+        {
+          "id": "https://openalex.org/W7166847654",
+          "title": "Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL",
+          "publication_date": "2026-01-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.18653/v1/2026.findings-acl.1324",
+          "venue": "Findings of the Association for Computational Linguistics: ACL (Findings of ACL)",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.18653/v1/2026.findings-acl.1324"
+        },
+        {
+          "id": "https://openalex.org/W7117773661",
+          "title": "Beg to Differ: Understanding Reasoning-Answer Misalignment Across Languages",
+          "publication_date": "2025-12-27",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2512.22712",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2512.22712"
+        }
+      ]
+    },
+    {
+      "name": "John Hewitt",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "representation geometry",
+        "syntax",
+        "embedding structure"
+      ],
+      "status": "phd",
+      "homepage": "https://nlp.stanford.edu/people/johnhewitt/",
+      "openalex_id": "https://openalex.org/A5017046391",
+      "works": [
+        {
+          "id": "https://openalex.org/W7214172218",
+          "title": "Nicotine use and psychoticism: A longitudinal co-twin control analysis.",
+          "publication_date": "2026-11-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1037/abn0001163",
+          "venue": "Journal of Psychopathology and Clinical Science",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1037/abn0001163"
+        },
+        {
+          "id": "https://openalex.org/W7203571202",
+          "title": "A preliminary exploration in the associations between cannabis use frequency and appetite, eating behavior, and anthropometrics",
+          "publication_date": "2026-08-16",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1016/j.drugalcdep.2026.113315",
+          "venue": "Drug and Alcohol Dependence",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1016/j.drugalcdep.2026.113315"
+        },
+        {
+          "id": "https://openalex.org/W7201835658",
+          "title": "A genetically informed cross‐lagged twin study of the longitudinal association between addiction‐related behaviors and obesity",
+          "publication_date": "2026-08-07",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.17615/x3t3-2d32",
+          "venue": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
+          "open_access": "green",
+          "url": "https://doi.org/10.17615/x3t3-2d32"
+        },
+        {
+          "id": "https://openalex.org/W7160735039",
+          "title": "Adolescent nicotine use and adult psychoticism: A longitudinal co-twin control analysis",
+          "publication_date": "2026-05-07",
+          "publication_year": 2026,
+          "doi": null,
+          "venue": "OSF Preprints (OSF Preprints)",
+          "open_access": "green",
+          "url": "https://osf.io/xtz4c"
+        },
+        {
+          "id": "https://openalex.org/W7153289443",
+          "title": "A genetically informed cross‐lagged twin study of the longitudinal association between addiction‐related behaviors and obesity",
+          "publication_date": "2026-04-09",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1111/add.70407",
+          "venue": "Addiction",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1111/add.70407"
+        },
+        {
+          "id": "https://openalex.org/W7125912701",
+          "title": "Mapping the genetic landscape across 14 psychiatric disorders",
+          "publication_date": "2026-01-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.34734/fzj-2026-01321",
+          "venue": "Nature",
+          "open_access": "bronze",
+          "url": "https://doi.org/10.34734/fzj-2026-01321"
+        },
+        {
+          "id": "https://openalex.org/W4417199191",
+          "title": "Mapping the genetic landscape across 14 psychiatric disorders",
+          "publication_date": "2025-12-10",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1038/s41586-025-09820-3",
+          "venue": "Nature",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1038/s41586-025-09820-3"
+        },
+        {
+          "id": "https://openalex.org/W4414628414",
+          "title": "Publisher Correction: Genome-wide association meta-analysis of childhood ADHD symptoms and diagnosis identifies new loci and potential effector genes",
+          "publication_date": "2025-09-29",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1038/s41588-025-02383-z",
+          "venue": "Nature Genetics",
+          "open_access": "bronze",
+          "url": "https://doi.org/10.1038/s41588-025-02383-z"
+        },
+        {
+          "id": "https://openalex.org/W4414427830",
+          "title": "Cannabis use and suicidal thoughts and behavior: A multi-site, co-twin control study from adolescence through middle adulthood",
+          "publication_date": "2025-09-22",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.31234/osf.io/fwn6a_v1",
+          "venue": "PsyArXiv (OSF Preprints)",
+          "open_access": "green",
+          "url": "https://doi.org/10.31234/osf.io/fwn6a_v1"
+        },
+        {
+          "id": "https://openalex.org/W4414308365",
+          "title": "Genome-wide association meta-analysis of childhood ADHD symptoms and diagnosis identifies new loci and potential effector genes",
+          "publication_date": "2025-09-17",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1038/s41588-025-02295-y",
+          "venue": "Nature Genetics",
+          "open_access": "green",
+          "url": "https://doi.org/10.1038/s41588-025-02295-y"
+        }
+      ]
+    },
+    {
+      "name": "Chris Donahue",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "generative modeling",
+        "audio",
+        "diffusion",
+        "music"
+      ],
+      "status": "phd",
+      "homepage": "https://chrisdonahue.com/",
+      "openalex_id": "https://openalex.org/A5019674079",
+      "works": [
+        {
+          "id": "https://openalex.org/W7203947980",
+          "title": "MultiVerse: A Creator-Centered Approach to Steering Context-Adaptive Lyrics",
+          "publication_date": "2026-11-02",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1145/3830398.3830530",
+          "venue": "ACM Symposium on User Interface Software and Technology (UIST)",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1145/3830398.3830530"
+        },
+        {
+          "id": "https://openalex.org/W7225275610",
+          "title": "PianoBench: Evaluating Musical Perception and Reasoning in Language Models",
+          "publication_date": "2026-11-02",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2611.03839",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2611.03839"
+        },
+        {
+          "id": "https://openalex.org/W7221786557",
+          "title": "Interaction-as-a-Judge",
+          "publication_date": "2026-10-13",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.17895",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.17895"
+        },
+        {
+          "id": "https://openalex.org/W7221819621",
+          "title": "Transfer Learning for Rhythm Game Chart Generation from Music Transcription and Across Games",
+          "publication_date": "2026-10-10",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.14955",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.14955"
+        },
+        {
+          "id": "https://openalex.org/W7128690794",
+          "title": "GameDevBench: Evaluating Agentic Capabilities Through Game Development",
+          "publication_date": "2026-09-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2602.11103",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "green",
+          "url": "https://proceedings.mlr.press/v306/chi26a.html"
+        },
+        {
+          "id": "https://openalex.org/W7134829214",
+          "title": "Benchmarking Language Modeling for Lossless Compression of Full-Fidelity Audio",
+          "publication_date": "2026-09-27",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.21437/interspeech.2026-1748",
+          "venue": "Interspeech (USB)",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.21437/interspeech.2026-1748"
+        },
+        {
+          "id": "https://openalex.org/W7168264449",
+          "title": "Local Multimodal Music Alignment from Global Supervision",
+          "publication_date": "2026-07-10",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2607.10023",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2607.10023"
+        },
+        {
+          "id": "https://openalex.org/W7167922275",
+          "title": "MulTTiPop: A Multitrack Transcription Dataset for Pop Music",
+          "publication_date": "2026-07-09",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2607.08756",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2607.08756"
+        },
+        {
+          "id": "https://openalex.org/W7167281211",
+          "title": "Decomposer: Learning to Decompile Symbolic Music to Programs",
+          "publication_date": "2026-07-02",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2607.01849",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2607.01849"
+        },
+        {
+          "id": "https://openalex.org/W7167050302",
+          "title": "What's a Credit Worth? A Market Framework for Attribution-Aware Compensation in Generative Music",
+          "publication_date": "2026-07-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2607.00641",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2607.00641"
+        }
+      ]
+    },
+    {
+      "name": "Bin Zhang",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "syntax",
+        "semantics",
+        "probing"
+      ],
+      "status": "phd",
+      "homepage": "https://bzhang.io/",
+      "openalex_id": "https://openalex.org/A5100392884",
+      "works": [
+        {
+          "id": "https://openalex.org/W7221045164",
+          "title": "The HDAC8–U2AF1 Axis Dysregulates DNA Damage–Responsive RNA Splicing and Creates Targetable Vulnerabilities in Acute Myeloid Leukemia",
+          "publication_date": "2026-11-03",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1158/0008-5472.can-25-5027",
+          "venue": "Cancer Research",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1158/0008-5472.can-25-5027"
+        },
+        {
+          "id": "https://openalex.org/W7223177404",
+          "title": "Multi-parametric MRI radiomics-based machine learning model for predicting clinical outcomes in acute ischemic stroke",
+          "publication_date": "2026-10-22",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1186/s12883-026-05341-2",
+          "venue": "BMC Neurology",
+          "open_access": "gold",
+          "url": "https://doi.org/10.1186/s12883-026-05341-2"
+        },
+        {
+          "id": "https://openalex.org/W7221462834",
+          "title": "Synthetic strategies and applications of positional thiol analogs of glycopyranose",
+          "publication_date": "2026-10-11",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1016/j.bioorg.2026.110642",
+          "venue": "Bioorganic Chemistry",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1016/j.bioorg.2026.110642"
+        },
+        {
+          "id": "https://openalex.org/W7221066755",
+          "title": "Endovascular treatment guided by tissue window rather than time window may be safe and feasible in patients with ischemic stroke",
+          "publication_date": "2026-10-09",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1186/s12883-026-05490-4",
+          "venue": "BMC Neurology",
+          "open_access": "gold",
+          "url": "https://doi.org/10.1186/s12883-026-05490-4"
+        },
+        {
+          "id": "https://openalex.org/W7213313495",
+          "title": "Protein arginine methyltransferases as metabolic regulators: many roles beyond cancer",
+          "publication_date": "2026-09-09",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1007/s11427-025-3344-2",
+          "venue": "Science China Life Sciences",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1007/s11427-025-3344-2"
+        },
+        {
+          "id": "https://openalex.org/W7203599314",
+          "title": "Longitudinal gut microbiome dynamics in neurosurgical ICU patients: Enterococcus expansion as a feature of microbial restructuring",
+          "publication_date": "2026-08-17",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1186/s12866-026-05450-5",
+          "venue": "BMC Microbiology",
+          "open_access": "gold",
+          "url": "https://doi.org/10.1186/s12866-026-05450-5"
+        },
+        {
+          "id": "https://openalex.org/W7196939744",
+          "title": "Thalamic volume alterations mediate glymphatic function and cognitive dysfunction in Alzheimer's disease",
+          "publication_date": "2026-07-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1002/trc2.70304",
+          "venue": "Alzheimer s & Dementia Translational Research & Clinical Interventions",
+          "open_access": "gold",
+          "url": "https://doi.org/10.1002/trc2.70304"
+        },
+        {
+          "id": "https://openalex.org/W7165942920",
+          "title": "MetaCell-based Multiscale Network Analysis (MCMNA)",
+          "publication_date": "2026-06-24",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.5281/zenodo.20834299",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "open_access": "green",
+          "url": "https://doi.org/10.5281/zenodo.20834299"
+        },
+        {
+          "id": "https://openalex.org/W7163738257",
+          "title": "Targeting the METTL1/m⁷G axis as a therapeutic strategy in myeloid leukemia",
+          "publication_date": "2026-03-12",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1182/blood.2025030336",
+          "venue": "Zurich Open Repository and Archive (University of Zurich)",
+          "open_access": "closed",
+          "url": "https://www.zora.uzh.ch/handle/20.500.14742/247837"
+        },
+        {
+          "id": "https://openalex.org/W7220722725",
+          "title": "Multiscale transcriptomic network models of Parkinson’s disease at the single-cell level",
+          "publication_date": "2026-01-21",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1093/gigascience/giag096",
+          "venue": "GigaScience",
+          "open_access": "gold",
+          "url": "https://doi.org/10.1093/gigascience/giag096"
+        }
+      ]
+    },
+    {
+      "name": "Alex Tamkin",
+      "labs": [
+        "Stanford NLP Group",
+        "HAI"
+      ],
+      "topics": [
+        "foundation models",
+        "representation",
+        "alignment"
+      ],
+      "status": "phd",
+      "homepage": "https://tamkin.io/",
+      "openalex_id": "https://openalex.org/A5081558429",
+      "works": [
+        {
+          "id": "https://openalex.org/W7224982972",
+          "title": "Deferral to AI in an Observational Causal Inference Task",
+          "publication_date": "2026-10-28",
+          "publication_year": 2026,
+          "doi": null,
+          "venue": "OSF Preprints (OSF Preprints)",
+          "open_access": "green",
+          "url": "https://osf.io/t3q59"
+        },
+        {
+          "id": "https://openalex.org/W7223733705",
+          "title": "BLASTNetv3: Multiphysics Simulation Dataset",
+          "publication_date": "2026-08-20",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.5281/zenodo.21348074",
+          "venue": "PolyPublie (École Polytechnique de Montréal)",
+          "open_access": "green",
+          "url": "https://publications.polymtl.ca/84910/"
+        },
+        {
+          "id": "https://openalex.org/W7162776923",
+          "title": "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet",
+          "publication_date": "2026-05-28",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2605.29358",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2605.29358"
+        },
+        {
+          "id": "https://openalex.org/W7126428633",
+          "title": "How AI Impacts Skill Formation",
+          "publication_date": "2026-03-31",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.17605/osf.io/w49e7",
+          "venue": "Open Science Framework",
+          "open_access": "green",
+          "url": "https://doi.org/10.17605/osf.io/w49e7"
+        },
+        {
+          "id": "https://openalex.org/W7126029612",
+          "title": "How AI Impacts Skill Formation",
+          "publication_date": "2026-01-28",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2601.20245",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2601.20245"
+        },
+        {
+          "id": "https://openalex.org/W7124228484",
+          "title": "How AI Impacts Skill Formation",
+          "publication_date": "2026-01-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.17605/osf.io/w49e7",
+          "venue": null,
+          "open_access": "green",
+          "url": "https://osf.io/w49e7"
+        },
+        {
+          "id": "https://openalex.org/W7106274751",
+          "title": "Anthropic Economic Index report: Uneven geographic and enterprise AI adoption",
+          "publication_date": "2025-11-19",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2511.15080",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "http://arxiv.org/abs/2511.15080"
+        }
+      ]
+    },
+    {
+      "name": "Gao Jian (Jian Gao)",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "translation",
+        "multilingual NLP"
+      ],
+      "status": "phd",
+      "homepage": "https://gaojian.gitlab.io/",
+      "openalex_id": "https://openalex.org/A5101713846",
+      "works": [
+        {
+          "id": "https://openalex.org/W7212176814",
+          "title": "Omics-based Decoding of Metabolic Dysfunction-associated Fatty Liver Disease: From Pathogenesis to Clinical Translation",
+          "publication_date": "2026-09-10",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.14218/jcth.2026.00153",
+          "venue": "Journal of Clinical and Translational Hepatology",
+          "open_access": "diamond",
+          "url": "https://doi.org/10.14218/jcth.2026.00153"
+        },
+        {
+          "id": "https://openalex.org/W7206200975",
+          "title": "Gender differences in stigma and care avoidance among people living with MASLD: An international survey",
+          "publication_date": "2026-09-02",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1016/j.jhepr.2026.101987",
+          "venue": "JHEP Reports",
+          "open_access": "gold",
+          "url": "https://doi.org/10.1016/j.jhepr.2026.101987"
+        },
+        {
+          "id": "https://openalex.org/W7168139407",
+          "title": "Drug Development for MASH ‐Related Compensated Cirrhosis: Past, Present and Future",
+          "publication_date": "2026-07-12",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1111/liv.70784",
+          "venue": "Liver International",
+          "open_access": "green",
+          "url": "https://doi.org/10.1111/liv.70784"
+        },
+        {
+          "id": "https://openalex.org/W7119010365",
+          "title": "Bidirectional Regulation between Metabolic Dysfunction-associated Steatotic Liver Disease and Sarcopenia via Liver-muscle Crosstalk",
+          "publication_date": "2026-01-07",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.14218/jcth.2025.00538",
+          "venue": "Journal of Clinical and Translational Hepatology",
+          "open_access": "diamond",
+          "url": "https://doi.org/10.14218/jcth.2025.00538"
+        },
+        {
+          "id": "https://openalex.org/W4417019980",
+          "title": "The impact of genetic and environmental risk factors on adverse liver outcomes",
+          "publication_date": "2025-12-04",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1002/ijc.70259",
+          "venue": "International Journal of Cancer",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1002/ijc.70259"
+        },
+        {
+          "id": "https://openalex.org/W4415779936",
+          "title": "Current and Emerging Issues in Familial Hypobetalipoproteinemia-related Steatotic Liver Diseases",
+          "publication_date": "2025-11-03",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.14218/jcth.2025.00360",
+          "venue": "Journal of Clinical and Translational Hepatology",
+          "open_access": "diamond",
+          "url": "https://doi.org/10.14218/jcth.2025.00360"
+        },
+        {
+          "id": "https://openalex.org/W4415254159",
+          "title": "Global performance of non-invasive tests in MASLD: Insights from the G-MASLD study",
+          "publication_date": "2025-10-08",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1097/hep.0000000000001564",
+          "venue": "Hepatology",
+          "open_access": "green",
+          "url": "https://doi.org/10.1097/hep.0000000000001564"
+        },
+        {
+          "id": "https://openalex.org/W4415418396",
+          "title": "Construction and Validation of an Automatic Segmentation Method for Respiratory Sound Time Labels",
+          "publication_date": "2025-10-01",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1111/crj.70124",
+          "venue": "The Clinical Respiratory Journal",
+          "open_access": "gold",
+          "url": "https://doi.org/10.1111/crj.70124"
+        },
+        {
+          "id": "https://openalex.org/W4413734072",
+          "title": "MSCs attenuate airway remodeling in HDM-induced asthma by inhibiting the Timp1-Wnt2b axis",
+          "publication_date": "2025-09-26",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.3724/abbs.2025159",
+          "venue": "Acta Biochimica et Biophysica Sinica",
+          "open_access": "diamond",
+          "url": "https://doi.org/10.3724/abbs.2025159"
+        },
+        {
+          "id": "https://openalex.org/W4414262159",
+          "title": "Worldwide patterns and trends in childhood and adolescent brain cancers, 1990–2021: insights from the global burden of disease study 2021",
+          "publication_date": "2025-09-12",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.3389/fpubh.2025.1591309",
+          "venue": "Frontiers in Public Health",
+          "open_access": "gold",
+          "url": "https://doi.org/10.3389/fpubh.2025.1591309"
+        }
+      ]
+    },
+    {
+      "name": "Yuhao Zhang",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "clinical NLP",
+        "information extraction",
+        "vision-language"
+      ],
+      "status": "phd",
+      "homepage": "https://yuhao.github.io/",
+      "openalex_id": "https://openalex.org/A5100349337",
+      "works": [
+        {
+          "id": "https://openalex.org/W7225648280",
+          "title": "Heat-resistant collagen gel alleviates obesity through glycine release and gut microbiota remodeling",
+          "publication_date": "2026-11-09",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1039/d6fo03445d",
+          "venue": "Food & Function",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1039/d6fo03445d"
+        },
+        {
+          "id": "https://openalex.org/W7224799345",
+          "title": "Transglutaminase-Crosslinked Collagen Gel Delays Gastrointestinal Transit and Prolongs Serum Appearance of Antioxidant Collagen Di- and Tripeptides in Mice",
+          "publication_date": "2026-10-30",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.3390/nu18213602",
+          "venue": "Nutrients",
+          "open_access": "gold",
+          "url": "https://doi.org/10.3390/nu18213602"
+        },
+        {
+          "id": "https://openalex.org/W7221053093",
+          "title": "Fabrication and regulation of acid-induced gels from modified yeast protein: Structural features, physicochemical properties, rheological behaviors and gelation regulation mechanism",
+          "publication_date": "2026-10-08",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1016/j.foodhyd.2026.113476",
+          "venue": "Food Hydrocolloids",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1016/j.foodhyd.2026.113476"
+        },
+        {
+          "id": "https://openalex.org/W7208767509",
+          "title": "Synergistic corrosion protection of carbon steel by epoxy coatings via interfacial engineering of sulfonated polyaniline-decorated zinc particles",
+          "publication_date": "2026-09-04",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1016/j.porgcoat.2026.110568",
+          "venue": "Progress in Organic Coatings",
+          "open_access": "green",
+          "url": "https://doi.org/10.1016/j.porgcoat.2026.110568"
+        },
+        {
+          "id": "https://openalex.org/W7213556620",
+          "title": "Raspberry Ketone Attenuates LPS‐Induced Glial Inflammation and Lipid Droplet Accumulation",
+          "publication_date": "2026-09-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1002/fft2.70355",
+          "venue": "Food Frontiers",
+          "open_access": "gold",
+          "url": "https://doi.org/10.1002/fft2.70355"
+        },
+        {
+          "id": "https://openalex.org/W7203548248",
+          "title": "Piezoelectric-photocatalysis assisted chemical mechanical polishing: A cost-effective and efficient approach to atomic-scale processing of RS-SiC surfaces",
+          "publication_date": "2026-08-15",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1016/j.jece.2026.124645",
+          "venue": "Journal of environmental chemical engineering",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1016/j.jece.2026.124645"
+        },
+        {
+          "id": "https://openalex.org/W7202123720",
+          "title": "Mapping the covalent cysteine interactome of Ebselen reveals high-sensitivity target engagement and redox proteome remodeling",
+          "publication_date": "2026-08-10",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1016/j.bioorg.2026.110316",
+          "venue": "Bioorganic Chemistry",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1016/j.bioorg.2026.110316"
+        },
+        {
+          "id": "https://openalex.org/W7171839279",
+          "title": "KFP-YOLO: A Lightweight Detection Model for Korla Fragrant Pear Disease and Pest Detection Toward Edge Deployment",
+          "publication_date": "2026-07-30",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.3390/agriculture16151631",
+          "venue": "Agriculture",
+          "open_access": "gold",
+          "url": "https://doi.org/10.3390/agriculture16151631"
+        },
+        {
+          "id": "https://openalex.org/W7170083292",
+          "title": "Fatty acid profiling combined with chemometrics and machine learning approaches for discriminating wild and farmed Hypophthalmichthys molitrix",
+          "publication_date": "2026-07-22",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1016/j.foodcont.2026.112494",
+          "venue": "Food Control",
+          "open_access": "closed",
+          "url": "https://doi.org/10.1016/j.foodcont.2026.112494"
+        },
+        {
+          "id": "https://openalex.org/W7171994645",
+          "title": "Mesh-like Elastin Scaffolds in Basement Membrane Regulate the Culinary Diversity and Edible Quality of Subcutaneous Adipose Tissue",
+          "publication_date": "2026-07-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1016/j.eng.2026.06.018",
+          "venue": "Engineering",
+          "open_access": "gold",
+          "url": "https://doi.org/10.1016/j.eng.2026.06.018"
+        }
+      ]
+    },
+    {
+      "name": "Noah Constant",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "transformers",
+        "tokenization",
+        "multilingual"
+      ],
+      "status": "industry researcher",
+      "homepage": "https://noahconstant.com/",
+      "openalex_id": "https://openalex.org/A5090701958",
+      "works": []
+    },
+    {
+      "name": "Reza Haffari",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "structured prediction",
+        "translation",
+        "bayesian models"
+      ],
+      "status": "phd",
+      "homepage": "https://users.monash.edu.au/~rhaffari/",
+      "openalex_id": "https://openalex.org/A5081525024",
+      "works": [
+        {
+          "id": "https://openalex.org/W7237087589",
+          "title": "Unifying Large Language Models and Knowledge Graphs for Faithful and Interpretable Reasoning",
+          "publication_date": "2026-10-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48448/egbr-s796",
+          "venue": "Underline Science Inc.",
+          "open_access": "green",
+          "url": "https://doi.org/10.48448/egbr-s796"
+        },
+        {
+          "id": "https://openalex.org/W7237189388",
+          "title": "Engineering Intelligence: Structuring Smarter AI Memory with Knowledge Graphs",
+          "publication_date": "2026-10-29",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48448/ahpm-qg06",
+          "venue": "Underline Science Inc.",
+          "open_access": "green",
+          "url": "https://doi.org/10.48448/ahpm-qg06"
+        },
+        {
+          "id": "https://openalex.org/W7223276955",
+          "title": "Anticipating Social Consequences with Distributional World Models",
+          "publication_date": "2026-10-22",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.30657",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.30657"
+        },
+        {
+          "id": "https://openalex.org/W7223334587",
+          "title": "UniGuard: Multi-View Guardrail Learning for Cross-Interface Safety Generalization",
+          "publication_date": "2026-10-22",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.30742",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.30742"
+        },
+        {
+          "id": "https://openalex.org/W7221816299",
+          "title": "SenseWeather: Multimodal Sensing for Robust Robotic Perception under Extreme Conditions",
+          "publication_date": "2026-10-08",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.14082",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.14082"
+        },
+        {
+          "id": "https://openalex.org/W7221176786",
+          "title": "Stochastic Teacher Intervention for Agentic On-Policy Distillation",
+          "publication_date": "2026-10-07",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2610.10878",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2610.10878"
+        },
+        {
+          "id": "https://openalex.org/W7138913573",
+          "title": "VIEW2SPACE: Studying Multi-view Visual Reasoning from Sparse Observations",
+          "publication_date": "2026-10-02",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1007/978-3-032-37531-5_29",
+          "venue": "Lecture notes in computer science",
+          "open_access": "green",
+          "url": "https://doi.org/10.1007/978-3-032-37531-5_29"
+        },
+        {
+          "id": "https://openalex.org/W7235819438",
+          "title": "Reasoning as Meta-Learning: Understanding Long Chain-of-Thought Reasoning in LLMs through an Optimization Lens",
+          "publication_date": "2026-10-01",
+          "publication_year": 2026,
+          "doi": null,
+          "venue": "Transactions on machine learning research",
+          "open_access": "diamond",
+          "url": "https://openreview.net/pdf?id=qtvkca3UNQ"
+        },
+        {
+          "id": "https://openalex.org/W7215106972",
+          "title": "The Missing Coefficients: Bayesian Pairwise Merging for Model Personalization",
+          "publication_date": "2026-09-30",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2609.39055",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2609.39055"
+        },
+        {
+          "id": "https://openalex.org/W7214740201",
+          "title": "JRDB-AVR: An Active Visual Reasoning Benchmark for Embodied Agents in Real-World Environments",
+          "publication_date": "2026-09-28",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.48550/arxiv.2609.35032",
+          "venue": "arXiv",
+          "open_access": "green",
+          "url": "https://arxiv.org/abs/2609.35032"
+        }
+      ]
+    },
+    {
+      "name": "Kevin Clark",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "transformers",
+        "representation",
+        "pretraining"
+      ],
+      "status": "phd",
+      "homepage": "https://kevincsc.com/",
+      "openalex_id": "https://openalex.org/A5031489667",
+      "works": [
+        {
+          "id": "https://openalex.org/W7223403824",
+          "title": "Trauma-Informed Teaching and Psychological Safety in Health Professions Education",
+          "publication_date": "2026-10-27",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.52519/aceqi.26.2.2.a6",
+          "venue": "Advances in Cancer Education and Quality Improvement",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.52519/aceqi.26.2.2.a6"
+        },
+        {
+          "id": "https://openalex.org/W7212370057",
+          "title": "Development of GuaB Inhibitors to Treat Mycobacterium tuberculosis Infection",
+          "publication_date": "2026-09-12",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1021/acsinfecdis.6c00350",
+          "venue": "ACS Infectious Diseases",
+          "open_access": "hybrid",
+          "url": "https://doi.org/10.1021/acsinfecdis.6c00350"
+        },
+        {
+          "id": "https://openalex.org/W7211916225",
+          "title": "Patient Centring in CT: An International Survey of Clinical Practice and Future Directions",
+          "publication_date": "2026-09-06",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.1002/jmrs.70119",
+          "venue": "Journal of Medical Radiation Sciences",
+          "open_access": "gold",
+          "url": "https://doi.org/10.1002/jmrs.70119"
+        },
+        {
+          "id": "https://openalex.org/W7119232735",
+          "title": "Emerging Medical Imaging Technologies and Educational Approaches",
+          "publication_date": "2026-01-01",
+          "publication_year": 2026,
+          "doi": "https://doi.org/10.64912/nrwc8510",
+          "venue": "Radiologic Technology",
+          "open_access": "closed",
+          "url": "https://doi.org/10.64912/nrwc8510"
+        },
+        {
+          "id": "https://openalex.org/W4417304272",
+          "title": "Comparison of morning vs evening exercise on weight loss and related health behaviors in individuals with overweight or obesity: study protocol for a 56-week randomized controlled trial (TIMEX)",
+          "publication_date": "2025-12-12",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1186/s13063-025-09306-7",
+          "venue": "Trials",
+          "open_access": "gold",
+          "url": "https://doi.org/10.1186/s13063-025-09306-7"
+        },
+        {
+          "id": "https://openalex.org/W4417238396",
+          "title": "Chemically-induced degradation of the endoplasmic-reticulum stress sensor IRE1 by a VHL-recruiting chimera",
+          "publication_date": "2025-12-11",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.1038/s41467-025-66382-8",
+          "venue": "Nature Communications",
+          "open_access": "gold",
+          "url": "https://doi.org/10.1038/s41467-025-66382-8"
+        },
+        {
+          "id": "https://openalex.org/W4417091256",
+          "title": "Limitations of Tools for Detecting the Use of AI in Student-Written Papers",
+          "publication_date": "2025-11-01",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.64912/stri8214",
+          "venue": "Radiologic Technology",
+          "open_access": "closed",
+          "url": "https://doi.org/10.64912/stri8214"
+        },
+        {
+          "id": "https://openalex.org/W7119232725",
+          "title": "Comment on Comparative Analysis of LLMs’ Performance on a Practice Radiography Certification Exam",
+          "publication_date": "2025-11-01",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.64912/yjar5334",
+          "venue": "Radiologic Technology",
+          "open_access": "closed",
+          "url": "https://doi.org/10.64912/yjar5334"
+        },
+        {
+          "id": "https://openalex.org/W4412526718",
+          "title": "Effects of 4:3 Intermittent Fasting on Eating Behaviors and Appetite Hormones: A Secondary Analysis of a 12-Month Behavioral Weight Loss Intervention",
+          "publication_date": "2025-07-21",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.3390/nu17142385",
+          "venue": "Nutrients",
+          "open_access": "gold",
+          "url": "https://doi.org/10.3390/nu17142385"
+        }
+      ]
+    },
+    {
+      "name": "Mandar Joshi",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "coreference",
+        "QA",
+        "transformers"
+      ],
+      "status": "phd",
+      "homepage": "https://mandarjoshi90.github.io/",
+      "openalex_id": "https://openalex.org/A5108202364",
+      "works": []
+    },
+    {
+      "name": "Kelvin Xu",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "robotics",
+        "meta learning",
+        "autonomous control"
+      ],
+      "status": "phd",
+      "homepage": "https://kelvinxu.me/",
+      "openalex_id": "https://openalex.org/A5060717631",
+      "works": [
+        {
+          "id": "https://openalex.org/W4389260861",
+          "title": "LMRL Gym: Benchmarks for Multi-Turn Reinforcement Learning with Language Models",
+          "publication_date": "2025-10-06",
+          "publication_year": 2025,
+          "doi": "https://doi.org/10.48550/arxiv.2311.18232",
+          "venue": "International Conference on Machine Learning",
+          "open_access": "bronze",
+          "url": "https://proceedings.mlr.press/v267/abdulhai25a.html"
+        }
+      ]
+    },
+    {
+      "name": "Sergey Levine",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "rl",
+        "robotics",
+        "dexterity",
+        "policy gradients"
+      ],
+      "status": "phd",
+      "homepage": "https://people.eecs.berkeley.edu/~svlevine/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Sudeep Dasari",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "offline rl",
+        "robotics",
+        "skill discovery",
+        "control"
+      ],
+      "status": "phd",
+      "homepage": "https://sudeepdasari.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Aravind Rajeswaran",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "robotics",
+        "meta rl",
+        "generalization",
+        "sim2real"
+      ],
+      "status": "postdoc",
+      "homepage": "https://homes.cs.washington.edu/~aravraj/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Karl Pertsch",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "robotics",
+        "self-supervised rl",
+        "policy adaptation"
+      ],
+      "status": "phd",
+      "homepage": "https://kpertsch.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Kasim Terzis",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "diffusion",
+        "robotics",
+        "world models"
+      ],
+      "status": "postdoc",
+      "homepage": "https://kasim.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Ashvin Nair",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "visual rl",
+        "representation",
+        "robotic manipulation"
+      ],
+      "status": "phd",
+      "homepage": "https://ashvin.me/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Michael Chang",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "object-centric models",
+        "embodied world models"
+      ],
+      "status": "phd",
+      "homepage": "https://mpchang.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Andy Zeng",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "robot manipulation",
+        "3d vision",
+        "embodied foundation models"
+      ],
+      "status": "industry researcher",
+      "homepage": "https://andyzeng.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Judy Hoffman",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "domain adaptation",
+        "robust perception",
+        "vision"
+      ],
+      "status": "phd",
+      "homepage": "https://faculty.cc.gatech.edu/~judy/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Andrej Karpathy",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "vision",
+        "self-driving",
+        "foundation models"
+      ],
+      "status": "phd",
+      "homepage": "https://karpathy.ai/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Olga Russakovsky",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "vision",
+        "fairness",
+        "longtail recognition"
+      ],
+      "status": "phd",
+      "homepage": "https://olga.community/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Hao Su",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "3d vision",
+        "robotics",
+        "autonomous systems"
+      ],
+      "status": "postdoc",
+      "homepage": "https://cseweb.ucsd.edu/~haosu/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Michael Bernstein",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "crowdsourcing",
+        "human-ai interaction"
+      ],
+      "status": "phd",
+      "homepage": "https://hci.stanford.edu/msb/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Adrien Gaidon",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "autonomous driving",
+        "simulated data",
+        "self-supervision"
+      ],
+      "status": "phd",
+      "homepage": "https://researcher.watson.ibm.com/researcher/view.php?person=us-adrien.gaidon",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Xinlei Chen",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "vision foundation models",
+        "masking",
+        "simclr"
+      ],
+      "status": "phd",
+      "homepage": "https://xinleic.xyz/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Yuke Zhu",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "embodied ai",
+        "robot manipulation",
+        "vision+action"
+      ],
+      "status": "phd",
+      "homepage": "https://yzhu.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Alex Ratner",
+      "labs": [
+        "SAIL",
+        "HAI"
+      ],
+      "topics": [
+        "weak supervision",
+        "data-centric ai",
+        "foundation models"
+      ],
+      "status": "phd",
+      "homepage": "https://ajratner.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Paroma Variar",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "weak supervision",
+        "label models",
+        "data programming"
+      ],
+      "status": "phd",
+      "homepage": "https://paromav.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Shiori Sagawa",
+      "labs": [
+        "CRFM",
+        "SAIL"
+      ],
+      "topics": [
+        "distribution shift",
+        "robustness",
+        "evaluation"
+      ],
+      "status": "phd",
+      "homepage": "https://shiorisagawa.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Sanjay Krishna Gouda",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "knowledge distillation",
+        "probabilistic modeling",
+        "semi-supervised"
+      ],
+      "status": "phd",
+      "homepage": "https://cs.stanford.edu/~sgouda/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Raphael Gontijo Lopes",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "foundations",
+        "scaling laws",
+        "vision foundation"
+      ],
+      "status": "postdoc",
+      "homepage": "https://raphaelgontijo.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Sen Wu",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "program synthesis",
+        "data programming",
+        "foundation models"
+      ],
+      "status": "phd",
+      "homepage": "https://senwu.ai/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jason Fries",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "medical ai",
+        "weak supervision",
+        "clinical nlp"
+      ],
+      "status": "postdoc",
+      "homepage": "https://jfries.net/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Henry Ehrenberg",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "weak supervision",
+        "enterprise ai",
+        "data-centric"
+      ],
+      "status": "phd",
+      "homepage": "https://henry.ai/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Stephen Bach",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "knowledge graphs",
+        "data programming",
+        "weak supervision"
+      ],
+      "status": "phd",
+      "homepage": "https://cs.brown.edu/people/sbach/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Julie Ann Nguyen",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "nlp",
+        "semantic parsing",
+        "data-centric ai"
+      ],
+      "status": "phd",
+      "homepage": "https://julieannguyen.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "William L. Hamilton",
+      "labs": [
+        "SAIL",
+        "ML Group"
+      ],
+      "topics": [
+        "graph neural networks",
+        "representation learning",
+        "heterogeneous graphs"
+      ],
+      "status": "phd",
+      "homepage": "https://williamleif.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Bryan Perozzi",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "graph embeddings",
+        "deepwalk",
+        "network representation"
+      ],
+      "status": "phd",
+      "homepage": "https://perozzi.net/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Rex Ying",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "gnn",
+        "graph robustness",
+        "interpretability",
+        "subgraph models"
+      ],
+      "status": "phd",
+      "homepage": "https://cs.yale.edu/people/rex-ying",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Johannes Günther",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "causal graphs",
+        "spurious correlations",
+        "gnn generalization"
+      ],
+      "status": "phd",
+      "homepage": "https://johannesgu.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Haochen Li",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "recommender systems",
+        "pinSage",
+        "graph retrieval"
+      ],
+      "status": "phd",
+      "homepage": "https://haochen-li.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Chenhao Tan",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "social networks",
+        "causal inference",
+        "behavioral modeling"
+      ],
+      "status": "phd",
+      "homepage": "https://chenhaot.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Heng-Tze Chen",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "graph ranking",
+        "recommendation at scale"
+      ],
+      "status": "phd",
+      "homepage": "https://research.google/people/106496/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jiaxuan You",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "graph generation",
+        "gnn autoencoders",
+        "materials design"
+      ],
+      "status": "phd",
+      "homepage": "https://jiaxuanyou.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "C. Daniel Freeman",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "graph embeddings",
+        "active learning",
+        "graph sampling"
+      ],
+      "status": "phd",
+      "homepage": "https://cfreemanf.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Arun Jambulapati",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "graph optimization",
+        "linear systems",
+        "spectral theory"
+      ],
+      "status": "phd",
+      "homepage": "https://ajambulapati.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Ehsan Amid",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "distribution shift",
+        "robustness",
+        "adversarial",
+        "calibration"
+      ],
+      "status": "postdoc",
+      "homepage": "https://amides.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Wei-Lin Chiang",
+      "labs": [
+        "SAIL",
+        "CRFM"
+      ],
+      "topics": [
+        "llm evaluation",
+        "robustness",
+        "alignment",
+        "distribution shift"
+      ],
+      "status": "phd",
+      "homepage": "https://infwinston.github.io//",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Hidenori Takahashi",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "statistical learning",
+        "robust optimization",
+        "safety"
+      ],
+      "status": "phd",
+      "homepage": "https://people.stanford.edu/hidenorit/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Irena Gao",
+      "labs": [
+        "IRIS",
+        "SAIL"
+      ],
+      "topics": [
+        "fairness",
+        "domain shift",
+        "robust rl"
+      ],
+      "status": "phd",
+      "homepage": "https://irenegao.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Hadi Salman",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "certified robustness",
+        "adversarial training"
+      ],
+      "status": "phd",
+      "homepage": "https://hadisalman.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Tianyi Zhang (Hashimoto)",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "test-time adaptation",
+        "self-training",
+        "deadline safety"
+      ],
+      "status": "phd",
+      "homepage": "https://tianyizhang.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Amir Feder",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "bias in ML",
+        "fairness",
+        "causal estimation"
+      ],
+      "status": "postdoc",
+      "homepage": "https://amirfeder.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Edward Pavlick",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "semantics",
+        "natural language inference",
+        "lexical knowledge"
+      ],
+      "status": "phd",
+      "homepage": "https://cs.brown.edu/people/epavlick/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Alan Ritter",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "information extraction",
+        "dialogue",
+        "social nlp"
+      ],
+      "status": "phd",
+      "homepage": "https://aritter.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jason Baldridge",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "syntax",
+        "nlp for vision",
+        "location modeling"
+      ],
+      "status": "phd",
+      "homepage": "http://www.jasonbaldridge.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Emily M. Bender",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "sociolinguistics",
+        "nlp ethics",
+        "typology"
+      ],
+      "status": "phd",
+      "homepage": "https://faculty.washington.edu/ebender/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jennifer E. Arnold",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "pronouns",
+        "referential form",
+        "psycholinguistics"
+      ],
+      "status": "phd",
+      "homepage": "https://arnoldlab.web.unc.edu/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Kristina Toutanova",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "representation learning",
+        "sequence labeling",
+        "pretraining"
+      ],
+      "status": "phd",
+      "homepage": "https://scholar.google.com/citations?user=QH1CtcQAAAAJ",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Eric Fosler-Lussier",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "speech recognition",
+        "prosody",
+        "dialogue"
+      ],
+      "status": "phd",
+      "homepage": "https://web.cse.ohio-state.edu/~fosler-lussier.1/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Zhuoran Liu",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "speech translation",
+        "acoustic modeling",
+        "social speech"
+      ],
+      "status": "phd",
+      "homepage": "https://zliu.co/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "David Jurgens",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "computational social science",
+        "emotion",
+        "discourse"
+      ],
+      "status": "phd",
+      "homepage": "https://jurgens.people.si.umich.edu/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Lara J. Martin",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "narrative nlp",
+        "emotion",
+        "social dialog"
+      ],
+      "status": "phd",
+      "homepage": "https://laramartin.info/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Michael Hahn",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "syntax",
+        "information theory",
+        "surprisal"
+      ],
+      "status": "phd",
+      "homepage": "https://michaelhahn.net/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Ge Gao",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "alignment",
+        "reasoning",
+        "evaluations"
+      ],
+      "status": "phd",
+      "homepage": "https://gogogogao.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Allyson Ettinger",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "psycholinguistics",
+        "model probing",
+        "semantic capacity"
+      ],
+      "status": "phd",
+      "homepage": "https://ling.uchicago.edu/people/allyson-ettinger",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Yin Tat Lee",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "optimization",
+        "algorithmic semantics"
+      ],
+      "status": "phd",
+      "homepage": "https://scholar.google.com/citations?user=UFKohsgAAAAJ",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Ellie Pavlick",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "formal semantics",
+        "nli",
+        "lexical meaning"
+      ],
+      "status": "postdoc",
+      "homepage": "https://epavlick.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Yichen Zhang",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "nlp safety",
+        "toxicity",
+        "social semantics"
+      ],
+      "status": "phd",
+      "homepage": "https://yichenzhang.org/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Reid Pryzant",
+      "labs": [
+        "Stanford NLP Group",
+        "HAI"
+      ],
+      "topics": [
+        "social nlp",
+        "control",
+        "bias",
+        "evaluation"
+      ],
+      "status": "phd",
+      "homepage": "https://rpryzant.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Larry He",
+      "labs": [
+        "Stanford NLP Group",
+        "HAI"
+      ],
+      "topics": [
+        "evaluation",
+        "persuasion",
+        "value modeling",
+        "agents"
+      ],
+      "status": "phd",
+      "homepage": "https://larryhe.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Zeerak Waseem",
+      "labs": [
+        "Stanford NLP Group",
+        "HAI"
+      ],
+      "topics": [
+        "hate speech",
+        "toxicity",
+        "abuse detection"
+      ],
+      "status": "phd",
+      "homepage": "https://zeerakw.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Amanpreet Singh",
+      "labs": [
+        "Stanford NLP Group",
+        "ML Group"
+      ],
+      "topics": [
+        "evaluation",
+        "self-supervision",
+        "representation"
+      ],
+      "status": "phd",
+      "homepage": "https://aman.ai/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jian Guan",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "story generation",
+        "emotion",
+        "dialog"
+      ],
+      "status": "phd",
+      "homepage": "https://guanjian945.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Valentina Pyatkin",
+      "labs": [
+        "Stanford NLP Group",
+        "HAI"
+      ],
+      "topics": [
+        "values",
+        "sociolinguistics",
+        "alignment"
+      ],
+      "status": "phd",
+      "homepage": "https://valentinapy.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Andrey Kurenkov",
+      "labs": [
+        "IRIS",
+        "SAIL"
+      ],
+      "topics": [
+        "interactive rl",
+        "robotics",
+        "human-robot interaction",
+        "safety"
+      ],
+      "status": "phd",
+      "homepage": "https://andrey.ai/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Anca Dragan",
+      "labs": [
+        "IRIS",
+        "SAIL"
+      ],
+      "topics": [
+        "human-aware planning",
+        "robot ethics",
+        "preference learning",
+        "hri"
+      ],
+      "status": "postdoc",
+      "homepage": "https://people.eecs.berkeley.edu/~anca/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Siddharth Nayak",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "control",
+        "safety",
+        "interactive decision making"
+      ],
+      "status": "phd",
+      "homepage": "https://sidnayak.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Hongzi Mao",
+      "labs": [
+        "IRIS",
+        "SAIL"
+      ],
+      "topics": [
+        "autonomous driving",
+        "multi-agent",
+        "policy learning"
+      ],
+      "status": "phd",
+      "homepage": "https://hongzim.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Dimitar Dimitrov",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "embodied ai",
+        "interaction",
+        "motion planning"
+      ],
+      "status": "phd",
+      "homepage": "https://dimitar.ai/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Monica Arango",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "assistive robotics",
+        "task delegation",
+        "hri"
+      ],
+      "status": "phd",
+      "homepage": "https://marango.org/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Brandon Wald",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "policy shaping",
+        "imitation",
+        "human feedback"
+      ],
+      "status": "postdoc",
+      "homepage": "https://brandondwald.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Leigh Hunsberger",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "ergonomics",
+        "motion adaptation",
+        "assistive robots"
+      ],
+      "status": "phd",
+      "homepage": "https://leigh.me/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Sebastian Thrun",
+      "labs": [
+        "ML Group",
+        "SAIL"
+      ],
+      "topics": [
+        "robotics",
+        "autonomous driving",
+        "applied ml"
+      ],
+      "status": "phd",
+      "homepage": "https://www.udacity.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Richard Socher",
+      "labs": [
+        "Stanford NLP Group",
+        "ML Group"
+      ],
+      "topics": [
+        "nlp",
+        "multimodal",
+        "deep learning"
+      ],
+      "status": "phd",
+      "homepage": "https://www.socher.org/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Quoc Le",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "deep learning",
+        "self-training",
+        "generative models"
+      ],
+      "status": "phd",
+      "homepage": "https://research.google/people/quoctle/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Adam Coates",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "large-scale training",
+        "vision",
+        "applied ml"
+      ],
+      "status": "phd",
+      "homepage": "https://coates.ai/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Alex Krizhevsky",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "cnn",
+        "vision",
+        "deep learning"
+      ],
+      "status": "phd",
+      "homepage": "https://scholar.google.com/citations?user=Ib8q5agAAAAJ",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Ian Goodfellow",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "generative models",
+        "gan",
+        "security",
+        "federated learning"
+      ],
+      "status": "phd",
+      "homepage": "https://www.iangoodfellow.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Bryan Catanzaro",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "gpu",
+        "ml systems",
+        "distributed training"
+      ],
+      "status": "phd",
+      "homepage": "https://bcatanzaro.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Volodymyr Mnih",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "deep rl",
+        "value-based control",
+        "scalable agents"
+      ],
+      "status": "phd",
+      "homepage": "https://scholar.google.com/citations?user=lt_OgKQAAAAJ",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Fabian Caba Heilbron",
+      "labs": [
+        "Vision & Learning Lab",
+        "SAIL"
+      ],
+      "topics": [
+        "video understanding",
+        "temporal action localization",
+        "segmentation"
+      ],
+      "status": "phd",
+      "homepage": "https://fabiancaba.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Hao Zhang (Vision)",
+      "labs": [
+        "Vision & Learning Lab",
+        "SAIL"
+      ],
+      "topics": [
+        "video",
+        "representation learning",
+        "activity recognition"
+      ],
+      "status": "phd",
+      "homepage": "https://haozhang.info/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Gunnar A. Sigurdsson",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "egocentric vision",
+        "video actions",
+        "multiview"
+      ],
+      "status": "phd",
+      "homepage": "https://scholar.google.com/citations?user=RrE8W1gAAAAJ",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Hilde Kuehne",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "temporal modeling",
+        "video datasets",
+        "self-supervision"
+      ],
+      "status": "postdoc",
+      "homepage": "https://hildekuehne.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Yue Zhao",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "video",
+        "multi-modal",
+        "benchmarks"
+      ],
+      "status": "phd",
+      "homepage": "https://zhaoyue.one/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jiongxin Liu",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "3d action modeling",
+        "embodied representation",
+        "temporal structure"
+      ],
+      "status": "phd",
+      "homepage": "https://jiongxinliu.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Katie Driggs-Campbell",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "interactive perception",
+        "autonomous systems",
+        "human behavior modeling"
+      ],
+      "status": "phd",
+      "homepage": "https://krdc.web.illinois.edu/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Joon Sung Park",
+      "labs": [
+        "CRFM",
+        "HAI"
+      ],
+      "topics": [
+        "agents",
+        "social simulation",
+        "emergent behavior"
+      ],
+      "status": "phd",
+      "homepage": "https://www.joonsungpark.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Kawin Ethayarajh",
+      "labs": [
+        "CRFM",
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "representation",
+        "similarity metrics",
+        "scaling laws"
+      ],
+      "status": "phd",
+      "homepage": "https://ethayarajh.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jason Wei",
+      "labs": [
+        "CRFM",
+        "SAIL"
+      ],
+      "topics": [
+        "prompting",
+        "chain-of-thought",
+        "alignment"
+      ],
+      "status": "phd",
+      "homepage": "https://jasonwei20.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Thibault Sellam",
+      "labs": [
+        "CRFM"
+      ],
+      "topics": [
+        "evaluation",
+        "benchmarks",
+        "metrics"
+      ],
+      "status": "postdoc",
+      "homepage": "https://tsellam.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Karol Hausman",
+      "labs": [
+        "IRIS",
+        "SAIL",
+        "ML Group"
+      ],
+      "topics": [
+        "robotics",
+        "rl",
+        "policy learning",
+        "physical interaction"
+      ],
+      "status": "phd",
+      "homepage": "https://karolhausman.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Abhishek Gupta",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "offline rl",
+        "robotics",
+        "meta-learning"
+      ],
+      "status": "postdoc",
+      "homepage": "https://abhray.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Lerrel Pinto",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "self-supervised robotics",
+        "dexterity",
+        "autonomy"
+      ],
+      "status": "phd",
+      "homepage": "https://lerrelpinto.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Brandon Amos",
+      "labs": [
+        "IRIS"
+      ],
+      "topics": [
+        "differentiable programming",
+        "optimization",
+        "rl"
+      ],
+      "status": "postdoc",
+      "homepage": "https://bamos.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Stephen H. Bach",
+      "labs": [
+        "SAIL",
+        "ML Group"
+      ],
+      "topics": [
+        "labeling functions",
+        "weak supervision",
+        "structure learning"
+      ],
+      "status": "phd",
+      "homepage": "https://stephen-bach.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Mayee F. Chen",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "data-centric ai",
+        "pretraining",
+        "vision models"
+      ],
+      "status": "phd",
+      "homepage": "https://mayeechen.github.io/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jared Quincy Davis",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "ml systems",
+        "distributed training",
+        "weak supervision"
+      ],
+      "status": "phd",
+      "homepage": "https://jqdavis.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Pan Li",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "graph ml",
+        "system modeling",
+        "weak supervision"
+      ],
+      "status": "postdoc",
+      "homepage": "https://web.ecst.cwru.edu/~pxl275/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Dan Fu",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "efficient fm",
+        "vision foundation models",
+        "distillation"
+      ],
+      "status": "phd",
+      "homepage": "https://danfu.org/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Danqi Chen",
+      "labs": [
+        "Stanford NLP Group",
+        "SAIL"
+      ],
+      "topics": [
+        "qa",
+        "retrieval",
+        "deep learning"
+      ],
+      "status": "phd",
+      "homepage": "https://dchen.ai/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Percy Liang",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "llm",
+        "foundation models",
+        "program synthesis",
+        "evaluation"
+      ],
+      "status": "phd",
+      "homepage": "https://cs.stanford.edu/~pliang/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Christopher Potts",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "semantics",
+        "pragmatics",
+        "safety"
+      ],
+      "status": "phd",
+      "homepage": "https://web.stanford.edu/~cgpotts/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Ashutosh Saxena",
+      "labs": [
+        "Stanford NLP Group",
+        "SAIL"
+      ],
+      "topics": [
+        "robotics",
+        "computer vision",
+        "nlp commands"
+      ],
+      "status": "phd",
+      "homepage": "https://ashutosh.saxena.org/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Yejin Choi",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "commonsense",
+        "multimodal",
+        "alignment"
+      ],
+      "status": "postdoc",
+      "homepage": "https://homes.cs.washington.edu/~yejin/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Yoav Artzi",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "grounded language",
+        "nlp",
+        "robotics natural language"
+      ],
+      "status": "phd",
+      "homepage": "https://yoavartzi.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Eduard Hovy",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "summarization",
+        "information extraction",
+        "nlp evaluation"
+      ],
+      "status": "postdoc",
+      "homepage": "http://www.cs.cmu.edu/~hovy/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Saurabh Garg",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "evaluation",
+        "robustness",
+        "rlhf",
+        "distribution shift"
+      ],
+      "status": "phd",
+      "homepage": "https://cs.stanford.edu/~sgarg/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Xuechen Li",
+      "labs": [
+        "SAIL"
+      ],
+      "topics": [
+        "rlhf",
+        "alignment",
+        "preference learning",
+        "large models"
+      ],
+      "status": "phd",
+      "homepage": "https://cs.stanford.edu/~xuechenl/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Eric Mitchell",
+      "labs": [
+        "CRFM",
+        "SAIL"
+      ],
+      "topics": [
+        "ai safety",
+        "alignment",
+        "data-centric rl",
+        "generative models"
+      ],
+      "status": "phd",
+      "homepage": "https://ericmitchell.ai/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Michele Bevilacqua",
+      "labs": [
+        "Stanford NLP Group"
+      ],
+      "topics": [
+        "evaluation",
+        "safety",
+        "social nlp"
+      ],
+      "status": "postdoc",
+      "homepage": "https://michelebevilacqua.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jia Deng",
+      "labs": [
+        "Vision & Learning Lab",
+        "SAIL"
+      ],
+      "topics": [
+        "computer vision",
+        "imagenet",
+        "representation learning"
+      ],
+      "status": "phd",
+      "homepage": "https://www.cs.princeton.edu/~jia/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Aditya Khosla",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "vision",
+        "metric learning",
+        "medical ai"
+      ],
+      "status": "phd",
+      "homepage": "https://www.csail.mit.edu/person/aditya-khosla",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Lijuan Wang",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "vision-language",
+        "video",
+        "foundation models"
+      ],
+      "status": "postdoc",
+      "homepage": "https://www.microsoft.com/en-us/research/people/lijuanw/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Honglak Lee",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "unsupervised learning",
+        "representation learning",
+        "vision"
+      ],
+      "status": "phd",
+      "homepage": "https://web.eecs.umich.edu/~honglak/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Quoc V. Le",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "deep learning",
+        "sequence modeling",
+        "foundation models"
+      ],
+      "status": "phd",
+      "homepage": "https://research.google/people/author/QuocLe/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Jeff Dean",
+      "labs": [
+        "ML Group"
+      ],
+      "topics": [
+        "ml systems",
+        "scaling",
+        "distributed training"
+      ],
+      "status": "postdoc",
+      "homepage": "https://research.google/people/author/JeffDean/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Ranjay Krishna",
+      "labs": [
+        "Vision & Learning Lab",
+        "SAIL"
+      ],
+      "topics": [
+        "video understanding",
+        "embodied ai",
+        "multimodal foundation models",
+        "datasets"
+      ],
+      "status": "phd",
+      "homepage": "https://ranjaykrishna.com/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Joon-Young Lee",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "video segmentation",
+        "video editing",
+        "tracking"
+      ],
+      "status": "postdoc",
+      "homepage": "https://joonyoung.org/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Fabio Cuzzolin",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "action understanding",
+        "causal video",
+        "3d vision"
+      ],
+      "status": "postdoc",
+      "homepage": "https://cuzzolin.net/",
+      "openalex_id": null,
+      "works": []
+    },
+    {
+      "name": "Wanfeng Jin",
+      "labs": [
+        "Vision & Learning Lab"
+      ],
+      "topics": [
+        "multimodal agents",
+        "video + language",
+        "embodied robotics"
+      ],
+      "status": "phd",
+      "homepage": "https://wanfengjin.github.io/",
+      "openalex_id": null,
+      "works": []
+    }
+  ]
+}
